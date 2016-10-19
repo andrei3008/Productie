@@ -1,0 +1,6 @@
+2016-01-15 08:14:06 VISIT 56989c3eb450d Vizita de la ip 62.231.98.114
+2016-01-15 08:14:10 VISIT 56989c429827f Vizita de la ip 62.231.98.114
+2016-01-15 08:14:10 LOGIN 56989c429827f Utilizatorul red s-a logat pe aplicatie
+2016-01-15 08:29:28 LOGOUT 56989c429827f Utilizatorul red s-a delogat.
+2016-01-15 08:29:28 VISIT 56989fd8936c2 Vizita de la ip 62.231.98.114
+2016-01-15 08:58:30 VISIT 5698a6a66de4f Vizita de la ip 62.231.98.114

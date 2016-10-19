@@ -1,0 +1,21 @@
+2016-01-27 14:01:15 VISIT 56a8b18bf3844 Vizita de la ip 62.231.98.114
+2016-01-27 14:01:19 VISIT 56a8b18fca577 Vizita de la ip 62.231.98.114
+2016-01-27 14:01:19 LOGIN 56a8b18fca577 Utilizatorul red s-a logat pe aplicatie
+2016-01-27 14:01:22 VISIT 56a8b1921ad1a Vizita de la ip 62.231.98.114
+2016-01-27 14:02:14 VISIT 56a8b1c639e78 Vizita de la ip 62.231.98.114
+2016-01-27 14:02:14 LOGIN 56a8b1c639e78 Utilizatorul red s-a logat pe aplicatie
+2016-01-27 14:02:17 LOGOUT 56a8b1c639e78 Utilizatorul red s-a delogat de pe aplicatie
+2016-01-27 14:02:17 VISIT 56a8b1c97b037 Vizita de la ip 62.231.98.114
+2016-01-27 14:03:36 VISIT 56a8b2182e58c Vizita de la ip 62.231.98.114
+2016-01-27 14:03:36 LOGIN 56a8b2182e58c Utilizatorul red s-a logat pe aplicatie
+2016-01-27 14:03:37 VISIT 56a8b2198dbc6 Vizita de la ip 62.231.98.114
+2016-01-27 14:17:57 VISIT 56a8b57509a2c Vizita de la ip 62.231.98.114
+2016-01-27 14:18:17 VISIT 56a8b58912505 Vizita de la ip 62.231.98.114
+2016-01-27 14:18:17 LOGIN 56a8b58912505 Utilizatorul red s-a logat pe aplicatie
+2016-01-27 14:18:34 LOGOUT 56a8b58912505 Utilizatorul red s-a delogat de pe aplicatie
+2016-01-27 14:18:34 VISIT 56a8b59ad6c68 Vizita de la ip 62.231.98.114
+2016-01-27 14:21:52 VISIT 56a8b66028896 Vizita de la ip 62.231.98.114
+2016-01-27 14:21:52 LOGIN 56a8b66028896 Utilizatorul red s-a logat pe aplicatie
+2016-01-27 14:24:39 LOGOUT 56a8b66028896 Utilizatorul red s-a delogat de pe aplicatie
+2016-01-27 14:28:14 VISIT 56a8b7debec18 Vizita de la ip 62.231.98.114
+2016-01-27 14:28:14 LOGIN 56a8b7debec18 Utilizatorul red s-a logat pe aplicatie

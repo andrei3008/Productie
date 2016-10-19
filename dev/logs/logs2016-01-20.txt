@@ -1,0 +1,24 @@
+2016-01-20 07:57:39 VISIT 569f2fe3b70f0 Vizita de la ip 62.231.98.114
+2016-01-20 07:57:54 VISIT 569f2ff2f0e39 Vizita de la ip 62.231.98.114
+2016-01-20 07:57:54 ERROR 569f2ff2f0e39 Utilizatorul red nu a reusit sa se logheze pe aplicatie
+2016-01-20 07:58:01 VISIT 569f2ff954806 Vizita de la ip 62.231.98.114
+2016-01-20 07:58:01 LOGIN 569f2ff954806 Utilizatorul red s-a logat pe aplicatie
+2016-01-20 07:58:12 LOGOUT 569f2ff954806 Utilizatorul red s-a delogat.
+2016-01-20 07:58:12 LOGOUT 569f2ff954806 Utilizatorul red s-a delogat de pe aplicatie
+2016-01-20 07:58:12 VISIT 569f30048d4d3 Vizita de la ip 62.231.98.114
+2016-01-20 08:01:24 VISIT 569f30c47aefe Vizita de la ip 62.231.98.114
+2016-01-20 08:07:47 VISIT 569f324384b26 Vizita de la ip 62.231.98.114
+2016-01-20 08:07:51 VISIT 569f3247dc6dc Vizita de la ip 62.231.98.114
+2016-01-20 08:07:51 LOGIN 569f3247dc6dc Utilizatorul red s-a logat pe aplicatie
+2016-01-20 08:09:13 LOGOUT 569f3247dc6dc Utilizatorul red s-a delogat de pe aplicatie
+2016-01-20 08:09:13 VISIT 569f329986f73 Vizita de la ip 62.231.98.114
+2016-01-20 08:09:16 VISIT 569f329ccc2c5 Vizita de la ip 62.231.98.114
+2016-01-20 08:09:16 LOGIN 569f329ccc2c5 Utilizatorul red s-a logat pe aplicatie
+2016-01-20 08:19:17 LOGOUT 569f329ccc2c5 Utilizatorul red s-a delogat.
+2016-01-20 08:19:17 VISIT 569f34f53f8cc Vizita de la ip 62.231.98.114
+2016-01-20 12:56:49 LOGOUT  Utilizatorul KMRLIBWATS s-a delogat.
+2016-01-20 12:56:50 VISIT 569f760204d50 Vizita de la ip 82.79.220.114
+2016-01-20 13:20:35 VISIT 569f7b939d108 Vizita de la ip 62.231.98.114
+2016-01-20 15:35:57 VISIT 569f9b4df3ec4 Vizita de la ip 62.231.98.114
+2016-01-20 17:43:25 LOGOUT  Utilizatorul KMRLIBWATS s-a delogat.
+2016-01-20 17:43:25 VISIT 569fb92d672bf Vizita de la ip 82.79.220.114

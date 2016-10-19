@@ -1,0 +1,3 @@
+2016-05-11 14:37:30 LOGOUT  Utilizatorul  s-a delogat de pe aplicatie
+2016-05-11 14:45:30 LOGOUT  Utilizatorul  s-a delogat de pe aplicatie
+2016-05-11 14:47:19 LOGOUT  Utilizatorul  s-a delogat de pe aplicatie

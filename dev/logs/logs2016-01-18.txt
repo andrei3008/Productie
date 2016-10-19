@@ -1,0 +1,11 @@
+2016-01-18 14:07:35 VISIT 569ce3979e73d Vizita de la ip 62.231.98.114
+2016-01-18 14:08:02 VISIT 569ce3b238b12 Vizita de la ip 62.231.98.114
+2016-01-18 14:08:02 LOGIN 569ce3b238b12 Utilizatorul red s-a logat pe aplicatie
+2016-01-18 14:12:59 VISIT 569ce4dbc03c7 Vizita de la ip 62.231.98.114
+2016-01-18 14:13:15 VISIT 569ce4eb8e901 Vizita de la ip 62.231.98.114
+2016-01-18 14:13:15 LOGIN 569ce4eb8e901 Utilizatorul red s-a logat pe aplicatie
+2016-01-18 15:30:04 VISIT 569cf6ec7d551 Vizita de la ip 62.231.98.114
+2016-01-18 16:08:05 LOGOUT  Utilizatorul KMRLIBWATS s-a delogat.
+2016-01-18 16:08:05 VISIT 569cffd55c46b Vizita de la ip 82.79.220.114
+2016-01-18 21:27:56 LOGOUT  Utilizatorul KMRLIBWATS s-a delogat.
+2016-01-18 21:27:56 VISIT 569d4acc69eaf Vizita de la ip 82.79.220.114

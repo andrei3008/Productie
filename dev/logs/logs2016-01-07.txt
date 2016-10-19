@@ -1,0 +1,9 @@
+2016-01-07 12:38:47 VISIT o0anq9dbv9uqi29eepj0bba8l5 Vizita de la ip 62.231.98.114
+2016-01-07 14:21:24 LOGOUT 7rppjaftp6fgm0cdpfceeuk464 Utilizatorul  s-a delogat.
+2016-01-07 14:21:24 VISIT 7rppjaftp6fgm0cdpfceeuk464 Vizita de la ip 82.79.220.114
+2016-01-07 14:39:57 VISIT 9jobqbg0am17au1vhjdo3kh1h4 Vizita de la ip 62.231.98.114
+2016-01-07 14:40:04 VISIT 9jobqbg0am17au1vhjdo3kh1h4 Vizita de la ip 62.231.98.114
+2016-01-07 14:40:04 LOGIN 9jobqbg0am17au1vhjdo3kh1h4 Utilizatorul red s-a logat pe aplicatie
+2016-01-07 14:40:06 LOGOUT 9jobqbg0am17au1vhjdo3kh1h4 Utilizatorul red s-a delogat.
+2016-01-07 14:40:06 VISIT 9jobqbg0am17au1vhjdo3kh1h4 Vizita de la ip 62.231.98.114
+2016-01-07 14:49:18 VISIT 8rfqk162d072jq2votfi9mtp70 Vizita de la ip 82.79.220.114

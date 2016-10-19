@@ -1,0 +1,6 @@
+2016-01-16 11:25:48 VISIT 569a1aac767c2 Vizita de la ip 82.79.220.114
+2016-01-16 11:25:50 VISIT 569a1aae5d4b7 Vizita de la ip 82.79.220.114
+2016-01-16 11:25:50 LOGIN 569a1aae5d4b7 Utilizatorul KMRLIBWATS s-a logat pe aplicatie
+2016-01-16 11:35:50 LOGOUT 569a1aae5d4b7 Utilizatorul KMRLIBWATS s-a delogat.
+2016-01-16 11:35:50 LOGOUT 569a1aae5d4b7 Utilizatorul KMRLIBWATS s-a delogat de pe aplicatie
+2016-01-16 11:35:50 VISIT 569a1d068ec06 Vizita de la ip 82.79.220.114

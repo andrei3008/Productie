@@ -1,0 +1,4 @@
+2016-04-02 14:07:37 LOGOUT  Utilizatorul  s-a delogat de pe aplicatie
+2016-04-02 14:09:42 LOGOUT  Utilizatorul  s-a delogat de pe aplicatie
+2016-04-02 14:10:32 LOGOUT  Utilizatorul  s-a delogat de pe aplicatie
+2016-04-02 14:10:33 LOGOUT  Utilizatorul  s-a delogat de pe aplicatie

@@ -1,0 +1,2 @@
+2016-02-01 14:48:10 LOGOUT  Utilizatorul  s-a delogat de pe aplicatie
+2016-02-01 22:48:45 LOGOUT  Utilizatorul  s-a delogat de pe aplicatie

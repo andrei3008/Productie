@@ -1,0 +1,8 @@
+2016-01-11 11:10:19 VISIT 56937f8b8ffc4 Vizita de la ip 62.231.98.114
+2016-01-11 11:29:48 VISIT 5693841c9b907 Vizita de la ip 82.79.220.114
+2016-01-11 12:38:04 VISIT 5693941cd5128 Vizita de la ip 86.122.183.194
+2016-01-11 15:50:36 VISIT 5693c13c9e500 Vizita de la ip 82.79.220.114
+2016-01-11 15:50:52 VISIT 5693c14c2e416 Vizita de la ip 82.79.220.114
+2016-01-11 15:50:52 ERROR 5693c14c2e416 Utilizatorul adi nu a reusit sa se logheze pe aplicatie
+2016-01-11 15:51:04 VISIT 5693c15875633 Vizita de la ip 82.79.220.114
+2016-01-11 15:51:04 ERROR 5693c15875633 Utilizatorul adi nu a reusit sa se logheze pe aplicatie

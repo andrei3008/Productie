@@ -1,0 +1,2 @@
+2016-01-19 15:09:40 LOGOUT  Utilizatorul  s-a delogat.
+2016-01-19 15:09:40 VISIT 569e43a481769 Vizita de la ip 82.79.220.114

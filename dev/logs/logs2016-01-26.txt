@@ -1,0 +1,126 @@
+2016-01-26 06:49:20 VISIT 56a708e09e5e9 Vizita de la ip 82.79.220.114
+2016-01-26 06:49:20 ERROR 56a708e09e5e9 Utilizatorul adi nu a reusit sa se logheze pe aplicatie
+2016-01-26 06:49:21 VISIT 56a708e1cf259 Vizita de la ip 82.79.220.114
+2016-01-26 06:49:21 ERROR 56a708e1cf259 Utilizatorul adi nu a reusit sa se logheze pe aplicatie
+2016-01-26 09:08:36 VISIT 56a729841e023 Vizita de la ip 40.78.146.128
+2016-01-26 09:09:01 LOGOUT  Utilizatorul  s-a delogat.
+2016-01-26 09:09:01 VISIT 56a7299d72feb Vizita de la ip 62.231.98.114
+2016-01-26 09:09:06 VISIT 56a729a201b23 Vizita de la ip 62.231.98.114
+2016-01-26 09:09:06 LOGIN 56a729a201b23 Utilizatorul red s-a logat pe aplicatie
+2016-01-26 09:15:41 VISIT 56a72b2d56a47 Vizita de la ip 62.231.98.114
+2016-01-26 09:15:56 VISIT 56a72b3c6b094 Vizita de la ip 62.231.98.114
+2016-01-26 09:15:56 ERROR 56a72b3c6b094 Utilizatorul adi nu a reusit sa se logheze pe aplicatie
+2016-01-26 09:16:06 VISIT 56a72b466dbb2 Vizita de la ip 62.231.98.114
+2016-01-26 09:16:06 ERROR 56a72b466dbb2 Utilizatorul adi77 nu a reusit sa se logheze pe aplicatie
+2016-01-26 09:16:14 VISIT 56a72b4e9a5c7 Vizita de la ip 62.231.98.114
+2016-01-26 09:16:14 ERROR 56a72b4e9a5c7 Utilizatorul adi nu a reusit sa se logheze pe aplicatie
+2016-01-26 09:16:47 VISIT 56a72b6f2c084 Vizita de la ip 62.231.98.114
+2016-01-26 09:16:47 ERROR 56a72b6f2c084 Utilizatorul adi nu a reusit sa se logheze pe aplicatie
+2016-01-26 09:18:34 VISIT 56a72bdaf0138 Vizita de la ip 82.79.220.114
+2016-01-26 09:18:37 VISIT 56a72bdd1d0e5 Vizita de la ip 82.79.220.114
+2016-01-26 09:18:37 ERROR 56a72bdd1d0e5 Utilizatorul adi nu a reusit sa se logheze pe aplicatie
+2016-01-26 09:18:39 VISIT 56a72bdf8d21f Vizita de la ip 82.79.220.114
+2016-01-26 09:18:39 ERROR 56a72bdf8d21f Utilizatorul adi nu a reusit sa se logheze pe aplicatie
+2016-01-26 09:19:25 VISIT 56a72c0dd8413 Vizita de la ip 82.79.220.114
+2016-01-26 09:19:27 VISIT 56a72c0f87027 Vizita de la ip 82.79.220.114
+2016-01-26 09:19:27 ERROR 56a72c0f87027 Utilizatorul adi nu a reusit sa se logheze pe aplicatie
+2016-01-26 09:20:03 VISIT 56a72c3310dcb Vizita de la ip 82.79.220.114
+2016-01-26 09:20:06 VISIT 56a72c366e010 Vizita de la ip 82.79.220.114
+2016-01-26 09:20:06 ERROR 56a72c366e010 Utilizatorul adi nu a reusit sa se logheze pe aplicatie
+2016-01-26 09:20:07 VISIT 56a72c3769728 Vizita de la ip 82.79.220.114
+2016-01-26 09:20:07 ERROR 56a72c3769728 Utilizatorul adi nu a reusit sa se logheze pe aplicatie
+2016-01-26 09:20:13 LOGOUT 56a729a201b23 Utilizatorul red s-a delogat.
+2016-01-26 09:20:13 VISIT 56a72c3dbad35 Vizita de la ip 62.231.98.114
+2016-01-26 09:22:00 VISIT 56a72ca8db4e8 Vizita de la ip 82.79.220.114
+2016-01-26 09:22:00 ERROR 56a72ca8db4e8 Utilizatorul adi nu a reusit sa se logheze pe aplicatie
+2016-01-26 09:22:01 VISIT 56a72ca9b2642 Vizita de la ip 82.79.220.114
+2016-01-26 09:22:01 ERROR 56a72ca9b2642 Utilizatorul adi nu a reusit sa se logheze pe aplicatie
+2016-01-26 09:25:18 VISIT 56a72d6ea0871 Vizita de la ip 62.231.98.114
+2016-01-26 09:25:26 VISIT 56a72d7699b7f Vizita de la ip 62.231.98.114
+2016-01-26 09:25:26 LOGIN 56a72d7699b7f Utilizatorul red s-a logat pe aplicatie
+2016-01-26 09:25:34 VISIT 56a72d7ec56d5 Vizita de la ip 62.231.98.114
+2016-01-26 09:25:44 VISIT 56a72d8826858 Vizita de la ip 40.78.146.128
+2016-01-26 09:25:50 VISIT 56a72d8e99abb Vizita de la ip 82.79.220.114
+2016-01-26 09:25:52 VISIT 56a72d90498d5 Vizita de la ip 82.79.220.114
+2016-01-26 09:25:52 ERROR 56a72d90498d5 Utilizatorul adi nu a reusit sa se logheze pe aplicatie
+2016-01-26 09:25:53 VISIT 56a72d910c758 Vizita de la ip 82.79.220.114
+2016-01-26 09:25:53 ERROR 56a72d910c758 Utilizatorul adi nu a reusit sa se logheze pe aplicatie
+2016-01-26 09:26:53 VISIT 56a72dcd863c9 Vizita de la ip 82.79.220.114
+2016-01-26 09:26:53 ERROR 56a72dcd863c9 Utilizatorul adi nu a reusit sa se logheze pe aplicatie
+2016-01-26 09:26:54 VISIT 56a72dce8a373 Vizita de la ip 82.79.220.114
+2016-01-26 09:26:54 ERROR 56a72dce8a373 Utilizatorul adi nu a reusit sa se logheze pe aplicatie
+2016-01-26 09:29:11 VISIT 56a72e57cc6ef Vizita de la ip 82.79.220.114
+2016-01-26 09:29:21 VISIT 56a72e61db3e6 Vizita de la ip 82.79.220.114
+2016-01-26 09:29:21 LOGIN 56a72e61db3e6 Utilizatorul red s-a logat pe aplicatie
+2016-01-26 09:39:23 LOGOUT  Utilizatorul  s-a delogat.
+2016-01-26 09:39:23 VISIT 56a730bb2c7fc Vizita de la ip 82.79.220.114
+2016-01-26 09:42:41 VISIT 56a73181aac28 Vizita de la ip 82.79.220.114
+2016-01-26 09:42:41 ERROR 56a73181aac28 Utilizatorul adi nu a reusit sa se logheze pe aplicatie
+2016-01-26 09:42:42 VISIT 56a73182a544b Vizita de la ip 82.79.220.114
+2016-01-26 09:42:42 ERROR 56a73182a544b Utilizatorul adi nu a reusit sa se logheze pe aplicatie
+2016-01-26 09:42:49 LOGOUT  Utilizatorul KMRLIBWATS s-a delogat.
+2016-01-26 09:42:49 VISIT 56a731898bf7d Vizita de la ip 62.231.98.114
+2016-01-26 09:43:16 VISIT 56a731a477c25 Vizita de la ip 62.231.98.114
+2016-01-26 09:43:20 VISIT 56a731a8c58e2 Vizita de la ip 62.231.98.114
+2016-01-26 09:43:20 LOGIN 56a731a8c58e2 Utilizatorul red s-a logat pe aplicatie
+2016-01-26 09:44:05 LOGOUT  Utilizatorul  s-a delogat.
+2016-01-26 09:44:05 VISIT 56a731d523445 Vizita de la ip 82.79.220.114
+2016-01-26 09:46:17 VISIT 56a7325923507 Vizita de la ip 62.231.98.114
+2016-01-26 09:46:20 VISIT 56a7325c5482e Vizita de la ip 62.231.98.114
+2016-01-26 09:46:20 LOGIN 56a7325c5482e Utilizatorul red s-a logat pe aplicatie
+2016-01-26 09:52:55 LOGOUT 56a731d523445 Utilizatorul  s-a delogat.
+2016-01-26 09:52:55 VISIT 56a733e72bd39 Vizita de la ip 82.79.220.114
+2016-01-26 09:56:30 LOGOUT  Utilizatorul  s-a delogat.
+2016-01-26 09:56:30 VISIT 56a734becfd91 Vizita de la ip 62.231.98.114
+2016-01-26 10:01:29 VISIT 56a735e94ca61 Vizita de la ip 62.231.98.114
+2016-01-26 10:01:29 LOGIN 56a735e94ca61 Utilizatorul red s-a logat pe aplicatie
+2016-01-26 10:06:38 LOGOUT 56a735e94ca61 Utilizatorul red s-a delogat de pe aplicatie
+2016-01-26 10:06:38 VISIT 56a7371edcdd6 Vizita de la ip 62.231.98.114
+2016-01-26 10:06:44 VISIT 56a737248f4cf Vizita de la ip 62.231.98.114
+2016-01-26 10:06:44 LOGIN 56a737248f4cf Utilizatorul red s-a logat pe aplicatie
+2016-01-26 10:07:49 VISIT 56a7376553773 Vizita de la ip 62.231.98.114
+2016-01-26 10:07:52 VISIT 56a73768b3953 Vizita de la ip 62.231.98.114
+2016-01-26 10:07:52 LOGIN 56a73768b3953 Utilizatorul red s-a logat pe aplicatie
+2016-01-26 10:08:24 LOGOUT 56a73768b3953 Utilizatorul red s-a delogat de pe aplicatie
+2016-01-26 10:08:24 VISIT 56a7378876e5b Vizita de la ip 62.231.98.114
+2016-01-26 10:08:28 VISIT 56a7378c6e847 Vizita de la ip 62.231.98.114
+2016-01-26 10:08:28 LOGIN 56a7378c6e847 Utilizatorul red s-a logat pe aplicatie
+2016-01-26 10:13:05 VISIT 56a738a13f105 Vizita de la ip 62.231.98.114
+2016-01-26 10:13:08 VISIT 56a738a4298b4 Vizita de la ip 62.231.98.114
+2016-01-26 10:13:08 LOGIN 56a738a4298b4 Utilizatorul red s-a logat pe aplicatie
+2016-01-26 10:16:08 LOGOUT 56a738a4298b4 Utilizatorul red s-a delogat de pe aplicatie
+2016-01-26 10:16:08 VISIT 56a7395893905 Vizita de la ip 62.231.98.114
+2016-01-26 10:16:19 VISIT 56a73963a047d Vizita de la ip 62.231.98.114
+2016-01-26 10:16:19 LOGIN 56a73963a047d Utilizatorul red s-a logat pe aplicatie
+2016-01-26 10:19:39 VISIT 56a73a2b1569f Vizita de la ip 62.231.98.114
+2016-01-26 10:19:42 VISIT 56a73a2e0ed2d Vizita de la ip 62.231.98.114
+2016-01-26 10:19:42 LOGIN 56a73a2e0ed2d Utilizatorul red s-a logat pe aplicatie
+2016-01-26 10:19:56 LOGOUT 56a73a2e0ed2d Utilizatorul red s-a delogat de pe aplicatie
+2016-01-26 10:22:59 LOGOUT 56a73a2e0ed2d Utilizatorul red s-a delogat de pe aplicatie
+2016-01-26 10:22:59 VISIT 56a73af3524f4 Vizita de la ip 62.231.98.114
+2016-01-26 10:23:06 VISIT 56a73afa75051 Vizita de la ip 62.231.98.114
+2016-01-26 10:23:06 LOGIN 56a73afa75051 Utilizatorul red s-a logat pe aplicatie
+2016-01-26 10:27:29 VISIT 56a73c015942e Vizita de la ip 62.231.98.114
+2016-01-26 10:27:42 VISIT 56a73c0e17ff7 Vizita de la ip 62.231.98.114
+2016-01-26 10:27:42 LOGIN 56a73c0e17ff7 Utilizatorul red s-a logat pe aplicatie
+2016-01-26 10:29:00 LOGOUT 56a73c0e17ff7 Utilizatorul red s-a delogat de pe aplicatie
+2016-01-26 10:29:36 LOGOUT 56a73c0e17ff7 Utilizatorul red s-a delogat de pe aplicatie
+2016-01-26 10:44:10 VISIT 56a73fea6b6e4 Vizita de la ip 82.79.220.114
+2016-01-26 10:44:10 ERROR 56a73fea6b6e4 Utilizatorul adi nu a reusit sa se logheze pe aplicatie
+2016-01-26 11:01:32 LOGOUT 56a73afa75051 Utilizatorul red s-a delogat de pe aplicatie
+2016-01-26 11:36:16 LOGOUT 56a74b8839e65 Utilizatorul red s-a delogat de pe aplicatie
+2016-01-26 11:43:17 LOGOUT 56a74b8839e65 Utilizatorul red s-a delogat de pe aplicatie
+2016-01-26 12:20:47 VISIT 56a7568f99c70 Vizita de la ip 62.231.98.114
+2016-01-26 12:20:51 VISIT 56a7569311236 Vizita de la ip 62.231.98.114
+2016-01-26 12:20:51 LOGIN 56a7569311236 Utilizatorul red s-a logat pe aplicatie
+2016-01-26 12:23:40 VISIT 56a7573cdff66 Vizita de la ip 82.79.220.114
+2016-01-26 12:23:40 ERROR 56a7573cdff66 Utilizatorul adi nu a reusit sa se logheze pe aplicatie
+2016-01-26 12:34:09 VISIT 56a759b11e64c Vizita de la ip 104.45.18.178
+2016-01-26 12:36:54 LOGOUT 56a7569311236 Utilizatorul red s-a delogat de pe aplicatie
+2016-01-26 12:41:06 VISIT 56a75b5240ad7 Vizita de la ip 82.79.220.114
+2016-01-26 12:41:08 VISIT 56a75b54b28bb Vizita de la ip 82.79.220.114
+2016-01-26 12:41:08 ERROR 56a75b54b28bb Utilizatorul adi nu a reusit sa se logheze pe aplicatie
+2016-01-26 14:00:14 VISIT 56a76dde51e9a Vizita de la ip 62.231.98.114
+2016-01-26 14:00:17 VISIT 56a76de1a221f Vizita de la ip 62.231.98.114
+2016-01-26 14:00:17 LOGIN 56a76de1a221f Utilizatorul red s-a logat pe aplicatie
+2016-01-26 21:45:57 VISIT 56a7db05422fa Vizita de la ip 104.209.188.207

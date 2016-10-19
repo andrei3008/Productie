@@ -1,0 +1,148 @@
+2016-01-14 02:27:09 VISIT 5696f96daf196 Vizita de la ip 82.79.220.114
+2016-01-14 10:33:51 VISIT 56976b7f1cc41 Vizita de la ip 62.231.98.114
+2016-01-14 10:33:54 VISIT 56976b825223d Vizita de la ip 62.231.98.114
+2016-01-14 10:34:34 VISIT 56976baa3b712 Vizita de la ip 62.231.98.114
+2016-01-14 10:34:36 VISIT 56976bac37a02 Vizita de la ip 62.231.98.114
+2016-01-14 10:34:37 VISIT 56976bade71b5 Vizita de la ip 62.231.98.114
+2016-01-14 10:35:59 VISIT 56976bff580f9 Vizita de la ip 62.231.98.114
+2016-01-14 10:36:10 VISIT 56976c0a1edb3 Vizita de la ip 62.231.98.114
+2016-01-14 10:36:10 LOGIN 56976c0a1edb3 Utilizatorul red s-a logat pe aplicatie
+2016-01-14 10:40:26 VISIT 56976d0a80d28 Vizita de la ip 62.231.98.114
+2016-01-14 10:40:31 VISIT 56976d0f84968 Vizita de la ip 62.231.98.114
+2016-01-14 10:40:31 LOGIN 56976d0f84968 Utilizatorul red s-a logat pe aplicatie
+2016-01-14 10:43:56 VISIT 56976ddcdf991 Vizita de la ip 62.231.98.114
+2016-01-14 10:44:00 VISIT 56976de09ebe6 Vizita de la ip 62.231.98.114
+2016-01-14 10:44:00 LOGIN 56976de09ebe6 Utilizatorul red s-a logat pe aplicatie
+2016-01-14 10:44:04 VISIT 56976de484401 Vizita de la ip 62.231.98.114
+2016-01-14 10:44:07 VISIT 56976de728cd9 Vizita de la ip 62.231.98.114
+2016-01-14 10:44:08 VISIT 56976de80671d Vizita de la ip 62.231.98.114
+2016-01-14 10:44:08 VISIT 56976de88fc62 Vizita de la ip 62.231.98.114
+2016-01-14 10:44:10 VISIT 56976dea343da Vizita de la ip 62.231.98.114
+2016-01-14 10:45:39 VISIT 56976e439ac8e Vizita de la ip 62.231.98.114
+2016-01-14 10:45:42 VISIT 56976e46eae65 Vizita de la ip 62.231.98.114
+2016-01-14 10:45:42 LOGIN 56976e46eae65 Utilizatorul red s-a logat pe aplicatie
+2016-01-14 10:45:44 VISIT 56976e48c87da Vizita de la ip 62.231.98.114
+2016-01-14 10:45:46 VISIT 56976e4a2100d Vizita de la ip 62.231.98.114
+2016-01-14 10:46:56 LOGOUT 56976e4a2100d Utilizatorul  s-a delogat.
+2016-01-14 10:46:56 VISIT 56976e90bf9e8 Vizita de la ip 62.231.98.114
+2016-01-14 10:47:00 VISIT 56976e949b434 Vizita de la ip 62.231.98.114
+2016-01-14 10:47:00 LOGIN 56976e949b434 Utilizatorul red s-a logat pe aplicatie
+2016-01-14 10:47:02 VISIT 56976e966614e Vizita de la ip 62.231.98.114
+2016-01-14 10:47:06 LOGOUT 56976e966614e Utilizatorul  s-a delogat.
+2016-01-14 10:47:06 VISIT 56976e9a478be Vizita de la ip 62.231.98.114
+2016-01-14 10:47:58 VISIT 56976ecea9591 Vizita de la ip 62.231.98.114
+2016-01-14 10:47:58 LOGIN 56976ecea9591 Utilizatorul red s-a logat pe aplicatie
+2016-01-14 10:48:06 LOGOUT  Utilizatorul  s-a delogat.
+2016-01-14 10:48:06 VISIT 56976ed6b8b44 Vizita de la ip 62.231.98.114
+2016-01-14 10:49:13 VISIT 56976f1956e6b Vizita de la ip 62.231.98.114
+2016-01-14 10:49:13 LOGIN 56976f1956e6b Utilizatorul red s-a logat pe aplicatie
+2016-01-14 10:50:51 VISIT 56976f7b2a58f Vizita de la ip 62.231.98.114
+2016-01-14 10:50:52 VISIT 56976f7c575ce Vizita de la ip 62.231.98.114
+2016-01-14 10:50:53 VISIT 56976f7d8526e Vizita de la ip 62.231.98.114
+2016-01-14 10:50:54 VISIT 56976f7e94601 Vizita de la ip 62.231.98.114
+2016-01-14 10:51:02 VISIT 56976f86be5e3 Vizita de la ip 62.231.98.114
+2016-01-14 10:51:05 VISIT 56976f8972311 Vizita de la ip 62.231.98.114
+2016-01-14 10:51:05 LOGIN 56976f8972311 Utilizatorul red s-a logat pe aplicatie
+2016-01-14 10:51:07 VISIT 56976f8b6a7b4 Vizita de la ip 62.231.98.114
+2016-01-14 10:51:37 VISIT 56976fa95dc66 Vizita de la ip 62.231.98.114
+2016-01-14 10:51:37 VISIT 56976fa9df94a Vizita de la ip 62.231.98.114
+2016-01-14 10:51:39 LOGOUT 56976fa9df94a Utilizatorul  s-a delogat.
+2016-01-14 10:51:40 VISIT 56976fac0605e Vizita de la ip 62.231.98.114
+2016-01-14 10:51:42 VISIT 56976fae9ad04 Vizita de la ip 62.231.98.114
+2016-01-14 10:51:42 ERROR 56976fae9ad04 Utilizatorul adi nu a reusit sa se logheze pe aplicatie
+2016-01-14 10:51:45 VISIT 56976fb14730c Vizita de la ip 62.231.98.114
+2016-01-14 10:51:45 LOGIN 56976fb14730c Utilizatorul red s-a logat pe aplicatie
+2016-01-14 10:51:47 VISIT 56976fb337ed0 Vizita de la ip 62.231.98.114
+2016-01-14 10:52:10 LOGOUT  Utilizatorul  s-a delogat.
+2016-01-14 10:52:10 VISIT 56976fca585b4 Vizita de la ip 62.231.98.114
+2016-01-14 10:53:50 VISIT 5697702eaca20 Vizita de la ip 62.231.98.114
+2016-01-14 10:53:50 LOGIN 5697702eaca20 Utilizatorul red s-a logat pe aplicatie
+2016-01-14 10:54:50 VISIT 5697706a3a6f9 Vizita de la ip 62.231.98.114
+2016-01-14 10:54:53 VISIT 5697706d1441e Vizita de la ip 62.231.98.114
+2016-01-14 10:54:53 ERROR 5697706d1441e Utilizatorul adi nu a reusit sa se logheze pe aplicatie
+2016-01-14 10:54:57 VISIT 569770719de7c Vizita de la ip 62.231.98.114
+2016-01-14 10:54:57 LOGIN 569770719de7c Utilizatorul red s-a logat pe aplicatie
+2016-01-14 10:57:44 LOGOUT 569770719de7c Utilizatorul red s-a delogat.
+2016-01-14 10:57:44 VISIT 56977118f0b8f Vizita de la ip 62.231.98.114
+2016-01-14 10:58:21 VISIT 5697713d0f936 Vizita de la ip 62.231.98.114
+2016-01-14 10:58:21 LOGIN 5697713d0f936 Utilizatorul red s-a logat pe aplicatie
+2016-01-14 10:58:24 LOGOUT  Utilizatorul  s-a delogat.
+2016-01-14 11:02:57 VISIT 569772514b80b Vizita de la ip 62.231.98.114
+2016-01-14 11:02:59 VISIT 56977253d0f76 Vizita de la ip 62.231.98.114
+2016-01-14 11:02:59 LOGIN 56977253d0f76 Utilizatorul red s-a logat pe aplicatie
+2016-01-14 11:03:06 LOGOUT 56977253d0f76 Utilizatorul red s-a delogat de pe aplicatie
+2016-01-14 11:03:06 LOGOUT  Utilizatorul  s-a delogat.
+2016-01-14 11:14:01 LOGOUT  Utilizatorul  s-a delogat.
+2016-01-14 11:14:17 VISIT 569774f949d5b Vizita de la ip 62.231.98.114
+2016-01-14 11:14:20 VISIT 569774fc8f0b8 Vizita de la ip 62.231.98.114
+2016-01-14 11:14:20 LOGIN 569774fc8f0b8 Utilizatorul red s-a logat pe aplicatie
+2016-01-14 11:14:22 LOGOUT  Utilizatorul  s-a delogat.
+2016-01-14 11:16:27 VISIT 5697757ba84ba Vizita de la ip 62.231.98.114
+2016-01-14 11:16:30 VISIT 5697757e4a81b Vizita de la ip 62.231.98.114
+2016-01-14 11:16:30 LOGIN 5697757e4a81b Utilizatorul red s-a logat pe aplicatie
+2016-01-14 11:19:59 VISIT 5697764f04637 Vizita de la ip 62.231.98.114
+2016-01-14 11:20:07 VISIT 5697765741fd8 Vizita de la ip 62.231.98.114
+2016-01-14 11:20:07 LOGIN 5697765741fd8 Utilizatorul red s-a logat pe aplicatie
+2016-01-14 11:20:11 VISIT 5697765b8ba39 Vizita de la ip 62.231.98.114
+2016-01-14 11:20:16 VISIT 5697766048cc3 Vizita de la ip 62.231.98.114
+2016-01-14 11:20:17 LOGOUT 5697766048cc3 Utilizatorul  s-a delogat.
+2016-01-14 11:20:17 VISIT 5697766185465 Vizita de la ip 62.231.98.114
+2016-01-14 11:20:20 VISIT 56977664add5a Vizita de la ip 62.231.98.114
+2016-01-14 11:20:20 LOGIN 56977664add5a Utilizatorul red s-a logat pe aplicatie
+2016-01-14 11:20:22 VISIT 569776660d9ef Vizita de la ip 62.231.98.114
+2016-01-14 11:21:30 VISIT 569776aa3ac6a Vizita de la ip 62.231.98.114
+2016-01-14 11:21:33 VISIT 569776ad4938d Vizita de la ip 62.231.98.114
+2016-01-14 11:21:33 LOGIN 569776ad4938d Utilizatorul red s-a logat pe aplicatie
+2016-01-14 11:22:15 VISIT 569776d7b3b55 Vizita de la ip 62.231.98.114
+2016-01-14 11:22:18 VISIT 569776db00687 Vizita de la ip 62.231.98.114
+2016-01-14 11:22:18 LOGIN 569776db00687 Utilizatorul red s-a logat pe aplicatie
+2016-01-14 11:22:21 VISIT 569776dd22bcf Vizita de la ip 62.231.98.114
+2016-01-14 11:22:25 VISIT 569776e1da257 Vizita de la ip 62.231.98.114
+2016-01-14 11:22:52 VISIT 569776fc19cdb Vizita de la ip 62.231.98.114
+2016-01-14 11:22:54 VISIT 569776fe388a1 Vizita de la ip 62.231.98.114
+2016-01-14 11:22:54 LOGIN 569776fe388a1 Utilizatorul red s-a logat pe aplicatie
+2016-01-14 11:22:57 VISIT 56977701347f1 Vizita de la ip 62.231.98.114
+2016-01-14 11:24:06 LOGOUT 56977701347f1 Utilizatorul  s-a delogat.
+2016-01-14 11:24:06 VISIT 56977746a1618 Vizita de la ip 62.231.98.114
+2016-01-14 11:24:09 VISIT 569777494267b Vizita de la ip 62.231.98.114
+2016-01-14 11:24:09 LOGIN 569777494267b Utilizatorul red s-a logat pe aplicatie
+2016-01-14 11:24:10 VISIT 5697774aa97af Vizita de la ip 62.231.98.114
+2016-01-14 11:24:17 LOGOUT 5697774aa97af Utilizatorul  s-a delogat.
+2016-01-14 11:24:17 VISIT 5697775133571 Vizita de la ip 62.231.98.114
+2016-01-14 11:25:03 VISIT 5697777f98e42 Vizita de la ip 62.231.98.114
+2016-01-14 11:25:03 LOGIN 5697777f98e42 Utilizatorul red s-a logat pe aplicatie
+2016-01-14 11:25:05 VISIT 56977781a81a8 Vizita de la ip 62.231.98.114
+2016-01-14 11:25:28 VISIT 56977798ca88e Vizita de la ip 62.231.98.114
+2016-01-14 11:25:31 VISIT 5697779b46fe5 Vizita de la ip 62.231.98.114
+2016-01-14 11:25:31 ERROR 5697779b46fe5 Utilizatorul  nu a reusit sa se logheze pe aplicatie
+2016-01-14 11:25:34 VISIT 5697779e4932d Vizita de la ip 62.231.98.114
+2016-01-14 11:25:34 LOGIN 5697779e4932d Utilizatorul red s-a logat pe aplicatie
+2016-01-14 11:25:35 VISIT 5697779f6f6dd Vizita de la ip 62.231.98.114
+2016-01-14 11:25:56 LOGOUT 5697779f6f6dd Utilizatorul  s-a delogat.
+2016-01-14 11:25:56 VISIT 569777b4e7b4f Vizita de la ip 62.231.98.114
+2016-01-14 11:26:18 VISIT 569777ca32727 Vizita de la ip 62.231.98.114
+2016-01-14 11:26:22 VISIT 569777ce67eaf Vizita de la ip 62.231.98.114
+2016-01-14 11:26:22 LOGIN 569777ce67eaf Utilizatorul red s-a logat pe aplicatie
+2016-01-14 11:26:31 LOGOUT 569777ce67eaf Utilizatorul red s-a delogat de pe aplicatie
+2016-01-14 11:26:31 LOGOUT  Utilizatorul  s-a delogat.
+2016-01-14 11:26:31 VISIT 569777d7a8c16 Vizita de la ip 62.231.98.114
+2016-01-14 11:29:51 VISIT 5697789faa0f9 Vizita de la ip 62.231.98.114
+2016-01-14 11:29:51 LOGIN 5697789faa0f9 Utilizatorul red s-a logat pe aplicatie
+2016-01-14 11:30:08 LOGOUT 5697789faa0f9 Utilizatorul red s-a delogat de pe aplicatie
+2016-01-14 11:30:08 LOGOUT  Utilizatorul  s-a delogat.
+2016-01-14 11:30:08 VISIT 569778b08890f Vizita de la ip 62.231.98.114
+2016-01-14 11:58:57 VISIT 56977f71eeb3a Vizita de la ip 62.231.98.114
+2016-01-14 11:59:01 VISIT 56977f75db981 Vizita de la ip 62.231.98.114
+2016-01-14 11:59:01 LOGIN 56977f75db981 Utilizatorul red s-a logat pe aplicatie
+2016-01-14 12:00:02 LOGOUT 56977f75db981 Utilizatorul red s-a delogat.
+2016-01-14 12:00:02 VISIT 56977fb21841b Vizita de la ip 62.231.98.114
+2016-01-14 12:00:08 VISIT 56977fb8422f6 Vizita de la ip 62.231.98.114
+2016-01-14 12:00:08 LOGIN 56977fb8422f6 Utilizatorul red s-a logat pe aplicatie
+2016-01-14 12:01:08 LOGOUT 56977fb8422f6 Utilizatorul red s-a delogat.
+2016-01-14 12:01:08 VISIT 56977ff48f0ba Vizita de la ip 62.231.98.114
+2016-01-14 13:50:53 VISIT 569799add4aff Vizita de la ip 62.231.98.114
+2016-01-14 13:50:58 VISIT 569799b233c64 Vizita de la ip 62.231.98.114
+2016-01-14 13:50:58 LOGIN 569799b233c64 Utilizatorul red s-a logat pe aplicatie
+2016-01-14 13:55:02 LOGOUT 569799b233c64 Utilizatorul red s-a delogat de pe aplicatie
+2016-01-14 13:55:02 LOGOUT 569799b233c64 Utilizatorul red s-a delogat.
+2016-01-14 13:55:02 VISIT 56979aa625720 Vizita de la ip 62.231.98.114

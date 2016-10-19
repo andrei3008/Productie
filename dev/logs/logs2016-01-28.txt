@@ -1,0 +1,21 @@
+2016-01-28 13:29:45 VISIT 56a9fba94b1cb Vizita de la ip 62.231.98.114
+2016-01-28 13:29:47 VISIT 56a9fbab4ee88 Vizita de la ip 62.231.98.114
+2016-01-28 13:29:47 LOGIN 56a9fbab4ee88 Utilizatorul red s-a logat pe aplicatie
+2016-01-28 13:29:58 LOGOUT 56a9fbab4ee88 Utilizatorul red s-a delogat de pe aplicatie
+2016-01-28 13:33:12 LOGOUT  Utilizatorul  s-a delogat de pe aplicatie
+2016-01-28 13:33:23 LOGOUT  Utilizatorul  s-a delogat de pe aplicatie
+2016-01-28 13:34:00 LOGOUT  Utilizatorul  s-a delogat de pe aplicatie
+2016-01-28 13:38:12 LOGOUT  Utilizatorul  s-a delogat de pe aplicatie
+2016-01-28 15:20:46 LOGOUT  Utilizatorul  s-a delogat de pe aplicatie
+2016-01-28 15:20:49 LOGOUT  Utilizatorul  s-a delogat de pe aplicatie
+2016-01-28 15:48:16 LOGOUT  Utilizatorul  s-a delogat de pe aplicatie
+2016-01-28 15:48:42 LOGOUT  Utilizatorul  s-a delogat de pe aplicatie
+2016-01-28 15:49:48 LOGOUT  Utilizatorul  s-a delogat de pe aplicatie
+2016-01-28 15:49:48 VISIT 56aa1c7c92879 Vizita de la ip 82.79.220.114
+2016-01-28 15:49:55 LOGOUT 56aa1c7c92879 Utilizatorul  s-a delogat de pe aplicatie
+2016-01-28 15:50:14 LOGOUT 56aa1c7c92879 Utilizatorul  s-a delogat de pe aplicatie
+2016-01-28 15:50:26 LOGOUT  Utilizatorul  s-a delogat de pe aplicatie
+2016-01-28 15:51:14 LOGOUT  Utilizatorul  s-a delogat de pe aplicatie
+2016-01-28 15:52:07 LOGOUT  Utilizatorul  s-a delogat de pe aplicatie
+2016-01-28 15:53:39 LOGOUT  Utilizatorul  s-a delogat de pe aplicatie
+2016-01-28 16:18:03 LOGOUT  Utilizatorul  s-a delogat de pe aplicatie

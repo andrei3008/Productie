@@ -1,0 +1,57 @@
+2016-01-25 13:39:33 LOGOUT  Utilizatorul KMRLIBWATS s-a delogat.
+2016-01-25 13:39:33 VISIT 56a617852d89c Vizita de la ip 82.79.220.114
+2016-01-25 13:39:44 LOGOUT 56a617852d89c Utilizatorul  s-a delogat.
+2016-01-25 13:39:44 VISIT 56a617902d17f Vizita de la ip 82.79.220.114
+2016-01-25 13:46:58 VISIT 56a61942b3a42 Vizita de la ip 82.79.220.114
+2016-01-25 13:46:58 ERROR 56a61942b3a42 Utilizatorul adi nu a reusit sa se logheze pe aplicatie
+2016-01-25 13:46:59 VISIT 56a61943f3bc1 Vizita de la ip 82.79.220.114
+2016-01-25 13:46:59 ERROR 56a61943f3bc1 Utilizatorul adi nu a reusit sa se logheze pe aplicatie
+2016-01-25 14:33:12 VISIT 56a62418b119d Vizita de la ip 213.177.21.162
+2016-01-25 14:33:40 VISIT 56a62434af2b5 Vizita de la ip 213.177.21.162
+2016-01-25 14:33:40 LOGIN 56a62434af2b5 Utilizatorul KMRLIBWATS s-a logat pe aplicatie
+2016-01-25 14:38:28 VISIT 56a625544b803 Vizita de la ip 213.177.21.162
+2016-01-25 14:39:12 VISIT 56a6258041b58 Vizita de la ip 213.177.21.162
+2016-01-25 14:39:47 VISIT 56a625a3cfffe Vizita de la ip 213.177.21.162
+2016-01-25 14:39:47 LOGIN 56a625a3cfffe Utilizatorul KMRLIBWATS s-a logat pe aplicatie
+2016-01-25 14:49:10 VISIT 56a627d62633b Vizita de la ip 213.177.21.162
+2016-01-25 14:49:11 VISIT 56a627d7634ad Vizita de la ip 213.177.21.162
+2016-01-25 14:49:55 VISIT 56a6280343ca2 Vizita de la ip 213.177.21.162
+2016-01-25 14:49:55 LOGIN 56a6280343ca2 Utilizatorul KMRLIBWATS s-a logat pe aplicatie
+2016-01-25 14:59:56 LOGOUT 56a6280343ca2 Utilizatorul KMRLIBWATS s-a delogat.
+2016-01-25 14:59:56 LOGOUT 56a6280343ca2 Utilizatorul KMRLIBWATS s-a delogat de pe aplicatie
+2016-01-25 14:59:56 VISIT 56a62a5c23247 Vizita de la ip 213.177.21.162
+2016-01-25 15:02:25 VISIT 56a62af169c9c Vizita de la ip 62.231.98.114
+2016-01-25 15:02:36 VISIT 56a62afca5901 Vizita de la ip 62.231.98.114
+2016-01-25 15:02:36 LOGIN 56a62afca5901 Utilizatorul red s-a logat pe aplicatie
+2016-01-25 15:12:37 LOGOUT 56a62afca5901 Utilizatorul red s-a delogat.
+2016-01-25 15:12:37 VISIT 56a62d550a491 Vizita de la ip 62.231.98.114
+2016-01-25 15:38:46 VISIT 56a6337693dad Vizita de la ip 62.231.98.114
+2016-01-25 15:38:50 VISIT 56a6337a38bee Vizita de la ip 62.231.98.114
+2016-01-25 15:38:50 LOGIN 56a6337a38bee Utilizatorul red s-a logat pe aplicatie
+2016-01-25 15:40:42 LOGOUT 56a6337a38bee Utilizatorul red s-a delogat de pe aplicatie
+2016-01-25 15:40:42 LOGOUT 56a6337a38bee Utilizatorul red s-a delogat.
+2016-01-25 15:40:42 VISIT 56a633eab79dd Vizita de la ip 62.231.98.114
+2016-01-25 16:23:34 VISIT 56a63df6c9a33 Vizita de la ip 82.79.220.114
+2016-01-25 16:23:36 VISIT 56a63df8f1fcd Vizita de la ip 82.79.220.114
+2016-01-25 16:23:36 ERROR 56a63df8f1fcd Utilizatorul adi nu a reusit sa se logheze pe aplicatie
+2016-01-25 16:23:38 VISIT 56a63dfa48adb Vizita de la ip 82.79.220.114
+2016-01-25 16:23:38 ERROR 56a63dfa48adb Utilizatorul adi nu a reusit sa se logheze pe aplicatie
+2016-01-25 16:23:39 VISIT 56a63dfb51f26 Vizita de la ip 82.79.220.114
+2016-01-25 16:23:39 ERROR 56a63dfb51f26 Utilizatorul adi nu a reusit sa se logheze pe aplicatie
+2016-01-25 16:23:40 VISIT 56a63dfc45453 Vizita de la ip 82.79.220.114
+2016-01-25 16:23:40 ERROR 56a63dfc45453 Utilizatorul adi nu a reusit sa se logheze pe aplicatie
+2016-01-25 16:24:24 VISIT 56a63e2877303 Vizita de la ip 82.79.220.114
+2016-01-25 16:24:24 ERROR 56a63e2877303 Utilizatorul adi nu a reusit sa se logheze pe aplicatie
+2016-01-25 16:26:16 VISIT 56a63e9880079 Vizita de la ip 62.231.98.114
+2016-01-25 16:32:11 VISIT 56a63ffbec63d Vizita de la ip 82.79.220.114
+2016-01-25 16:32:13 VISIT 56a63ffd1e260 Vizita de la ip 82.79.220.114
+2016-01-25 16:32:13 ERROR 56a63ffd1e260 Utilizatorul adi nu a reusit sa se logheze pe aplicatie
+2016-01-25 16:32:13 VISIT 56a63ffdecbfc Vizita de la ip 82.79.220.114
+2016-01-25 16:32:13 ERROR 56a63ffdecbfc Utilizatorul adi nu a reusit sa se logheze pe aplicatie
+2016-01-25 18:08:00 VISIT 56a6567046f56 Vizita de la ip 82.79.220.114
+2016-01-25 18:08:00 ERROR 56a6567046f56 Utilizatorul adi nu a reusit sa se logheze pe aplicatie
+2016-01-25 18:08:01 VISIT 56a6567191f3e Vizita de la ip 82.79.220.114
+2016-01-25 18:08:01 ERROR 56a6567191f3e Utilizatorul adi nu a reusit sa se logheze pe aplicatie
+2016-01-25 18:48:49 VISIT 56a6600177a41 Vizita de la ip 62.231.98.114
+2016-01-25 18:48:53 LOGOUT  Utilizatorul KMRLIBWATS s-a delogat.
+2016-01-25 18:48:53 VISIT 56a66005d4f80 Vizita de la ip 62.231.98.114

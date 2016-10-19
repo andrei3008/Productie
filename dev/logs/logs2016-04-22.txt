@@ -1,0 +1,9 @@
+2016-04-22 14:12:23 VISIT 571a07174cd7f Vizita de la ip 62.231.98.114
+2016-04-22 14:12:28 VISIT 571a071cab580 Vizita de la ip 62.231.98.114
+2016-04-22 14:12:28 ERROR 571a071cab580 Utilizatorul adi nu a reusit sa se logheze pe aplicatie
+2016-04-22 14:12:30 VISIT 571a071ea9f98 Vizita de la ip 62.231.98.114
+2016-04-22 14:12:30 ERROR 571a071ea9f98 Utilizatorul adi nu a reusit sa se logheze pe aplicatie
+2016-04-22 14:12:42 VISIT 571a072ab242f Vizita de la ip 62.231.98.114
+2016-04-22 14:12:42 ERROR 571a072ab242f Utilizatorul amp nu a reusit sa se logheze pe aplicatie
+2016-04-22 14:21:23 VISIT 571a09337acb6 Vizita de la ip 62.231.98.114
+2016-04-22 14:21:23 LOGIN 571a09337acb6 Utilizatorul red s-a logat pe aplicatie
