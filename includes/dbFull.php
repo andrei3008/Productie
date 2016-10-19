@@ -2372,4 +2372,4 @@ class dbFull extends mysqli
 
 }
 
-$db = new dbFull('localhost', 'shorek', 'BudsSql7','brunersrl');
+$db = new dbFull('localhost', 'root', '','brunersrl');

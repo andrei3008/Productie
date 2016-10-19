@@ -2,7 +2,7 @@
 require_once('../includes/dbFull.php');
 require_once('../classes/PageClass.php');
 require_once('../classes/PHPExcel.php');
-$db = new dbFull("localhost",'shorek','BudsSql7');
+$db = new dbFull("localhost",'root','');
 
 $page = new PageClass();
 

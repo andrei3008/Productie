@@ -1,5 +1,5 @@
 <?php
-require_once "autoloader.php";
+require_once 'autoloader.php';
 require_once('uploadFile.php');
 require_once "includes/class.db.php";
 require_once "includes/class.databFull.php";

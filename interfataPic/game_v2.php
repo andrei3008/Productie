@@ -7,7 +7,7 @@ require_once('../includes/class.db.php');
 $appSettings = new SessionClass();
 $page = new PageClass();
 $database = new DataConnection();
-$datab = new datab('', 'shorek', 'BudsSql7', 'localhost', 'brunersrl', array());
+$datab = new datab('', 'root', '', 'localhost', 'brunersrl', array());
 $aparateMapper = new AparateMapper($database, $appSettings);
 $macPicMapper = new MacPicMapper($database, $appSettings);
 $locatiiMapper = new LocatiiMaper($database, $appSettings);

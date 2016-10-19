@@ -2,8 +2,8 @@
 
 session_start();
 $dbHost = "localhost";
-$dbUser = "adi";
-$dbPass = "adi77";
+$dbUser = "root";
+$dbPass = "";
 
 $con = new mysqli($dbHost, $dbUser, $dbPass);
 if ($con->connect_errno) {

@@ -2,8 +2,8 @@
 
 class DataConnection extends PDO{
     private $host = 'localhost';
-    private $user = 'shorek';
-    private $password = 'BudsSql7';
+    private $user = 'root';
+    private $password = '';
     private $database = 'brunersrl';
 
 
