@@ -1,0 +1,126 @@
+/*----------------------------------------------
+	COMMON
+----------------------------------------------*/
+.fullw {
+	width: 100% !important;
+}
+.center {
+	text-align: center;
+}
+#loading {
+	position: fixed;
+	top: 0;
+	right: 0;
+	bottom: 0;
+	left: 0;
+	z-index: 1050;
+	background-color: #000;
+	opacity: 0.5;
+	filter: alpha(opacity=50);
+	display: none;
+}
+#loading img {
+	width: 50px;
+	position: absolute;
+	top: 0;
+	right: 0;
+	bottom: 0;
+	left: 0;
+	margin: auto;
+}
+/*----------------------------------------------
+	GENERARE ZILE LUNA CURENTA SAU SELECTATA 
+----------------------------------------------*/
+.month-days {
+    width: 30px;
+    float: left;
+    margin: 3px;
+    text-align: center;
+    border: 1px solid #000;
+	border-radius: 4px;
+	height: 45px;
+	cursor: pointer
+}
+.month-days span {
+	display: block
+}
+.month-days.active, .month-days:hover {
+	background: #fff
+}
+.filter {
+    background: #E1E1D5;
+}
+/*----------------------------------------------
+	GENERARE TABEL RAPORT
+----------------------------------------------*/
+#raport2, #raport {
+	width: 100%;
+	overflow: scroll;
+}
+#tabel-raport-head {
+	width: 100%;
+	margin-top: 20px;
+	border: 1px solid #000;	
+	position: relative;
+}
+#tabel-raport-head td {
+	padding: 5px;
+	border: 1px solid $ccc;
+}
+#date-firma span, #data-raport span, #title {
+	font-weight: bold
+}
+#date-firma span, #nume_firma {
+    color: #4DD0DE;
+}
+#title {
+	font-size: 14px;
+}
+#inc2 td {
+	text-align: center;
+	font-size: 12px;
+	border: 1px solid;
+}
+.bk2 {
+    background: #f4f4f4;
+}
+.bk1 td, .bk2 td{
+	border: 1px dotted;
+	text-align: center;
+}
+#head td, #inc td {
+	border: 1px solid;
+	text-align: center;
+}
+#head td {
+	background: #EEEEEE;
+	font-size: 12px;
+}
+#inc td {
+    background: #F9F9F9;
+    font-size: 11px;
+}
+
+.panel-heading {
+    position: relative;
+}
+.btn-rapoarte {
+	position: absolute;
+	top: 10px;
+}
+.btn-sil {
+	right: 32px;
+}
+.btn-siz {
+	right: 120px;
+}
+.btn-print-group-current {
+	position: absolute;
+	top: 5px;
+	right: 5px;
+}
+@media screen and (min-width: 992px) {
+	.modal-lg {
+	    width: 992px;
+	}
+}

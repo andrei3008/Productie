@@ -1,0 +1,22 @@
+2016-08-17 10:29:54 VISIT 57b4127246cfc Vizita de la ip 62.231.98.114
+2016-08-17 10:30:02 VISIT 57b4127aeddce Vizita de la ip 62.231.98.114
+2016-08-17 10:30:03 VISIT 57b4127b015e5 Vizita de la ip 62.231.98.114
+2016-08-17 10:30:05 VISIT 57b4127d1d32d Vizita de la ip 62.231.98.114
+2016-08-17 10:30:05 VISIT 57b4127d2503c Vizita de la ip 62.231.98.114
+2016-08-17 10:30:05 VISIT 57b4127d289e1 Vizita de la ip 62.231.98.114
+2016-08-17 10:30:05 VISIT 57b4127d289e1 Vizita de la ip 62.231.98.114
+2016-08-17 11:00:45 LOGOUT 57b4127d289e1 Utilizatorul  s-a delogat de pe aplicatie
+2016-08-17 11:00:45 LOGOUT  Utilizatorul  s-a delogat de pe aplicatie
+2016-08-17 11:00:45 LOGOUT  Utilizatorul  s-a delogat de pe aplicatie
+2016-08-17 11:00:45 LOGOUT  Utilizatorul  s-a delogat de pe aplicatie
+2016-08-17 11:00:45 LOGOUT  Utilizatorul  s-a delogat de pe aplicatie
+2016-08-17 11:00:45 LOGOUT  Utilizatorul  s-a delogat de pe aplicatie
+2016-08-17 11:00:45 LOGOUT  Utilizatorul  s-a delogat de pe aplicatie
+2016-08-17 11:00:45 LOGOUT  Utilizatorul  s-a delogat de pe aplicatie
+2016-08-17 11:00:45 LOGOUT  Utilizatorul  s-a delogat de pe aplicatie
+2016-08-17 11:00:45 VISIT 57b419add53f2 Vizita de la ip 62.231.98.114
+2016-08-17 11:00:55 LOGOUT 57b419add53f2 Utilizatorul  s-a delogat de pe aplicatie
+2016-08-17 11:00:55 LOGOUT 57b419add53f2 Utilizatorul  s-a delogat de pe aplicatie
+2016-08-17 11:00:56 VISIT 57b419b800f18 Vizita de la ip 62.231.98.114
+2016-08-17 11:00:56 ERROR 57b419b800f18 Utilizatorul adi nu a reusit sa se logheze pe aplicatie
+2016-08-17 11:01:07 LOGOUT 57b419b800f18 Utilizatorul  s-a delogat de pe aplicatie

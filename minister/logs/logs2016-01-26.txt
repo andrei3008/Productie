@@ -1,0 +1,144 @@
+2016-01-26 07:39:34 VISIT 56a714a664cbe Vizita de la ip 213.177.21.162
+2016-01-26 07:40:52 VISIT 56a714f4170ac Vizita de la ip 213.177.21.162
+2016-01-26 07:40:52 LOGIN 56a714f4170ac Utilizatorul STAWBILRMK s-a logat pe aplicatie
+2016-01-26 07:40:52 LOGOUT 56a714f4170ac Utilizatorul STAWBILRMK s-a logat pe aplicatie
+2016-01-26 07:44:30 VISIT 56a715ce856aa Vizita de la ip 213.177.21.162
+2016-01-26 07:45:06 VISIT 56a715f2ef855 Vizita de la ip 213.177.21.162
+2016-01-26 07:45:32 VISIT 56a7160c26d81 Vizita de la ip 213.177.21.162
+2016-01-26 07:45:32 LOGIN 56a7160c26d81 Utilizatorul STAWBILRMK s-a logat pe aplicatie
+2016-01-26 07:45:32 LOGOUT 56a7160c26d81 Utilizatorul STAWBILRMK s-a logat pe aplicatie
+2016-01-26 07:46:36 VISIT 56a7164c108f8 Vizita de la ip 213.177.21.162
+2016-01-26 07:46:48 VISIT 56a71658e7d0f Vizita de la ip 213.177.21.162
+2016-01-26 07:46:48 VISIT 56a71658eedc1 Vizita de la ip 213.177.21.162
+2016-01-26 07:47:15 VISIT 56a7167309822 Vizita de la ip 213.177.21.162
+2016-01-26 07:47:34 VISIT 56a7168657453 Vizita de la ip 213.177.21.162
+2016-01-26 07:47:34 LOGIN 56a7168657453 Utilizatorul STAWBILRMK s-a logat pe aplicatie
+2016-01-26 07:47:34 LOGOUT 56a7168657453 Utilizatorul STAWBILRMK s-a delogat de pe aplicatie
+2016-01-26 07:47:48 VISIT 56a716947b003 Vizita de la ip 213.177.21.162
+2016-01-26 07:49:33 VISIT 56a716fdd8de6 Vizita de la ip 62.231.98.114
+2016-01-26 07:59:34 VISIT 56a7195605360 Vizita de la ip 62.231.98.114
+2016-01-26 08:09:34 VISIT 56a71bae240c7 Vizita de la ip 62.231.98.114
+2016-01-26 08:12:29 VISIT 56a71c5d87a30 Vizita de la ip 62.231.98.114
+2016-01-26 08:19:34 VISIT 56a71e0644c45 Vizita de la ip 62.231.98.114
+2016-01-26 08:22:32 VISIT 56a71eb878ca9 Vizita de la ip 62.231.98.114
+2016-01-26 08:23:12 VISIT 56a71ee0b3d5e Vizita de la ip 62.231.98.114
+2016-01-26 08:23:12 ERROR 56a71ee0b3d5e Utilizatorul amp nu a reusit sa se logheze pe aplicatie
+2016-01-26 08:23:18 VISIT 56a71ee61f021 Vizita de la ip 62.231.98.114
+2016-01-26 08:23:18 LOGIN 56a71ee61f021 Utilizatorul amp s-a logat pe aplicatie
+2016-01-26 08:29:34 VISIT 56a7205e96bf7 Vizita de la ip 62.231.98.114
+2016-01-26 08:33:31 LOGOUT 56a71ee61f021 Utilizatorul amp s-a delogat.
+2016-01-26 08:33:31 VISIT 56a7214bab081 Vizita de la ip 62.231.98.114
+2016-01-26 08:39:34 VISIT 56a722b6b4a6d Vizita de la ip 62.231.98.114
+2016-01-26 08:43:32 VISIT 56a723a401b6d Vizita de la ip 62.231.98.114
+2016-01-26 08:49:35 VISIT 56a7250f4cf7f Vizita de la ip 62.231.98.114
+2016-01-26 08:53:32 VISIT 56a725fc23dc5 Vizita de la ip 62.231.98.114
+2016-01-26 08:59:36 VISIT 56a72768286b1 Vizita de la ip 62.231.98.114
+2016-01-26 09:03:10 VISIT 56a7283e35442 Vizita de la ip 62.231.98.114
+2016-01-26 09:03:19 VISIT 56a7284744534 Vizita de la ip 62.231.98.114
+2016-01-26 09:03:19 LOGIN 56a7284744534 Utilizatorul amp s-a logat pe aplicatie
+2016-01-26 09:03:31 LOGOUT 56a7284744534 Utilizatorul amp s-a delogat de pe aplicatie
+2016-01-26 09:09:36 VISIT 56a729c0486ad Vizita de la ip 62.231.98.114
+2016-01-26 09:09:50 VISIT 56a729ce1b51c Vizita de la ip 82.79.220.114
+2016-01-26 09:18:49 VISIT 56a72be97d8af Vizita de la ip 82.79.220.114
+2016-01-26 09:18:49 ERROR 56a72be97d8af Utilizatorul adi nu a reusit sa se logheze pe aplicatie
+2016-01-26 09:18:50 VISIT 56a72beaca3f1 Vizita de la ip 82.79.220.114
+2016-01-26 09:18:50 ERROR 56a72beaca3f1 Utilizatorul adi nu a reusit sa se logheze pe aplicatie
+2016-01-26 09:19:37 VISIT 56a72c192ce08 Vizita de la ip 62.231.98.114
+2016-01-26 09:25:03 VISIT 56a72d5fb3303 Vizita de la ip 82.79.220.114
+2016-01-26 09:25:05 VISIT 56a72d61633e4 Vizita de la ip 82.79.220.114
+2016-01-26 09:25:05 ERROR 56a72d61633e4 Utilizatorul adi nu a reusit sa se logheze pe aplicatie
+2016-01-26 09:25:06 VISIT 56a72d62a0452 Vizita de la ip 82.79.220.114
+2016-01-26 09:25:06 ERROR 56a72d62a0452 Utilizatorul adi nu a reusit sa se logheze pe aplicatie
+2016-01-26 09:25:11 VISIT 56a72d673a04e Vizita de la ip 82.79.220.114
+2016-01-26 09:25:11 ERROR 56a72d673a04e Utilizatorul adi nu a reusit sa se logheze pe aplicatie
+2016-01-26 09:29:38 VISIT 56a72e723165a Vizita de la ip 62.231.98.114
+2016-01-26 09:39:38 VISIT 56a730ca4f4e7 Vizita de la ip 62.231.98.114
+2016-01-26 09:49:38 VISIT 56a73322722cd Vizita de la ip 62.231.98.114
+2016-01-26 09:59:39 VISIT 56a7357b2e53c Vizita de la ip 62.231.98.114
+2016-01-26 10:09:40 VISIT 56a737d430b01 Vizita de la ip 62.231.98.114
+2016-01-26 10:19:41 VISIT 56a73a2d32de6 Vizita de la ip 62.231.98.114
+2016-01-26 10:29:42 VISIT 56a73c863419f Vizita de la ip 62.231.98.114
+2016-01-26 10:39:43 VISIT 56a73edf2fe15 Vizita de la ip 62.231.98.114
+2016-01-26 10:49:44 VISIT 56a74138342f9 Vizita de la ip 62.231.98.114
+2016-01-26 10:59:45 VISIT 56a7439137888 Vizita de la ip 62.231.98.114
+2016-01-26 11:09:46 VISIT 56a745ea37717 Vizita de la ip 62.231.98.114
+2016-01-26 11:19:47 VISIT 56a7484336ee1 Vizita de la ip 62.231.98.114
+2016-01-26 11:29:48 VISIT 56a74a9c37bf2 Vizita de la ip 62.231.98.114
+2016-01-26 11:39:31 VISIT 56a74ce33fbc9 Vizita de la ip 82.79.220.114
+2016-01-26 11:39:49 VISIT 56a74cf537c26 Vizita de la ip 62.231.98.114
+2016-01-26 11:45:25 VISIT 56a74e456d992 Vizita de la ip 213.177.21.162
+2016-01-26 11:45:56 VISIT 56a74e64f2774 Vizita de la ip 213.177.21.162
+2016-01-26 11:45:56 LOGIN 56a74e64f2774 Utilizatorul STAWBILRMK s-a logat pe aplicatie
+2016-01-26 11:45:56 LOGOUT 56a74e64f2774 Utilizatorul STAWBILRMK s-a delogat de pe aplicatie
+2016-01-26 11:45:57 VISIT 56a74e6512ec5 Vizita de la ip 213.177.21.162
+2016-01-26 11:46:32 VISIT 56a74e8883633 Vizita de la ip 213.177.21.162
+2016-01-26 11:46:32 LOGIN 56a74e8883633 Utilizatorul STAWBILRMK s-a logat pe aplicatie
+2016-01-26 11:46:32 LOGOUT 56a74e8883633 Utilizatorul STAWBILRMK s-a logat pe aplicatie
+2016-01-26 11:49:05 VISIT 56a74f219e167 Vizita de la ip 213.177.21.162
+2016-01-26 11:49:32 VISIT 56a74f3c4571b Vizita de la ip 82.79.220.114
+2016-01-26 11:49:50 VISIT 56a74f4e39a05 Vizita de la ip 62.231.98.114
+2016-01-26 11:49:51 VISIT 56a74f4f7e695 Vizita de la ip 213.177.21.162
+2016-01-26 11:50:13 VISIT 56a74f65c265e Vizita de la ip 213.177.21.162
+2016-01-26 11:50:13 LOGIN 56a74f65c265e Utilizatorul STAWBILRMK s-a logat pe aplicatie
+2016-01-26 11:50:13 LOGOUT 56a74f65c265e Utilizatorul STAWBILRMK s-a logat pe aplicatie
+2016-01-26 11:54:53 VISIT 56a7507d48ce8 Vizita de la ip 213.177.21.162
+2016-01-26 11:59:33 VISIT 56a7519540c40 Vizita de la ip 82.79.220.114
+2016-01-26 11:59:50 VISIT 56a751a6598cb Vizita de la ip 62.231.98.114
+2016-01-26 12:09:34 VISIT 56a753ee4156d Vizita de la ip 82.79.220.114
+2016-01-26 12:09:50 VISIT 56a753fe7495b Vizita de la ip 62.231.98.114
+2016-01-26 12:15:06 VISIT 56a7553abafef Vizita de la ip 82.79.220.114
+2016-01-26 12:15:06 ERROR 56a7553abafef Utilizatorul adi nu a reusit sa se logheze pe aplicatie
+2016-01-26 12:19:50 VISIT 56a7565691986 Vizita de la ip 62.231.98.114
+2016-01-26 12:26:35 VISIT 56a757eb1d64f Vizita de la ip 82.79.220.114
+2016-01-26 12:26:36 VISIT 56a757ecae57a Vizita de la ip 82.79.220.114
+2016-01-26 12:26:36 ERROR 56a757ecae57a Utilizatorul adi nu a reusit sa se logheze pe aplicatie
+2016-01-26 12:26:37 VISIT 56a757ed8d5b9 Vizita de la ip 82.79.220.114
+2016-01-26 12:26:37 ERROR 56a757ed8d5b9 Utilizatorul adi nu a reusit sa se logheze pe aplicatie
+2016-01-26 12:26:41 VISIT 56a757f156959 Vizita de la ip 82.79.220.114
+2016-01-26 12:26:41 ERROR 56a757f156959 Utilizatorul adi nu a reusit sa se logheze pe aplicatie
+2016-01-26 12:26:49 VISIT 56a757f9ccbe0 Vizita de la ip 82.79.220.114
+2016-01-26 12:26:51 VISIT 56a757fb5246b Vizita de la ip 82.79.220.114
+2016-01-26 12:26:51 ERROR 56a757fb5246b Utilizatorul adi nu a reusit sa se logheze pe aplicatie
+2016-01-26 12:26:53 VISIT 56a757fd8a5a3 Vizita de la ip 82.79.220.114
+2016-01-26 12:29:50 VISIT 56a758aeb2d2c Vizita de la ip 62.231.98.114
+2016-01-26 12:36:45 VISIT 56a75a4d76941 Vizita de la ip 62.231.98.114
+2016-01-26 12:36:50 VISIT 56a75a52f3bb2 Vizita de la ip 62.231.98.114
+2016-01-26 12:36:50 LOGIN 56a75a52f3bb2 Utilizatorul amp s-a logat pe aplicatie
+2016-01-26 12:36:53 VISIT 56a75a55aaa61 Vizita de la ip 82.79.220.114
+2016-01-26 12:39:50 VISIT 56a75b06d03b8 Vizita de la ip 62.231.98.114
+2016-01-26 12:46:51 LOGOUT 56a75a52f3bb2 Utilizatorul amp s-a delogat.
+2016-01-26 12:46:51 VISIT 56a75cab39c7e Vizita de la ip 62.231.98.114
+2016-01-26 12:46:53 VISIT 56a75cadce0fd Vizita de la ip 82.79.220.114
+2016-01-26 12:49:51 VISIT 56a75d5f3df21 Vizita de la ip 62.231.98.114
+2016-01-26 12:53:09 VISIT 56a75e25b6c96 Vizita de la ip 62.231.98.114
+2016-01-26 12:56:53 VISIT 56a75f05ee5cf Vizita de la ip 82.79.220.114
+2016-01-26 12:59:01 VISIT 56a75f85e02e0 Vizita de la ip 82.79.220.114
+2016-01-26 12:59:03 VISIT 56a75f878f739 Vizita de la ip 82.79.220.114
+2016-01-26 12:59:03 ERROR 56a75f878f739 Utilizatorul adi nu a reusit sa se logheze pe aplicatie
+2016-01-26 12:59:51 VISIT 56a75fb75710c Vizita de la ip 62.231.98.114
+2016-01-26 13:02:37 VISIT 56a7605dcce81 Vizita de la ip 82.79.220.114
+2016-01-26 13:02:39 VISIT 56a7605f5a7fd Vizita de la ip 82.79.220.114
+2016-01-26 13:02:39 ERROR 56a7605f5a7fd Utilizatorul adi nu a reusit sa se logheze pe aplicatie
+2016-01-26 13:06:54 VISIT 56a7615e4e5c7 Vizita de la ip 82.79.220.114
+2016-01-26 13:09:51 VISIT 56a7620f79dd7 Vizita de la ip 62.231.98.114
+2016-01-26 13:12:40 VISIT 56a762b84c09e Vizita de la ip 82.79.220.114
+2016-01-26 13:16:55 VISIT 56a763b74f904 Vizita de la ip 82.79.220.114
+2016-01-26 13:19:51 VISIT 56a7646798671 Vizita de la ip 62.231.98.114
+2016-01-26 13:22:41 VISIT 56a7651150008 Vizita de la ip 82.79.220.114
+2016-01-26 13:26:56 VISIT 56a766104ea59 Vizita de la ip 82.79.220.114
+2016-01-26 13:29:51 VISIT 56a766bfb7d3d Vizita de la ip 62.231.98.114
+2016-01-26 13:32:42 VISIT 56a7676a4fe36 Vizita de la ip 82.79.220.114
+2016-01-26 13:36:57 VISIT 56a76869509ae Vizita de la ip 82.79.220.114
+2016-01-26 13:39:51 VISIT 56a76917d516b Vizita de la ip 62.231.98.114
+2016-01-26 13:42:43 VISIT 56a769c35052c Vizita de la ip 82.79.220.114
+2016-01-26 13:42:44 VISIT 56a769c47e50d Vizita de la ip 62.231.98.114
+2016-01-26 13:42:49 VISIT 56a769c96266f Vizita de la ip 62.231.98.114
+2016-01-26 13:42:49 LOGIN 56a769c96266f Utilizatorul amp s-a logat pe aplicatie
+2016-01-26 13:43:35 LOGOUT 56a769c96266f Utilizatorul amp s-a delogat de pe aplicatie
+2016-01-26 13:46:58 VISIT 56a76ac2580f0 Vizita de la ip 82.79.220.114
+2016-01-26 13:49:51 VISIT 56a76b6ff2d37 Vizita de la ip 62.231.98.114
+2016-01-26 16:01:18 VISIT 56a78a3eca2e0 Vizita de la ip 82.79.220.114
+2016-01-26 16:01:18 ERROR 56a78a3eca2e0 Utilizatorul adi nu a reusit sa se logheze pe aplicatie
+2016-01-26 16:38:52 VISIT 56a7930c21657 Vizita de la ip 82.79.220.114
+2016-01-26 16:38:53 VISIT 56a7930d62e8b Vizita de la ip 82.79.220.114
+2016-01-26 16:38:53 ERROR 56a7930d62e8b Utilizatorul adi nu a reusit sa se logheze pe aplicatie

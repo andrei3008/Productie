@@ -1,0 +1,11 @@
+2016-09-11 10:43:37 VISIT 57d50b2967383 Vizita de la ip 62.231.98.114
+2016-09-11 10:43:48 LOGOUT 57d50b2967383 Utilizatorul  s-a delogat de pe aplicatie
+2016-09-11 10:43:49 LOGOUT 57d50b2967383 Utilizatorul  s-a delogat de pe aplicatie
+2016-09-11 10:43:50 VISIT 57d50b36a2421 Vizita de la ip 62.231.98.114
+2016-09-11 10:43:50 LOGIN 57d50b36a2421 Utilizatorul amp s-a logat pe aplicatie
+2016-09-11 10:47:03 LOGOUT 57d50b36a2421 Utilizatorul amp s-a delogat de pe aplicatie
+2016-09-11 10:47:04 LOGOUT 57d50b36a2421 Utilizatorul amp s-a delogat.
+2016-09-11 10:47:05 LOGOUT 57d50b36a2421 Utilizatorul amp s-a delogat de pe aplicatie
+2016-09-11 10:47:06 VISIT 57d50bfa3b5a6 Vizita de la ip 62.231.98.114
+2016-09-11 10:47:13 LOGOUT 57d50bfa3b5a6 Utilizatorul  s-a delogat de pe aplicatie
+2016-09-11 10:47:14 LOGOUT 57d50bfa3b5a6 Utilizatorul  s-a delogat de pe aplicatie

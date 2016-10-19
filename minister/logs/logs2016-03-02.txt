@@ -1,0 +1,36 @@
+2016-03-02 12:36:42 LOGOUT  Utilizatorul  s-a delogat de pe aplicatie
+2016-03-02 12:36:42 LOGOUT  Utilizatorul  s-a delogat de pe aplicatie
+2016-03-02 12:36:42 VISIT 56d6c23a5e88e Vizita de la ip 82.79.220.114
+2016-03-02 12:36:48 LOGOUT 56d6c23a5e88e Utilizatorul  s-a delogat de pe aplicatie
+2016-03-02 12:36:48 LOGOUT 56d6c23a5e88e Utilizatorul  s-a delogat de pe aplicatie
+2016-03-02 12:36:56 VISIT 56d6c248b9b7c Vizita de la ip 82.79.220.114
+2016-03-02 13:19:37 LOGOUT  Utilizatorul  s-a delogat de pe aplicatie
+2016-03-02 13:19:37 LOGOUT  Utilizatorul  s-a delogat de pe aplicatie
+2016-03-02 13:19:47 VISIT 56d6cc5399196 Vizita de la ip 62.231.98.114
+2016-03-02 13:21:00 LOGOUT 56d6cc5399196 Utilizatorul  s-a delogat de pe aplicatie
+2016-03-02 13:21:00 LOGOUT 56d6cc5399196 Utilizatorul  s-a delogat de pe aplicatie
+2016-03-02 13:21:02 VISIT 56d6cc9e91508 Vizita de la ip 62.231.98.114
+2016-03-02 13:21:07 LOGOUT 56d6cc9e91508 Utilizatorul  s-a delogat de pe aplicatie
+2016-03-02 13:21:07 LOGOUT 56d6cc9e91508 Utilizatorul  s-a delogat de pe aplicatie
+2016-03-02 13:23:08 LOGOUT  Utilizatorul KMRLIBWATS s-a delogat de pe aplicatie
+2016-03-02 13:23:08 LOGOUT  Utilizatorul KMRLIBWATS s-a delogat de pe aplicatie
+2016-03-02 13:23:08 LOGOUT  Utilizatorul  s-a delogat de pe aplicatie
+2016-03-02 13:23:08 LOGOUT  Utilizatorul  s-a delogat de pe aplicatie
+2016-03-02 13:23:18 LOGOUT  Utilizatorul KMRLIBWATS s-a delogat de pe aplicatie
+2016-03-02 13:23:18 LOGOUT  Utilizatorul KMRLIBWATS s-a delogat de pe aplicatie
+2016-03-02 17:50:21 LOGOUT  Utilizatorul  s-a delogat de pe aplicatie
+2016-03-02 17:50:21 VISIT 56d70bbd3672a Vizita de la ip 82.79.220.114
+2016-03-02 17:50:21 ERROR 56d70bbd3672a Utilizatorul adi nu a reusit sa se logheze pe aplicatie
+2016-03-02 17:50:21 LOGOUT 56d70bbd3672a Utilizatorul  s-a delogat de pe aplicatie
+2016-03-02 17:50:23 LOGOUT  Utilizatorul  s-a delogat de pe aplicatie
+2016-03-02 17:50:23 LOGOUT  Utilizatorul  s-a delogat de pe aplicatie
+2016-03-02 17:50:23 VISIT 56d70bbfbaacb Vizita de la ip 82.79.220.114
+2016-03-02 17:50:23 ERROR 56d70bbfbaacb Utilizatorul adi nu a reusit sa se logheze pe aplicatie
+2016-03-02 18:14:42 LOGOUT  Utilizatorul KMRLIBWATS s-a delogat de pe aplicatie
+2016-03-02 18:14:42 LOGOUT  Utilizatorul KMRLIBWATS s-a delogat de pe aplicatie
+2016-03-02 19:03:50 LOGOUT  Utilizatorul  s-a delogat de pe aplicatie
+2016-03-02 19:03:51 LOGOUT  Utilizatorul KMRLIBWATS s-a delogat de pe aplicatie
+2016-03-02 19:07:10 LOGOUT  Utilizatorul  s-a delogat de pe aplicatie
+2016-03-02 19:07:10 LOGOUT  Utilizatorul  s-a delogat de pe aplicatie
+2016-03-02 19:07:54 LOGOUT  Utilizatorul KMRLIBWATS s-a delogat de pe aplicatie
+2016-03-02 19:07:54 LOGOUT  Utilizatorul KMRLIBWATS s-a delogat de pe aplicatie

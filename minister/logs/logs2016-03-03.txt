@@ -1,0 +1,10 @@
+2016-03-03 14:32:26 VISIT 56d82eda82f1b Vizita de la ip 82.79.220.114
+2016-03-03 14:32:26 ERROR 56d82eda82f1b Utilizatorul adi nu a reusit sa se logheze pe aplicatie
+2016-03-03 14:32:26 LOGOUT 56d82eda82f1b Utilizatorul  s-a delogat de pe aplicatie
+2016-03-03 14:32:26 LOGOUT 56d82eda82f1b Utilizatorul  s-a delogat de pe aplicatie
+2016-03-03 14:32:30 LOGOUT  Utilizatorul  s-a delogat de pe aplicatie
+2016-03-03 14:32:30 LOGOUT  Utilizatorul  s-a delogat de pe aplicatie
+2016-03-03 14:32:30 VISIT 56d82ede7ac44 Vizita de la ip 82.79.220.114
+2016-03-03 14:32:30 ERROR 56d82ede7ac44 Utilizatorul adi nu a reusit sa se logheze pe aplicatie
+2016-03-03 14:32:34 LOGOUT 56d82ede7ac44 Utilizatorul  s-a delogat de pe aplicatie
+2016-03-03 14:32:34 LOGOUT 56d82ede7ac44 Utilizatorul  s-a delogat de pe aplicatie

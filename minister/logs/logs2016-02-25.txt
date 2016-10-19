@@ -1,0 +1,5 @@
+2016-02-25 11:34:41 VISIT 56cecab10f42a Vizita de la ip 62.231.98.114
+2016-02-25 11:34:47 LOGOUT 56cecab10f42a Utilizatorul  s-a delogat de pe aplicatie
+2016-02-25 11:34:47 LOGOUT 56cecab10f42a Utilizatorul  s-a delogat de pe aplicatie
+2016-02-25 13:37:53 LOGOUT  Utilizatorul  s-a delogat de pe aplicatie
+2016-02-25 13:37:53 LOGOUT  Utilizatorul  s-a delogat de pe aplicatie

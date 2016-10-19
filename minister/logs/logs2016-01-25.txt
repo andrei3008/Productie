@@ -1,0 +1,156 @@
+2016-01-25 13:14:44 VISIT 56a611b4e2703 Vizita de la ip 62.231.98.114
+2016-01-25 13:14:48 VISIT 56a611b8cf2e0 Vizita de la ip 62.231.98.114
+2016-01-25 13:14:48 ERROR 56a611b8cf2e0 Utilizatorul adi nu a reusit sa se logheze pe aplicatie
+2016-01-25 13:14:51 VISIT 56a611bb0dd5e Vizita de la ip 62.231.98.114
+2016-01-25 13:14:51 ERROR 56a611bb0dd5e Utilizatorul adi nu a reusit sa se logheze pe aplicatie
+2016-01-25 13:14:58 VISIT 56a611c2bfa20 Vizita de la ip 62.231.98.114
+2016-01-25 13:14:58 ERROR 56a611c2bfa20 Utilizatorul amp nu a reusit sa se logheze pe aplicatie
+2016-01-25 13:15:03 VISIT 56a611c7c3672 Vizita de la ip 62.231.98.114
+2016-01-25 13:15:03 LOGIN 56a611c7c3672 Utilizatorul amp s-a logat pe aplicatie
+2016-01-25 13:16:53 LOGOUT 56a611c7c3672 Utilizatorul amp s-a delogat de pe aplicatie
+2016-01-25 13:22:51 VISIT 56a6139bb6030 Vizita de la ip 82.79.220.114
+2016-01-25 13:28:22 LOGOUT 56a611c7c3672 Utilizatorul amp s-a delogat de pe aplicatie
+2016-01-25 13:28:51 LOGOUT 56a611c7c3672 Utilizatorul amp s-a delogat de pe aplicatie
+2016-01-25 13:29:21 VISIT 56a61521ceb63 Vizita de la ip 62.231.98.114
+2016-01-25 13:29:23 VISIT 56a615238de67 Vizita de la ip 62.231.98.114
+2016-01-25 13:29:23 ERROR 56a615238de67 Utilizatorul adi nu a reusit sa se logheze pe aplicatie
+2016-01-25 13:29:28 VISIT 56a615283a823 Vizita de la ip 62.231.98.114
+2016-01-25 13:29:28 LOGIN 56a615283a823 Utilizatorul amp s-a logat pe aplicatie
+2016-01-25 13:39:28 LOGOUT 56a615283a823 Utilizatorul amp s-a delogat.
+2016-01-25 13:39:28 VISIT 56a6178072fe0 Vizita de la ip 62.231.98.114
+2016-01-25 13:39:38 VISIT 56a6178ae2f1d Vizita de la ip 62.231.98.114
+2016-01-25 13:39:38 LOGIN 56a6178ae2f1d Utilizatorul amp s-a logat pe aplicatie
+2016-01-25 13:40:18 VISIT 56a617b2b041b Vizita de la ip 82.79.220.114
+2016-01-25 13:44:07 VISIT 56a61897f0d56 Vizita de la ip 82.79.220.114
+2016-01-25 13:44:07 ERROR 56a61897f0d56 Utilizatorul adi nu a reusit sa se logheze pe aplicatie
+2016-01-25 13:44:09 VISIT 56a6189940f35 Vizita de la ip 82.79.220.114
+2016-01-25 13:44:09 ERROR 56a6189940f35 Utilizatorul adi nu a reusit sa se logheze pe aplicatie
+2016-01-25 13:44:15 VISIT 56a6189f94e13 Vizita de la ip 82.79.220.114
+2016-01-25 13:44:15 ERROR 56a6189f94e13 Utilizatorul adi nu a reusit sa se logheze pe aplicatie
+2016-01-25 13:44:23 LOGOUT 56a6178ae2f1d Utilizatorul amp s-a delogat de pe aplicatie
+2016-01-25 13:54:16 VISIT 56a61af82b385 Vizita de la ip 82.79.220.114
+2016-01-25 13:57:50 LOGOUT 56a6178ae2f1d Utilizatorul amp s-a delogat de pe aplicatie
+2016-01-25 13:57:50 VISIT 56a61bcecdab7 Vizita de la ip 62.231.98.114
+2016-01-25 14:03:16 VISIT 56a61d145781e Vizita de la ip 62.231.98.114
+2016-01-25 14:04:17 VISIT 56a61d5120b79 Vizita de la ip 82.79.220.114
+2016-01-25 14:13:16 VISIT 56a61f6c7aace Vizita de la ip 62.231.98.114
+2016-01-25 14:13:27 VISIT 56a61f77aa9b5 Vizita de la ip 62.231.98.114
+2016-01-25 14:13:27 LOGIN 56a61f77aa9b5 Utilizatorul amp s-a logat pe aplicatie
+2016-01-25 14:14:18 VISIT 56a61faa25268 Vizita de la ip 82.79.220.114
+2016-01-25 14:23:37 LOGOUT 56a61f77aa9b5 Utilizatorul amp s-a delogat.
+2016-01-25 14:23:37 VISIT 56a621d9f23c1 Vizita de la ip 62.231.98.114
+2016-01-25 14:24:19 VISIT 56a622031c0f9 Vizita de la ip 82.79.220.114
+2016-01-25 14:29:44 VISIT 56a6234836e74 Vizita de la ip 62.231.98.114
+2016-01-25 14:34:20 VISIT 56a6245c1615c Vizita de la ip 82.79.220.114
+2016-01-25 14:34:54 VISIT 56a6247ef1f23 Vizita de la ip 62.231.98.114
+2016-01-25 14:34:54 LOGIN 56a6247ef1f23 Utilizatorul amp s-a logat pe aplicatie
+2016-01-25 14:44:21 VISIT 56a626b511dc8 Vizita de la ip 82.79.220.114
+2016-01-25 14:45:05 LOGOUT 56a6247ef1f23 Utilizatorul amp s-a delogat.
+2016-01-25 14:45:05 VISIT 56a626e14153a Vizita de la ip 62.231.98.114
+2016-01-25 14:53:45 VISIT 56a628e9d9469 Vizita de la ip 82.79.220.114
+2016-01-25 14:55:05 VISIT 56a6293989611 Vizita de la ip 62.231.98.114
+2016-01-25 14:57:00 VISIT 56a629ac27773 Vizita de la ip 62.231.98.114
+2016-01-25 14:57:00 LOGIN 56a629ac27773 Utilizatorul amp s-a logat pe aplicatie
+2016-01-25 15:07:24 LOGOUT 56a629ac27773 Utilizatorul amp s-a delogat.
+2016-01-25 15:07:24 VISIT 56a62c1c2d5cc Vizita de la ip 62.231.98.114
+2016-01-25 15:07:41 VISIT 56a62c2d28e77 Vizita de la ip 82.79.220.114
+2016-01-25 15:17:24 VISIT 56a62e746be78 Vizita de la ip 62.231.98.114
+2016-01-25 15:17:41 VISIT 56a62e854a1cc Vizita de la ip 82.79.220.114
+2016-01-25 15:25:07 VISIT 56a63043e2daa Vizita de la ip 82.79.220.114
+2016-01-25 15:25:07 ERROR 56a63043e2daa Utilizatorul adi nu a reusit sa se logheze pe aplicatie
+2016-01-25 15:25:11 VISIT 56a63047b3a62 Vizita de la ip 82.79.220.114
+2016-01-25 15:25:11 ERROR 56a63047b3a62 Utilizatorul adi nu a reusit sa se logheze pe aplicatie
+2016-01-25 15:25:13 VISIT 56a6304905779 Vizita de la ip 82.79.220.114
+2016-01-25 15:25:13 ERROR 56a6304905779 Utilizatorul adi nu a reusit sa se logheze pe aplicatie
+2016-01-25 15:25:14 VISIT 56a6304acb95f Vizita de la ip 82.79.220.114
+2016-01-25 15:25:14 ERROR 56a6304acb95f Utilizatorul adi nu a reusit sa se logheze pe aplicatie
+2016-01-25 15:27:24 VISIT 56a630ccb21d1 Vizita de la ip 62.231.98.114
+2016-01-25 15:37:25 VISIT 56a6332505d68 Vizita de la ip 62.231.98.114
+2016-01-25 16:17:38 VISIT 56a63c924511d Vizita de la ip 62.231.98.114
+2016-01-25 16:17:44 VISIT 56a63c9857151 Vizita de la ip 62.231.98.114
+2016-01-25 16:17:44 LOGIN 56a63c9857151 Utilizatorul amp s-a logat pe aplicatie
+2016-01-25 16:31:07 LOGOUT 56a63c9857151 Utilizatorul amp s-a delogat.
+2016-01-25 16:31:07 VISIT 56a63fbb8bf57 Vizita de la ip 62.231.98.114
+2016-01-25 16:41:07 VISIT 56a64213de501 Vizita de la ip 62.231.98.114
+2016-01-25 16:51:08 VISIT 56a6446c105a2 Vizita de la ip 62.231.98.114
+2016-01-25 17:30:57 VISIT 56a64dc172600 Vizita de la ip 62.231.98.114
+2016-01-25 17:31:05 VISIT 56a64dc97564c Vizita de la ip 62.231.98.114
+2016-01-25 17:31:09 VISIT 56a64dcda0652 Vizita de la ip 62.231.98.114
+2016-01-25 17:31:13 VISIT 56a64dd1178ec Vizita de la ip 62.231.98.114
+2016-01-25 17:41:13 VISIT 56a65029d010d Vizita de la ip 62.231.98.114
+2016-01-25 17:51:14 VISIT 56a65282d3b7e Vizita de la ip 62.231.98.114
+2016-01-25 18:01:15 VISIT 56a654dbd2f93 Vizita de la ip 62.231.98.114
+2016-01-25 18:11:16 VISIT 56a65734da56f Vizita de la ip 62.231.98.114
+2016-01-25 18:21:17 VISIT 56a6598dd2870 Vizita de la ip 62.231.98.114
+2016-01-25 18:22:53 VISIT 56a659ed04020 Vizita de la ip 62.231.98.114
+2016-01-25 18:22:56 VISIT 56a659f031be3 Vizita de la ip 62.231.98.114
+2016-01-25 18:22:56 VISIT 56a659f039d77 Vizita de la ip 62.231.98.114
+2016-01-25 18:22:57 VISIT 56a659f1a091a Vizita de la ip 62.231.98.114
+2016-01-25 18:22:57 VISIT 56a659f1a6b23 Vizita de la ip 62.231.98.114
+2016-01-25 18:22:57 VISIT 56a659f1accca Vizita de la ip 62.231.98.114
+2016-01-25 18:22:57 VISIT 56a659f1b226a Vizita de la ip 62.231.98.114
+2016-01-25 18:22:58 VISIT 56a659f24dc72 Vizita de la ip 62.231.98.114
+2016-01-25 18:22:58 VISIT 56a659f256183 Vizita de la ip 62.231.98.114
+2016-01-25 18:22:58 VISIT 56a659f25fb4f Vizita de la ip 62.231.98.114
+2016-01-25 18:22:58 VISIT 56a659f267ad6 Vizita de la ip 62.231.98.114
+2016-01-25 18:22:58 VISIT 56a659f26f069 Vizita de la ip 62.231.98.114
+2016-01-25 18:22:58 VISIT 56a659f276d41 Vizita de la ip 62.231.98.114
+2016-01-25 18:22:58 VISIT 56a659f28013c Vizita de la ip 62.231.98.114
+2016-01-25 18:22:58 VISIT 56a659f28013c Vizita de la ip 62.231.98.114
+2016-01-25 18:22:59 VISIT 56a659f35b9de Vizita de la ip 62.231.98.114
+2016-01-25 18:22:59 VISIT 56a659f360f29 Vizita de la ip 62.231.98.114
+2016-01-25 18:22:59 VISIT 56a659f366aec Vizita de la ip 62.231.98.114
+2016-01-25 18:22:59 VISIT 56a659f36dbd7 Vizita de la ip 62.231.98.114
+2016-01-25 18:22:59 VISIT 56a659f373d25 Vizita de la ip 62.231.98.114
+2016-01-25 18:22:59 VISIT 56a659f3771cf Vizita de la ip 62.231.98.114
+2016-01-25 18:22:59 VISIT 56a659f37c68d Vizita de la ip 62.231.98.114
+2016-01-25 18:22:59 VISIT 56a659f382719 Vizita de la ip 62.231.98.114
+2016-01-25 18:22:59 VISIT 56a659f38ac3b Vizita de la ip 62.231.98.114
+2016-01-25 18:23:02 VISIT 56a659f38ac3b Vizita de la ip 62.231.98.114
+2016-01-25 18:23:12 VISIT 56a65a003b1af Vizita de la ip 62.231.98.114
+2016-01-25 18:23:12 ERROR 56a65a003b1af Utilizatorul adi nu a reusit sa se logheze pe aplicatie
+2016-01-25 18:23:21 VISIT 56a65a0917aa6 Vizita de la ip 62.231.98.114
+2016-01-25 18:23:21 ERROR 56a65a0917aa6 Utilizatorul adi nu a reusit sa se logheze pe aplicatie
+2016-01-25 18:23:24 VISIT 56a65a0cf032c Vizita de la ip 62.231.98.114
+2016-01-25 18:23:43 VISIT 56a65a1f631d3 Vizita de la ip 62.231.98.114
+2016-01-25 18:23:45 VISIT 56a65a212caf5 Vizita de la ip 62.231.98.114
+2016-01-25 18:24:17 VISIT 56a65a41aedb3 Vizita de la ip 62.231.98.114
+2016-01-25 18:24:26 VISIT 56a65a4a2914b Vizita de la ip 62.231.98.114
+2016-01-25 18:24:26 ERROR 56a65a4a2914b Utilizatorul adi nu a reusit sa se logheze pe aplicatie
+2016-01-25 18:24:33 VISIT 56a65a51ac1eb Vizita de la ip 62.231.98.114
+2016-01-25 18:25:17 VISIT 56a65a7d815fe Vizita de la ip 62.231.98.114
+2016-01-25 18:25:25 VISIT 56a65a85ebea4 Vizita de la ip 62.231.98.114
+2016-01-25 18:25:25 ERROR 56a65a85ebea4 Utilizatorul adi nu a reusit sa se logheze pe aplicatie
+2016-01-25 18:35:26 VISIT 56a65cded4040 Vizita de la ip 62.231.98.114
+2016-01-25 18:49:22 VISIT 56a660226bc51 Vizita de la ip 62.231.98.114
+2016-01-25 18:59:22 VISIT 56a6627a8d795 Vizita de la ip 62.231.98.114
+2016-01-25 19:09:22 VISIT 56a664d2afb53 Vizita de la ip 62.231.98.114
+2016-01-25 19:19:23 VISIT 56a6672b0789b Vizita de la ip 62.231.98.114
+2016-01-25 19:29:23 VISIT 56a6698326d24 Vizita de la ip 62.231.98.114
+2016-01-25 19:39:23 VISIT 56a66bdb4cabb Vizita de la ip 62.231.98.114
+2016-01-25 19:49:23 VISIT 56a66e336c07f Vizita de la ip 62.231.98.114
+2016-01-25 19:59:23 VISIT 56a6708b90067 Vizita de la ip 62.231.98.114
+2016-01-25 20:09:23 VISIT 56a672e3b4c07 Vizita de la ip 62.231.98.114
+2016-01-25 20:19:23 VISIT 56a6753bd3041 Vizita de la ip 62.231.98.114
+2016-01-25 20:29:24 VISIT 56a6779403ef4 Vizita de la ip 62.231.98.114
+2016-01-25 20:39:24 VISIT 56a679ec208da Vizita de la ip 62.231.98.114
+2016-01-25 20:49:24 VISIT 56a67c443de24 Vizita de la ip 62.231.98.114
+2016-01-25 20:59:24 VISIT 56a67e9c5f1db Vizita de la ip 62.231.98.114
+2016-01-25 21:09:24 VISIT 56a680f47cfaf Vizita de la ip 62.231.98.114
+2016-01-25 21:19:24 VISIT 56a6834ca0faa Vizita de la ip 62.231.98.114
+2016-01-25 21:29:24 VISIT 56a685a4c40a0 Vizita de la ip 62.231.98.114
+2016-01-25 21:39:24 VISIT 56a687fce5936 Vizita de la ip 62.231.98.114
+2016-01-25 21:49:25 VISIT 56a68a551776d Vizita de la ip 62.231.98.114
+2016-01-25 21:59:25 VISIT 56a68cad3c263 Vizita de la ip 62.231.98.114
+2016-01-25 22:09:25 VISIT 56a68f055aeb5 Vizita de la ip 62.231.98.114
+2016-01-25 22:19:25 VISIT 56a6915d7c156 Vizita de la ip 62.231.98.114
+2016-01-25 22:29:25 VISIT 56a693b59cf7b Vizita de la ip 62.231.98.114
+2016-01-25 22:39:25 VISIT 56a6960dbc8d4 Vizita de la ip 62.231.98.114
+2016-01-25 22:49:25 VISIT 56a69865db97a Vizita de la ip 62.231.98.114
+2016-01-25 22:59:26 VISIT 56a69abe08526 Vizita de la ip 62.231.98.114
+2016-01-25 23:09:26 VISIT 56a69d1627e3b Vizita de la ip 62.231.98.114
+2016-01-25 23:19:26 VISIT 56a69f6e47b9e Vizita de la ip 62.231.98.114
+2016-01-25 23:29:26 VISIT 56a6a1c66cc74 Vizita de la ip 62.231.98.114
+2016-01-25 23:39:26 VISIT 56a6a41e8ed61 Vizita de la ip 62.231.98.114
+2016-01-25 23:49:26 VISIT 56a6a676af656 Vizita de la ip 62.231.98.114
+2016-01-25 23:59:26 VISIT 56a6a8cecd9d6 Vizita de la ip 62.231.98.114

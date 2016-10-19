@@ -1,0 +1,32 @@
+2016-02-09 09:48:02 LOGOUT  Utilizatorul  s-a delogat de pe aplicatie
+2016-02-09 09:48:02 LOGOUT  Utilizatorul  s-a delogat de pe aplicatie
+2016-02-09 14:21:16 LOGOUT  Utilizatorul  s-a delogat de pe aplicatie
+2016-02-09 14:21:16 LOGOUT  Utilizatorul  s-a delogat de pe aplicatie
+2016-02-09 14:21:25 LOGOUT  Utilizatorul  s-a delogat de pe aplicatie
+2016-02-09 14:21:25 LOGOUT  Utilizatorul  s-a delogat de pe aplicatie
+2016-02-09 14:21:41 VISIT 56b9d9d531e28 Vizita de la ip 79.117.178.111
+2016-02-09 14:21:53 LOGOUT 56b9d9d531e28 Utilizatorul  s-a delogat de pe aplicatie
+2016-02-09 14:21:56 VISIT 56b9d9e486bbf Vizita de la ip 79.117.178.111
+2016-02-09 14:22:55 LOGOUT  Utilizatorul  s-a delogat de pe aplicatie
+2016-02-09 14:22:55 LOGOUT  Utilizatorul  s-a delogat de pe aplicatie
+2016-02-09 14:36:06 VISIT 56b9dd365d432 Vizita de la ip 62.231.98.114
+2016-02-09 14:36:11 LOGOUT  Utilizatorul  s-a delogat de pe aplicatie
+2016-02-09 14:36:11 VISIT 56b9dd3b53f69 Vizita de la ip 62.231.98.114
+2016-02-09 14:36:11 LOGIN 56b9dd3b53f69 Utilizatorul amp s-a logat pe aplicatie
+2016-02-09 14:36:20 LOGOUT 56b9dd3b53f69 Utilizatorul amp s-a delogat de pe aplicatie
+2016-02-09 14:36:20 LOGOUT 56b9dd3b53f69 Utilizatorul amp s-a delogat de pe aplicatie
+2016-02-09 14:41:27 LOGOUT  Utilizatorul  s-a delogat de pe aplicatie
+2016-02-09 14:41:27 LOGOUT  Utilizatorul  s-a delogat de pe aplicatie
+2016-02-09 14:41:28 VISIT 56b9de7869443 Vizita de la ip 62.231.98.114
+2016-02-09 14:41:32 LOGOUT 56b9de7869443 Utilizatorul  s-a delogat de pe aplicatie
+2016-02-09 14:41:32 LOGOUT  Utilizatorul  s-a delogat de pe aplicatie
+2016-02-09 14:41:33 VISIT 56b9de7dd3bd9 Vizita de la ip 62.231.98.114
+2016-02-09 14:41:35 LOGOUT 56b9de7dd3bd9 Utilizatorul  s-a delogat de pe aplicatie
+2016-02-09 14:41:35 LOGOUT 56b9de7dd3bd9 Utilizatorul  s-a delogat de pe aplicatie
+2016-02-09 14:42:10 LOGOUT  Utilizatorul  s-a delogat de pe aplicatie
+2016-02-09 14:42:10 LOGOUT  Utilizatorul  s-a delogat.
+2016-02-09 14:42:10 VISIT 56b9dea2c7fc1 Vizita de la ip 62.231.98.114
+2016-02-09 14:42:18 VISIT 56b9deaa59d40 Vizita de la ip 62.231.98.114
+2016-02-09 14:42:18 LOGIN 56b9deaa59d40 Utilizatorul amp s-a logat pe aplicatie
+2016-02-09 14:42:23 LOGOUT 56b9deaa59d40 Utilizatorul amp s-a delogat de pe aplicatie
+2016-02-09 14:42:23 LOGOUT 56b9deaa59d40 Utilizatorul amp s-a delogat de pe aplicatie

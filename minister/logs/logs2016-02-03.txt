@@ -1,0 +1,27 @@
+2016-02-03 15:48:41 LOGOUT  Utilizatorul  s-a delogat de pe aplicatie
+2016-02-03 15:48:41 LOGOUT  Utilizatorul  s-a delogat de pe aplicatie
+2016-02-03 15:52:43 LOGOUT  Utilizatorul  s-a delogat de pe aplicatie
+2016-02-03 15:52:43 LOGOUT  Utilizatorul  s-a delogat de pe aplicatie
+2016-02-03 15:52:43 LOGOUT  Utilizatorul  s-a delogat de pe aplicatie
+2016-02-03 15:52:43 LOGOUT  Utilizatorul  s-a delogat de pe aplicatie
+2016-02-03 15:52:45 VISIT 56b2062da43a5 Vizita de la ip 86.122.183.194
+2016-02-03 15:52:47 LOGOUT 56b2062da43a5 Utilizatorul  s-a delogat de pe aplicatie
+2016-02-03 15:52:47 LOGOUT 56b2062da43a5 Utilizatorul  s-a delogat de pe aplicatie
+2016-02-03 15:52:47 VISIT 56b2062f4a951 Vizita de la ip 86.122.183.194
+2016-02-03 15:52:47 ERROR 56b2062f4a951 Utilizatorul adi nu a reusit sa se logheze pe aplicatie
+2016-02-03 15:52:48 LOGOUT 56b2062f4a951 Utilizatorul  s-a delogat de pe aplicatie
+2016-02-03 15:52:48 LOGOUT 56b2062f4a951 Utilizatorul  s-a delogat de pe aplicatie
+2016-02-03 15:52:48 VISIT 56b20630a83df Vizita de la ip 86.122.183.194
+2016-02-03 15:52:48 ERROR 56b20630a83df Utilizatorul adi nu a reusit sa se logheze pe aplicatie
+2016-02-03 15:52:50 LOGOUT 56b20630a83df Utilizatorul  s-a delogat de pe aplicatie
+2016-02-03 15:52:50 LOGOUT 56b20630a83df Utilizatorul  s-a delogat de pe aplicatie
+2016-02-03 15:52:50 LOGOUT 56b20630a83df Utilizatorul  s-a delogat de pe aplicatie
+2016-02-03 15:52:50 LOGOUT 56b20630a83df Utilizatorul  s-a delogat de pe aplicatie
+2016-02-03 15:53:00 VISIT 56b2063ca59d2 Vizita de la ip 86.122.183.194
+2016-02-03 15:53:02 LOGOUT 56b2063ca59d2 Utilizatorul  s-a delogat de pe aplicatie
+2016-02-03 15:53:02 LOGOUT 56b2063ca59d2 Utilizatorul  s-a delogat de pe aplicatie
+2016-02-03 15:53:02 LOGOUT 56b2063ca59d2 Utilizatorul  s-a delogat de pe aplicatie
+2016-02-03 15:53:02 LOGOUT 56b2063ca59d2 Utilizatorul  s-a delogat de pe aplicatie
+2016-02-03 15:53:03 VISIT 56b2063fb77f6 Vizita de la ip 86.122.183.194
+2016-02-03 15:53:07 LOGOUT 56b2063fb77f6 Utilizatorul  s-a delogat de pe aplicatie
+2016-02-03 15:53:07 LOGOUT 56b2063fb77f6 Utilizatorul  s-a delogat de pe aplicatie

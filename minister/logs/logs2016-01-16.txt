@@ -1,0 +1,3 @@
+2016-01-16 11:24:37 VISIT 569a1a659d9b9 Vizita de la ip 82.79.220.114
+2016-01-16 11:24:39 VISIT 569a1a675bbaa Vizita de la ip 82.79.220.114
+2016-01-16 11:24:39 LOGIN 569a1a675bbaa Utilizatorul STAWBILRMK s-a logat pe aplicatie

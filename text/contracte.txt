@@ -1,0 +1,3 @@
+4;sat pomi, com. pomi, jud, satu mare;catalin;27.06.2016;satu mare;1;
+5;sat apa, com apa, jud. satu mare;CATALIN;39.06.2016;satu mare;1;
+7;marghita, jud. bihor;CATALIN;05.07.2016;bihor;1;

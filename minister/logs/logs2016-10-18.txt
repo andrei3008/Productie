@@ -1,0 +1,7 @@
+2016-10-18 10:02:24 LOGOUT  Utilizatorul KMRLIBWATS s-a delogat de pe aplicatie
+2016-10-18 10:02:25 LOGOUT  Utilizatorul KMRLIBWATS s-a delogat de pe aplicatie
+2016-10-18 13:16:23 VISIT 5805f677a3b29 Vizita de la ip 62.231.98.114
+2016-10-18 13:16:38 LOGOUT 5805f677a3b29 Utilizatorul  s-a delogat de pe aplicatie
+2016-10-18 13:16:39 LOGOUT 5805f677a3b29 Utilizatorul  s-a delogat de pe aplicatie
+2016-10-18 13:18:59 LOGOUT  Utilizatorul KMRLIBWATS s-a delogat de pe aplicatie
+2016-10-18 13:19:00 LOGOUT  Utilizatorul KMRLIBWATS s-a delogat de pe aplicatie

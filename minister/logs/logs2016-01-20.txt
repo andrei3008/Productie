@@ -1,0 +1,33 @@
+2016-01-20 07:58:22 VISIT 569f300e23d45 Vizita de la ip 62.231.98.114
+2016-01-20 07:58:28 VISIT 569f3014c5c08 Vizita de la ip 62.231.98.114
+2016-01-20 07:58:28 LOGIN 569f3014c5c08 Utilizatorul amp s-a logat pe aplicatie
+2016-01-20 10:40:21 VISIT 569f56056626e Vizita de la ip 62.231.98.114
+2016-01-20 10:40:23 VISIT 569f56079b8e1 Vizita de la ip 62.231.98.114
+2016-01-20 10:40:23 LOGIN 569f56079b8e1 Utilizatorul amp s-a logat pe aplicatie
+2016-01-20 10:43:38 LOGOUT 569f56079b8e1 Utilizatorul amp s-a delogat de pe aplicatie
+2016-01-20 12:20:11 VISIT 569f6d6b040ad Vizita de la ip 82.79.220.114
+2016-01-20 12:20:18 VISIT 569f6d721c90e Vizita de la ip 82.79.220.114
+2016-01-20 12:20:23 VISIT 569f6d777d3aa Vizita de la ip 82.79.220.114
+2016-01-20 12:21:42 VISIT 569f6dc6ad004 Vizita de la ip 82.79.220.114
+2016-01-20 12:22:05 VISIT 569f6dddd124e Vizita de la ip 82.79.220.114
+2016-01-20 12:22:13 VISIT 569f6de51a3c1 Vizita de la ip 82.79.220.114
+2016-01-20 12:22:56 VISIT 569f6e1061c63 Vizita de la ip 82.79.220.114
+2016-01-20 12:23:12 VISIT 569f6e205af5f Vizita de la ip 82.79.220.114
+2016-01-20 12:25:36 VISIT 569f6eb015c0c Vizita de la ip 82.79.220.114
+2016-01-20 12:25:42 VISIT 569f6eb631cf1 Vizita de la ip 82.79.220.114
+2016-01-20 12:25:49 VISIT 569f6ebda4673 Vizita de la ip 82.79.220.114
+2016-01-20 12:26:10 VISIT 569f6ed2b7fdc Vizita de la ip 82.79.220.114
+2016-01-20 12:26:46 VISIT 569f6ef642262 Vizita de la ip 82.79.220.114
+2016-01-20 12:27:40 VISIT 569f6f2c15c1a Vizita de la ip 82.79.220.114
+2016-01-20 12:36:46 VISIT 569f714e64cbe Vizita de la ip 82.79.220.114
+2016-01-20 12:37:40 VISIT 569f71843b758 Vizita de la ip 82.79.220.114
+2016-01-20 12:46:41 VISIT 569f73a1d8f74 Vizita de la ip 82.79.220.114
+2016-01-20 12:46:41 ERROR 569f73a1d8f74 Utilizatorul adi nu a reusit sa se logheze pe aplicatie
+2016-01-20 12:46:43 VISIT 569f73a31a290 Vizita de la ip 82.79.220.114
+2016-01-20 12:46:43 ERROR 569f73a31a290 Utilizatorul adi nu a reusit sa se logheze pe aplicatie
+2016-01-20 12:47:41 VISIT 569f73dd69987 Vizita de la ip 82.79.220.114
+2016-01-20 14:00:52 VISIT 569f85040ab7a Vizita de la ip 82.79.220.114
+2016-01-20 14:00:54 VISIT 569f850645eb0 Vizita de la ip 82.79.220.114
+2016-01-20 14:00:54 ERROR 569f850645eb0 Utilizatorul adi nu a reusit sa se logheze pe aplicatie
+2016-01-20 14:00:55 VISIT 569f8507d4e34 Vizita de la ip 82.79.220.114
+2016-01-20 14:00:55 ERROR 569f8507d4e34 Utilizatorul adi nu a reusit sa se logheze pe aplicatie

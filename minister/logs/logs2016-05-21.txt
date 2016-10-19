@@ -1,0 +1,13 @@
+2016-05-21 06:08:42 LOGOUT  Utilizatorul KMRLIBWATS s-a delogat de pe aplicatie
+2016-05-21 06:08:42 LOGOUT  Utilizatorul KMRLIBWATS s-a delogat de pe aplicatie
+2016-05-21 15:45:30 VISIT 5740586aba144 Vizita de la ip 178.138.33.122
+2016-05-21 15:45:47 VISIT 5740587b248a0 Vizita de la ip 178.138.33.122
+2016-05-21 15:45:47 ERROR 5740587b248a0 Utilizatorul Amper nu a reusit sa se logheze pe aplicatie
+2016-05-21 15:45:47 LOGOUT 5740587b248a0 Utilizatorul  s-a delogat de pe aplicatie
+2016-05-21 15:45:47 LOGOUT  Utilizatorul  s-a delogat de pe aplicatie
+2016-05-21 15:46:09 VISIT 5740589193504 Vizita de la ip 178.138.33.122
+2016-05-21 15:46:09 LOGIN 5740589193504 Utilizatorul amp s-a logat pe aplicatie
+2016-05-21 15:46:09 LOGOUT 5740589193504 Utilizatorul amp s-a delogat de pe aplicatie
+2016-05-21 15:46:09 LOGOUT  Utilizatorul  s-a delogat de pe aplicatie
+2016-05-21 15:46:10 VISIT 5740589237b8f Vizita de la ip 178.138.33.122
+2016-05-21 16:46:30 VISIT 574066b621021 Vizita de la ip 178.138.33.122

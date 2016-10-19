@@ -1,0 +1,6 @@
+2016-05-13 09:56:25 VISIT 57357a99af1a0 Vizita de la ip 62.231.98.114
+2016-05-13 09:56:31 LOGOUT 57357a99af1a0 Utilizatorul  s-a delogat de pe aplicatie
+2016-05-13 09:56:31 LOGOUT 57357a99af1a0 Utilizatorul  s-a delogat de pe aplicatie
+2016-05-13 09:56:31 VISIT 57357a9fb1e5a Vizita de la ip 62.231.98.114
+2016-05-13 09:56:31 LOGIN 57357a9fb1e5a Utilizatorul amp s-a logat pe aplicatie
+2016-05-13 10:15:14 LOGOUT  Utilizatorul  s-a delogat de pe aplicatie

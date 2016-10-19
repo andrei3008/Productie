@@ -1,0 +1,13 @@
+2016-06-08 13:23:42 VISIT 5757f22e89e76 Vizita de la ip 62.231.98.114
+2016-06-08 13:23:48 LOGOUT 5757f22e89e76 Utilizatorul  s-a delogat de pe aplicatie
+2016-06-08 13:23:48 LOGOUT 5757f22e89e76 Utilizatorul  s-a delogat de pe aplicatie
+2016-06-08 13:23:48 VISIT 5757f22e89e76 Vizita de la ip 62.231.98.114
+2016-06-08 13:23:48 LOGIN 5757f22e89e76 Utilizatorul amp s-a logat pe aplicatie
+2016-06-08 13:32:28 LOGOUT 5757f22e89e76 Utilizatorul amp s-a delogat de pe aplicatie
+2016-06-08 13:32:28 LOGOUT 5757f22e89e76 Utilizatorul amp s-a delogat de pe aplicatie
+2016-06-08 13:32:29 VISIT 5757f43d0ba1b Vizita de la ip 62.231.98.114
+2016-06-08 13:32:38 LOGOUT 5757f43d0ba1b Utilizatorul  s-a delogat de pe aplicatie
+2016-06-08 13:32:38 LOGOUT 5757f43d0ba1b Utilizatorul  s-a delogat de pe aplicatie
+2016-06-08 13:32:38 VISIT 5757f4460e2e5 Vizita de la ip 62.231.98.114
+2016-06-08 13:32:38 LOGIN 5757f4460e2e5 Utilizatorul amp s-a logat pe aplicatie
+2016-06-08 13:47:36 LOGOUT 5757f4460e2e5 Utilizatorul amp s-a delogat de pe aplicatie

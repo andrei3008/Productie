@@ -1,0 +1,14 @@
+2016-02-11 14:27:15 VISIT 56bc7e23bc1d6 Vizita de la ip 62.231.98.114
+2016-02-11 14:27:20 LOGOUT 56bc7e23bc1d6 Utilizatorul  s-a delogat de pe aplicatie
+2016-02-11 14:27:20 VISIT 56bc7e288ed5e Vizita de la ip 62.231.98.114
+2016-02-11 14:27:20 LOGIN 56bc7e288ed5e Utilizatorul amp s-a logat pe aplicatie
+2016-02-11 14:28:30 LOGOUT 56bc7e288ed5e Utilizatorul amp s-a delogat de pe aplicatie
+2016-02-11 14:28:30 VISIT 56bc7e6e824e3 Vizita de la ip 62.231.98.114
+2016-02-11 14:28:36 LOGOUT 56bc7e6e824e3 Utilizatorul  s-a delogat de pe aplicatie
+2016-02-11 14:28:36 VISIT 56bc7e744d8e6 Vizita de la ip 62.231.98.114
+2016-02-11 14:28:36 LOGIN 56bc7e744d8e6 Utilizatorul amp s-a logat pe aplicatie
+2016-02-11 14:32:17 LOGOUT 56bc7e744d8e6 Utilizatorul amp s-a delogat de pe aplicatie
+2016-02-11 14:32:17 LOGOUT 56bc7e744d8e6 Utilizatorul amp s-a delogat.
+2016-02-11 14:32:17 VISIT 56bc7f5140096 Vizita de la ip 62.231.98.114
+2016-02-11 14:32:18 LOGOUT 56bc7f5140096 Utilizatorul  s-a delogat de pe aplicatie
+2016-02-11 14:32:18 LOGOUT  Utilizatorul  s-a delogat de pe aplicatie

@@ -1,0 +1,18 @@
+2016-08-09 16:36:31 LOGOUT  Utilizatorul KMRLIBWATS s-a delogat de pe aplicatie
+2016-08-09 16:36:31 LOGOUT  Utilizatorul KMRLIBWATS s-a delogat.
+2016-08-09 16:36:31 LOGOUT  Utilizatorul KMRLIBWATS s-a delogat de pe aplicatie
+2016-08-09 16:36:31 VISIT 57a9dc5f75073 Vizita de la ip 82.79.220.114
+2016-08-09 16:36:33 LOGOUT 57a9dc5f75073 Utilizatorul  s-a delogat de pe aplicatie
+2016-08-09 16:36:33 LOGOUT  Utilizatorul  s-a delogat de pe aplicatie
+2016-08-09 16:36:33 VISIT 57a9dc615245a Vizita de la ip 82.79.220.114
+2016-08-09 16:36:33 ERROR 57a9dc615245a Utilizatorul adi nu a reusit sa se logheze pe aplicatie
+2016-08-09 16:36:36 LOGOUT 57a9dc615245a Utilizatorul  s-a delogat de pe aplicatie
+2016-08-09 16:36:36 LOGOUT 57a9dc615245a Utilizatorul  s-a delogat de pe aplicatie
+2016-08-09 16:36:36 VISIT 57a9dc64816cc Vizita de la ip 82.79.220.114
+2016-08-09 16:36:36 ERROR 57a9dc64816cc Utilizatorul adi nu a reusit sa se logheze pe aplicatie
+2016-08-09 16:36:39 LOGOUT 57a9dc64816cc Utilizatorul  s-a delogat de pe aplicatie
+2016-08-09 16:36:39 LOGOUT 57a9dc64816cc Utilizatorul  s-a delogat de pe aplicatie
+2016-08-09 16:36:39 VISIT 57a9dc67e7f8b Vizita de la ip 82.79.220.114
+2016-08-09 16:36:39 ERROR 57a9dc67e7f8b Utilizatorul adi nu a reusit sa se logheze pe aplicatie
+2016-08-09 16:36:43 LOGOUT 57a9dc67e7f8b Utilizatorul  s-a delogat de pe aplicatie
+2016-08-09 16:36:43 LOGOUT 57a9dc67e7f8b Utilizatorul  s-a delogat de pe aplicatie

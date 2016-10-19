@@ -1,0 +1,29 @@
+2016-01-28 12:31:05 VISIT 56a9ede933dfb Vizita de la ip 62.231.98.114
+2016-01-28 12:31:10 LOGOUT 56a9ede933dfb Utilizatorul  s-a delogat de pe aplicatie
+2016-01-28 12:31:10 LOGOUT 56a9ede933dfb Utilizatorul  s-a delogat de pe aplicatie
+2016-01-28 12:31:10 VISIT 56a9edee0e0c3 Vizita de la ip 62.231.98.114
+2016-01-28 12:31:10 LOGIN 56a9edee0e0c3 Utilizatorul amp s-a logat pe aplicatie
+2016-01-28 12:31:16 LOGOUT 56a9edee0e0c3 Utilizatorul amp s-a delogat de pe aplicatie
+2016-01-28 12:31:16 LOGOUT 56a9edee0e0c3 Utilizatorul amp s-a delogat de pe aplicatie
+2016-01-28 12:32:57 VISIT 56a9ee59e7138 Vizita de la ip 62.231.98.114
+2016-01-28 12:33:02 LOGOUT 56a9ee59e7138 Utilizatorul  s-a delogat de pe aplicatie
+2016-01-28 12:33:02 LOGOUT 56a9ee59e7138 Utilizatorul  s-a delogat de pe aplicatie
+2016-01-28 12:33:02 VISIT 56a9ee5e93f10 Vizita de la ip 62.231.98.114
+2016-01-28 12:33:02 LOGIN 56a9ee5e93f10 Utilizatorul amp s-a logat pe aplicatie
+2016-01-28 12:33:07 LOGOUT 56a9ee5e93f10 Utilizatorul amp s-a delogat de pe aplicatie
+2016-01-28 12:33:07 LOGOUT 56a9ee5e93f10 Utilizatorul amp s-a delogat de pe aplicatie
+2016-01-28 12:36:44 VISIT 56a9ef3cc314c Vizita de la ip 62.231.98.114
+2016-01-28 12:36:56 LOGOUT 56a9ef3cc314c Utilizatorul  s-a delogat de pe aplicatie
+2016-01-28 12:36:56 LOGOUT 56a9ef3cc314c Utilizatorul  s-a delogat de pe aplicatie
+2016-01-28 12:36:56 VISIT 56a9ef48bd3d8 Vizita de la ip 62.231.98.114
+2016-01-28 12:36:56 ERROR 56a9ef48bd3d8 Utilizatorul amp nu a reusit sa se logheze pe aplicatie
+2016-01-28 12:37:01 LOGOUT 56a9ef48bd3d8 Utilizatorul  s-a delogat de pe aplicatie
+2016-01-28 12:37:01 LOGOUT 56a9ef48bd3d8 Utilizatorul  s-a delogat de pe aplicatie
+2016-01-28 12:37:01 VISIT 56a9ef4d6b41d Vizita de la ip 62.231.98.114
+2016-01-28 12:37:01 LOGIN 56a9ef4d6b41d Utilizatorul amp s-a logat pe aplicatie
+2016-01-28 12:41:31 LOGOUT 56a9ef4d6b41d Utilizatorul amp s-a delogat de pe aplicatie
+2016-01-28 12:41:31 LOGOUT 56a9ef4d6b41d Utilizatorul amp s-a delogat de pe aplicatie
+2016-01-28 16:00:54 LOGOUT  Utilizatorul  s-a delogat de pe aplicatie
+2016-01-28 16:00:54 VISIT 56aa1f1693265 Vizita de la ip 62.231.98.114
+2016-01-28 16:01:02 LOGOUT 56aa1f1693265 Utilizatorul  s-a delogat de pe aplicatie
+2016-01-28 16:01:02 LOGOUT  Utilizatorul  s-a delogat de pe aplicatie

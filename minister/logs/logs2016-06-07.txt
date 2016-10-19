@@ -1,0 +1,2 @@
+2016-06-07 11:18:15 VISIT 575683474f0b8 Vizita de la ip 62.231.98.114
+2016-06-07 11:18:46 LOGOUT 575683474f0b8 Utilizatorul  s-a delogat de pe aplicatie

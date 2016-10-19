@@ -1,0 +1,26 @@
+2016-02-08 22:05:47 LOGOUT  Utilizatorul  s-a delogat de pe aplicatie
+2016-02-08 22:05:47 LOGOUT  Utilizatorul  s-a delogat de pe aplicatie
+2016-02-08 22:05:53 VISIT 56b8f521673cd Vizita de la ip 82.79.220.114
+2016-02-08 22:05:55 LOGOUT 56b8f521673cd Utilizatorul  s-a delogat de pe aplicatie
+2016-02-08 22:05:55 LOGOUT 56b8f521673cd Utilizatorul  s-a delogat de pe aplicatie
+2016-02-08 22:05:55 VISIT 56b8f523506e6 Vizita de la ip 82.79.220.114
+2016-02-08 22:05:55 ERROR 56b8f523506e6 Utilizatorul adi nu a reusit sa se logheze pe aplicatie
+2016-02-08 22:05:56 LOGOUT 56b8f523506e6 Utilizatorul  s-a delogat de pe aplicatie
+2016-02-08 22:05:56 LOGOUT 56b8f523506e6 Utilizatorul  s-a delogat de pe aplicatie
+2016-02-08 22:05:56 VISIT 56b8f524ca6ed Vizita de la ip 82.79.220.114
+2016-02-08 22:05:56 ERROR 56b8f524ca6ed Utilizatorul adi nu a reusit sa se logheze pe aplicatie
+2016-02-08 22:05:57 LOGOUT 56b8f524ca6ed Utilizatorul  s-a delogat de pe aplicatie
+2016-02-08 22:05:57 LOGOUT 56b8f524ca6ed Utilizatorul  s-a delogat de pe aplicatie
+2016-02-08 22:05:57 VISIT 56b8f525afb09 Vizita de la ip 82.79.220.114
+2016-02-08 22:05:57 ERROR 56b8f525afb09 Utilizatorul adi nu a reusit sa se logheze pe aplicatie
+2016-02-08 22:05:58 LOGOUT 56b8f525afb09 Utilizatorul  s-a delogat de pe aplicatie
+2016-02-08 22:05:58 LOGOUT 56b8f525afb09 Utilizatorul  s-a delogat de pe aplicatie
+2016-02-08 22:05:58 VISIT 56b8f5269cd4e Vizita de la ip 82.79.220.114
+2016-02-08 22:05:58 ERROR 56b8f5269cd4e Utilizatorul adi nu a reusit sa se logheze pe aplicatie
+2016-02-08 22:05:59 LOGOUT 56b8f5269cd4e Utilizatorul  s-a delogat de pe aplicatie
+2016-02-08 22:05:59 LOGOUT 56b8f5269cd4e Utilizatorul  s-a delogat de pe aplicatie
+2016-02-08 22:05:59 VISIT 56b8f52785db1 Vizita de la ip 82.79.220.114
+2016-02-08 22:05:59 ERROR 56b8f52785db1 Utilizatorul adi nu a reusit sa se logheze pe aplicatie
+2016-02-08 22:06:02 LOGOUT 56b8f52785db1 Utilizatorul  s-a delogat de pe aplicatie
+2016-02-08 22:06:02 LOGOUT 56b8f52785db1 Utilizatorul  s-a delogat de pe aplicatie
+2016-02-08 22:06:03 VISIT 56b8f52b7478a Vizita de la ip 82.79.220.114

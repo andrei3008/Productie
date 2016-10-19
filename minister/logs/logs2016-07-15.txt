@@ -1,0 +1,13 @@
+2016-07-15 16:03:26 VISIT 5788df1ee3d4f Vizita de la ip 62.231.98.114
+2016-07-15 16:03:34 LOGOUT 5788df1ee3d4f Utilizatorul  s-a delogat de pe aplicatie
+2016-07-15 16:03:34 LOGOUT 5788df1ee3d4f Utilizatorul  s-a delogat de pe aplicatie
+2016-07-15 16:03:34 VISIT 5788df26f3eec Vizita de la ip 62.231.98.114
+2016-07-15 16:03:34 ERROR 5788df26f3eec Utilizatorul ampera nu a reusit sa se logheze pe aplicatie
+2016-07-15 16:03:40 LOGOUT 5788df26f3eec Utilizatorul  s-a delogat de pe aplicatie
+2016-07-15 16:20:38 LOGOUT  Utilizatorul KMRLIBWATS s-a delogat de pe aplicatie
+2016-07-15 16:20:38 LOGOUT  Utilizatorul KMRLIBWATS s-a delogat de pe aplicatie
+2016-07-15 16:21:47 LOGOUT  Utilizatorul KMRLIBWATS s-a delogat de pe aplicatie
+2016-07-15 16:21:47 LOGOUT  Utilizatorul KMRLIBWATS s-a delogat de pe aplicatie
+2016-07-15 16:25:08 LOGOUT  Utilizatorul KMRLIBWATS s-a delogat de pe aplicatie
+2016-07-15 16:25:08 LOGOUT  Utilizatorul KMRLIBWATS s-a delogat de pe aplicatie
+2016-07-15 16:39:00 LOGOUT  Utilizatorul  s-a delogat de pe aplicatie

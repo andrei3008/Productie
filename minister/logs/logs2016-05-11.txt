@@ -1,0 +1,7 @@
+2016-05-11 14:47:19 VISIT 57331bc727948 Vizita de la ip 62.231.98.114
+2016-05-11 14:47:25 LOGOUT  Utilizatorul  s-a delogat de pe aplicatie
+2016-05-11 14:47:25 VISIT 57331bcd67326 Vizita de la ip 62.231.98.114
+2016-05-11 14:47:25 LOGOUT  Utilizatorul  s-a delogat de pe aplicatie
+2016-05-11 14:47:25 LOGIN 57331bcd67326 Utilizatorul amp s-a logat pe aplicatie
+2016-05-11 15:07:32 LOGOUT 57331bcd67326 Utilizatorul amp s-a delogat de pe aplicatie
+2016-05-11 15:07:32 LOGOUT 57331bcd67326 Utilizatorul amp s-a delogat de pe aplicatie

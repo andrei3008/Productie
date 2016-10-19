@@ -1,0 +1,15 @@
+2016-02-18 13:11:30 VISIT 56c5a6e2850a7 Vizita de la ip 62.231.98.114
+2016-02-18 13:11:35 VISIT 56c5a6e72b0c1 Vizita de la ip 62.231.98.114
+2016-02-18 13:11:35 ERROR 56c5a6e72b0c1 Utilizatorul adi nu a reusit sa se logheze pe aplicatie
+2016-02-18 13:11:40 VISIT 56c5a6eceb556 Vizita de la ip 62.231.98.114
+2016-02-18 13:11:40 LOGIN 56c5a6eceb556 Utilizatorul amp s-a logat pe aplicatie
+2016-02-18 13:11:50 LOGOUT 56c5a6eceb556 Utilizatorul amp s-a delogat.
+2016-02-18 13:11:50 LOGOUT  Utilizatorul  s-a delogat.
+2016-02-18 13:11:50 VISIT 56c5a6f6a5aff Vizita de la ip 62.231.98.114
+2016-02-18 13:49:13 VISIT 56c5afb9942cb Vizita de la ip 62.231.98.114
+2016-02-18 13:50:00 VISIT 56c5afe8af88c Vizita de la ip 62.231.98.114
+2016-02-18 13:50:39 VISIT 56c5b00f67d80 Vizita de la ip 62.231.98.114
+2016-02-18 13:50:43 LOGOUT 56c5b00f67d80 Utilizatorul  s-a delogat de pe aplicatie
+2016-02-18 13:50:43 LOGOUT 56c5b00f67d80 Utilizatorul  s-a delogat de pe aplicatie
+2016-02-18 16:35:34 LOGOUT  Utilizatorul  s-a delogat de pe aplicatie
+2016-02-18 16:35:34 LOGOUT  Utilizatorul  s-a delogat de pe aplicatie

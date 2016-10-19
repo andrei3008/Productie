@@ -1,0 +1,6 @@
+2016-02-06 13:40:43 VISIT 56b5dbbb8f439 Vizita de la ip 82.79.220.114
+2016-02-06 13:40:45 LOGOUT 56b5dbbb8f439 Utilizatorul  s-a delogat de pe aplicatie
+2016-02-06 13:40:45 LOGOUT 56b5dbbb8f439 Utilizatorul  s-a delogat de pe aplicatie
+2016-02-06 13:40:49 VISIT 56b5dbc1e7302 Vizita de la ip 82.79.220.114
+2016-02-06 13:40:50 LOGOUT 56b5dbc1e7302 Utilizatorul  s-a delogat de pe aplicatie
+2016-02-06 13:40:50 LOGOUT  Utilizatorul  s-a delogat de pe aplicatie

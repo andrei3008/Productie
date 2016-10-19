@@ -1,0 +1,29 @@
+2016-01-29 09:16:16 VISIT 56ab11c070b66 Vizita de la ip 62.231.98.114
+2016-01-29 09:16:20 VISIT 56ab11c44aeac Vizita de la ip 62.231.98.114
+2016-01-29 09:16:20 LOGIN 56ab11c44aeac Utilizatorul amp s-a logat pe aplicatie
+2016-01-29 09:17:34 LOGOUT 56ab11c44aeac Utilizatorul  s-a delogat de pe aplicatie
+2016-01-29 09:17:34 LOGOUT 56ab11c44aeac Utilizatorul  s-a delogat de pe aplicatie
+2016-01-29 09:19:55 VISIT 56ab129bf36c7 Vizita de la ip 62.231.98.114
+2016-01-29 09:19:59 VISIT 56ab129fd1944 Vizita de la ip 62.231.98.114
+2016-01-29 09:19:59 LOGIN 56ab129fd1944 Utilizatorul amp s-a logat pe aplicatie
+2016-01-29 09:20:03 LOGOUT 56ab129fd1944 Utilizatorul amp s-a delogat de pe aplicatie
+2016-01-29 09:20:03 LOGOUT 56ab129fd1944 Utilizatorul amp s-a delogat de pe aplicatie
+2016-01-29 22:25:51 VISIT 56abcacfc098a Vizita de la ip 82.79.220.114
+2016-01-29 22:25:53 LOGOUT 56abcacfc098a Utilizatorul  s-a delogat de pe aplicatie
+2016-01-29 22:25:53 LOGOUT 56abcacfc098a Utilizatorul  s-a delogat de pe aplicatie
+2016-01-29 22:25:53 VISIT 56abcacfc098a Vizita de la ip 82.79.220.114
+2016-01-29 22:25:53 ERROR 56abcacfc098a Utilizatorul adi nu a reusit sa se logheze pe aplicatie
+2016-01-29 22:25:56 LOGOUT 56abcacfc098a Utilizatorul  s-a delogat de pe aplicatie
+2016-01-29 22:25:56 LOGOUT 56abcacfc098a Utilizatorul  s-a delogat de pe aplicatie
+2016-01-29 22:26:00 VISIT 56abcad8834d9 Vizita de la ip 82.79.220.114
+2016-01-29 22:26:03 LOGOUT 56abcad8834d9 Utilizatorul  s-a delogat de pe aplicatie
+2016-01-29 22:26:03 LOGOUT 56abcad8834d9 Utilizatorul  s-a delogat de pe aplicatie
+2016-01-29 22:26:20 VISIT 56abcaec17b84 Vizita de la ip 82.79.220.114
+2016-01-29 22:26:21 LOGOUT 56abcaec17b84 Utilizatorul  s-a delogat de pe aplicatie
+2016-01-29 22:26:21 LOGOUT 56abcaec17b84 Utilizatorul  s-a delogat de pe aplicatie
+2016-01-29 22:26:21 VISIT 56abcaedb1487 Vizita de la ip 82.79.220.114
+2016-01-29 22:26:21 ERROR 56abcaedb1487 Utilizatorul adi nu a reusit sa se logheze pe aplicatie
+2016-01-29 22:26:22 LOGOUT 56abcaedb1487 Utilizatorul  s-a delogat de pe aplicatie
+2016-01-29 22:26:22 LOGOUT 56abcaedb1487 Utilizatorul  s-a delogat de pe aplicatie
+2016-01-29 22:26:22 VISIT 56abcaeec4afa Vizita de la ip 82.79.220.114
+2016-01-29 22:26:22 ERROR 56abcaeec4afa Utilizatorul adi nu a reusit sa se logheze pe aplicatie

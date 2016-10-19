@@ -1,0 +1,31 @@
+2016-02-23 22:51:21 LOGOUT  Utilizatorul  s-a delogat de pe aplicatie
+2016-02-23 22:51:21 LOGOUT  Utilizatorul  s-a delogat de pe aplicatie
+2016-02-23 22:51:26 VISIT 56ccc64ecde36 Vizita de la ip 82.79.220.114
+2016-02-23 22:51:28 LOGOUT 56ccc64ecde36 Utilizatorul  s-a delogat de pe aplicatie
+2016-02-23 22:51:28 LOGOUT 56ccc64ecde36 Utilizatorul  s-a delogat de pe aplicatie
+2016-02-23 22:51:28 VISIT 56ccc65089418 Vizita de la ip 82.79.220.114
+2016-02-23 22:51:28 ERROR 56ccc65089418 Utilizatorul adi nu a reusit sa se logheze pe aplicatie
+2016-02-23 22:51:30 LOGOUT 56ccc65089418 Utilizatorul  s-a delogat de pe aplicatie
+2016-02-23 22:51:30 LOGOUT 56ccc65089418 Utilizatorul  s-a delogat de pe aplicatie
+2016-02-23 22:51:30 VISIT 56ccc65289396 Vizita de la ip 82.79.220.114
+2016-02-23 22:51:30 ERROR 56ccc65289396 Utilizatorul adi nu a reusit sa se logheze pe aplicatie
+2016-02-23 22:51:31 LOGOUT 56ccc65289396 Utilizatorul  s-a delogat de pe aplicatie
+2016-02-23 22:51:31 LOGOUT 56ccc65289396 Utilizatorul  s-a delogat de pe aplicatie
+2016-02-23 22:51:31 VISIT 56ccc65289396 Vizita de la ip 82.79.220.114
+2016-02-23 22:51:31 ERROR 56ccc65289396 Utilizatorul adi nu a reusit sa se logheze pe aplicatie
+2016-02-23 22:51:33 LOGOUT 56ccc65289396 Utilizatorul  s-a delogat de pe aplicatie
+2016-02-23 22:51:33 LOGOUT 56ccc65289396 Utilizatorul  s-a delogat de pe aplicatie
+2016-02-23 22:51:33 VISIT 56ccc655a7fd3 Vizita de la ip 82.79.220.114
+2016-02-23 22:51:33 ERROR 56ccc655a7fd3 Utilizatorul adi nu a reusit sa se logheze pe aplicatie
+2016-02-23 22:51:34 LOGOUT 56ccc655a7fd3 Utilizatorul  s-a delogat de pe aplicatie
+2016-02-23 22:51:34 LOGOUT 56ccc655a7fd3 Utilizatorul  s-a delogat de pe aplicatie
+2016-02-23 22:51:34 VISIT 56ccc656e9056 Vizita de la ip 82.79.220.114
+2016-02-23 22:51:34 ERROR 56ccc656e9056 Utilizatorul adi nu a reusit sa se logheze pe aplicatie
+2016-02-23 22:51:36 LOGOUT 56ccc656e9056 Utilizatorul  s-a delogat de pe aplicatie
+2016-02-23 22:51:36 LOGOUT 56ccc656e9056 Utilizatorul  s-a delogat de pe aplicatie
+2016-02-23 22:51:36 VISIT 56ccc6581ed85 Vizita de la ip 82.79.220.114
+2016-02-23 22:51:36 ERROR 56ccc6581ed85 Utilizatorul adi nu a reusit sa se logheze pe aplicatie
+2016-02-23 22:51:39 LOGOUT 56ccc6581ed85 Utilizatorul  s-a delogat de pe aplicatie
+2016-02-23 22:51:39 LOGOUT 56ccc6581ed85 Utilizatorul  s-a delogat de pe aplicatie
+2016-02-23 22:51:41 VISIT 56ccc65dc248f Vizita de la ip 82.79.220.114
+2016-02-23 22:51:59 LOGOUT  Utilizatorul  s-a delogat de pe aplicatie

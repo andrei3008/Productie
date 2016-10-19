@@ -1,0 +1,41 @@
+2016-02-22 11:50:42 LOGOUT  Utilizatorul  s-a delogat de pe aplicatie
+2016-02-22 11:50:42 LOGOUT  Utilizatorul  s-a delogat de pe aplicatie
+2016-02-22 11:50:46 LOGOUT  Utilizatorul  s-a delogat de pe aplicatie
+2016-02-22 11:50:46 LOGOUT  Utilizatorul  s-a delogat de pe aplicatie
+2016-02-22 11:50:50 VISIT 56cad9fada01b Vizita de la ip 62.231.98.114
+2016-02-22 11:50:52 LOGOUT 56cad9fada01b Utilizatorul  s-a delogat de pe aplicatie
+2016-02-22 11:50:52 LOGOUT 56cad9fada01b Utilizatorul  s-a delogat de pe aplicatie
+2016-02-22 11:50:52 VISIT 56cad9fca065a Vizita de la ip 62.231.98.114
+2016-02-22 11:50:52 ERROR 56cad9fca065a Utilizatorul adi nu a reusit sa se logheze pe aplicatie
+2016-02-22 11:50:54 LOGOUT 56cad9fca065a Utilizatorul  s-a delogat de pe aplicatie
+2016-02-22 11:50:54 LOGOUT 56cad9fca065a Utilizatorul  s-a delogat de pe aplicatie
+2016-02-22 11:50:54 VISIT 56cad9fe5f8f4 Vizita de la ip 62.231.98.114
+2016-02-22 11:50:54 ERROR 56cad9fe5f8f4 Utilizatorul adi nu a reusit sa se logheze pe aplicatie
+2016-02-22 11:50:57 LOGOUT 56cad9fe5f8f4 Utilizatorul  s-a delogat de pe aplicatie
+2016-02-22 11:50:57 LOGOUT 56cad9fe5f8f4 Utilizatorul  s-a delogat de pe aplicatie
+2016-02-22 11:50:57 VISIT 56cada012aebf Vizita de la ip 62.231.98.114
+2016-02-22 11:50:59 LOGOUT 56cada012aebf Utilizatorul  s-a delogat de pe aplicatie
+2016-02-22 11:50:59 LOGOUT 56cada012aebf Utilizatorul  s-a delogat de pe aplicatie
+2016-02-22 11:50:59 VISIT 56cada030bb09 Vizita de la ip 62.231.98.114
+2016-02-22 11:50:59 ERROR 56cada030bb09 Utilizatorul adi nu a reusit sa se logheze pe aplicatie
+2016-02-22 11:51:02 LOGOUT 56cada030bb09 Utilizatorul  s-a delogat de pe aplicatie
+2016-02-22 11:51:02 LOGOUT 56cada030bb09 Utilizatorul  s-a delogat de pe aplicatie
+2016-02-22 11:51:05 VISIT 56cada0906fde Vizita de la ip 62.231.98.114
+2016-02-22 11:54:55 VISIT 56cadaefc2227 Vizita de la ip 62.231.98.114
+2016-02-22 11:55:02 LOGOUT 56cadaefc2227 Utilizatorul  s-a delogat de pe aplicatie
+2016-02-22 11:55:02 LOGOUT 56cadaefc2227 Utilizatorul  s-a delogat de pe aplicatie
+2016-02-22 11:55:02 VISIT 56cadaf60ed46 Vizita de la ip 62.231.98.114
+2016-02-22 11:55:02 LOGIN 56cadaf60ed46 Utilizatorul amp s-a logat pe aplicatie
+2016-02-22 11:55:09 LOGOUT 56cadaf60ed46 Utilizatorul amp s-a delogat de pe aplicatie
+2016-02-22 11:55:09 LOGOUT 56cadaf60ed46 Utilizatorul amp s-a delogat.
+2016-02-22 11:55:09 LOGOUT 56cadaf60ed46 Utilizatorul amp s-a delogat de pe aplicatie
+2016-02-22 11:55:09 VISIT 56cadafdc480f Vizita de la ip 62.231.98.114
+2016-02-22 18:42:25 LOGOUT  Utilizatorul  s-a delogat de pe aplicatie
+2016-02-22 18:42:25 LOGOUT  Utilizatorul  s-a delogat de pe aplicatie
+2016-02-22 21:51:13 VISIT 56cb66b156b67 Vizita de la ip 79.117.134.69
+2016-02-22 21:51:19 LOGOUT 56cb66b156b67 Utilizatorul  s-a delogat de pe aplicatie
+2016-02-22 21:51:19 LOGOUT  Utilizatorul  s-a delogat de pe aplicatie
+2016-02-22 21:51:19 VISIT 56cb66b7383e9 Vizita de la ip 79.117.134.69
+2016-02-22 21:51:19 LOGIN 56cb66b7383e9 Utilizatorul amp s-a logat pe aplicatie
+2016-02-22 21:55:33 LOGOUT 56cb66b7383e9 Utilizatorul amp s-a delogat de pe aplicatie
+2016-02-22 21:55:33 LOGOUT 56cb66b7383e9 Utilizatorul amp s-a delogat de pe aplicatie

@@ -1,0 +1,29 @@
+2016-03-04 17:25:00 LOGOUT  Utilizatorul KMRLIBWATS s-a delogat de pe aplicatie
+2016-03-04 17:28:06 LOGOUT  Utilizatorul KMRLIBWATS s-a delogat de pe aplicatie
+2016-03-04 17:32:55 LOGOUT  Utilizatorul KMRLIBWATS s-a delogat de pe aplicatie
+2016-03-04 17:32:55 LOGOUT  Utilizatorul KMRLIBWATS s-a delogat de pe aplicatie
+2016-03-04 17:33:28 LOGOUT  Utilizatorul  s-a delogat de pe aplicatie
+2016-03-04 17:33:28 LOGOUT  Utilizatorul  s-a delogat de pe aplicatie
+2016-03-04 17:33:28 VISIT 56d9aac81bb35 Vizita de la ip 62.231.98.114
+2016-03-04 17:33:33 LOGOUT 56d9aac81bb35 Utilizatorul  s-a delogat de pe aplicatie
+2016-03-04 17:33:33 LOGOUT 56d9aac81bb35 Utilizatorul  s-a delogat de pe aplicatie
+2016-03-04 17:33:33 VISIT 56d9aacd8ea4a Vizita de la ip 62.231.98.114
+2016-03-04 17:33:33 LOGIN 56d9aacd8ea4a Utilizatorul amp s-a logat pe aplicatie
+2016-03-04 17:33:56 LOGOUT 56d9aacd8ea4a Utilizatorul amp s-a delogat de pe aplicatie
+2016-03-04 17:33:56 LOGOUT 56d9aacd8ea4a Utilizatorul amp s-a delogat de pe aplicatie
+2016-03-04 17:34:06 LOGOUT  Utilizatorul  s-a delogat de pe aplicatie
+2016-03-04 17:34:06 LOGOUT  Utilizatorul  s-a delogat de pe aplicatie
+2016-03-04 17:34:06 VISIT 56d9aaee7f056 Vizita de la ip 62.231.98.114
+2016-03-04 17:44:23 LOGOUT  Utilizatorul KMRLIBWATS s-a delogat de pe aplicatie
+2016-03-04 17:44:23 LOGOUT  Utilizatorul KMRLIBWATS s-a delogat de pe aplicatie
+2016-03-04 17:44:25 LOGOUT  Utilizatorul  s-a delogat de pe aplicatie
+2016-03-04 17:44:25 LOGOUT  Utilizatorul  s-a delogat de pe aplicatie
+2016-03-04 17:44:27 LOGOUT  Utilizatorul  s-a delogat de pe aplicatie
+2016-03-04 17:48:16 LOGOUT  Utilizatorul KMRLIBWATS s-a delogat de pe aplicatie
+2016-03-04 17:48:16 LOGOUT  Utilizatorul KMRLIBWATS s-a delogat de pe aplicatie
+2016-03-04 17:56:55 LOGOUT  Utilizatorul KMRLIBWATS s-a delogat de pe aplicatie
+2016-03-04 17:56:55 LOGOUT  Utilizatorul KMRLIBWATS s-a delogat de pe aplicatie
+2016-03-04 18:01:37 LOGOUT  Utilizatorul  s-a delogat de pe aplicatie
+2016-03-04 18:01:37 LOGOUT  Utilizatorul  s-a delogat de pe aplicatie
+2016-03-04 18:01:38 LOGOUT  Utilizatorul  s-a delogat de pe aplicatie
+2016-03-04 18:01:38 LOGOUT  Utilizatorul  s-a delogat de pe aplicatie

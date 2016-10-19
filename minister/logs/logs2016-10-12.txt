@@ -1,0 +1,4 @@
+2016-10-12 18:08:08 LOGOUT  Utilizatorul  s-a delogat de pe aplicatie
+2016-10-12 18:08:09 LOGOUT  Utilizatorul  s-a delogat de pe aplicatie
+2016-10-12 18:08:10 LOGOUT  Utilizatorul  s-a delogat de pe aplicatie
+2016-10-12 18:08:11 LOGOUT  Utilizatorul  s-a delogat de pe aplicatie

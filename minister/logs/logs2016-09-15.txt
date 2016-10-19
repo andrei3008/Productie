@@ -1,0 +1,33 @@
+2016-09-15 14:52:50 LOGOUT  Utilizatorul KMRLIBWATS s-a delogat de pe aplicatie
+2016-09-15 14:52:51 LOGOUT  Utilizatorul KMRLIBWATS s-a delogat de pe aplicatie
+2016-09-15 14:53:36 LOGOUT  Utilizatorul  s-a delogat de pe aplicatie
+2016-09-15 14:56:58 LOGOUT  Utilizatorul  s-a delogat de pe aplicatie
+2016-09-15 14:56:59 LOGOUT  Utilizatorul  s-a delogat de pe aplicatie
+2016-09-15 14:57:23 LOGOUT  Utilizatorul KMRLIBWATS s-a delogat de pe aplicatie
+2016-09-15 14:57:24 LOGOUT  Utilizatorul KMRLIBWATS s-a delogat de pe aplicatie
+2016-09-15 14:57:34 LOGOUT  Utilizatorul  s-a delogat de pe aplicatie
+2016-09-15 14:57:35 LOGOUT  Utilizatorul  s-a delogat de pe aplicatie
+2016-09-15 14:57:36 VISIT 57da8cb06af9f Vizita de la ip 62.231.98.114
+2016-09-15 14:57:41 LOGOUT 57da8cb06af9f Utilizatorul  s-a delogat de pe aplicatie
+2016-09-15 14:57:42 LOGOUT 57da8cb06af9f Utilizatorul  s-a delogat de pe aplicatie
+2016-09-15 14:58:13 LOGOUT 57da8cb06af9f Utilizatorul KMRLIBWATS s-a delogat de pe aplicatie
+2016-09-15 14:58:14 LOGOUT 57da8cb06af9f Utilizatorul KMRLIBWATS s-a delogat de pe aplicatie
+2016-09-15 14:58:14 VISIT 57da8cd6df932 Vizita de la ip 62.231.98.114
+2016-09-15 14:58:19 LOGOUT 57da8cd6df932 Utilizatorul  s-a delogat de pe aplicatie
+2016-09-15 14:58:20 LOGOUT 57da8cd6df932 Utilizatorul  s-a delogat de pe aplicatie
+2016-09-15 14:58:21 VISIT 57da8cddc8f09 Vizita de la ip 62.231.98.114
+2016-09-15 14:58:21 ERROR 57da8cddc8f09 Utilizatorul adi nu a reusit sa se logheze pe aplicatie
+2016-09-15 14:58:34 LOGOUT 57da8cddc8f09 Utilizatorul  s-a delogat de pe aplicatie
+2016-09-15 14:58:35 LOGOUT 57da8cddc8f09 Utilizatorul  s-a delogat de pe aplicatie
+2016-09-15 14:58:36 VISIT 57da8cec31845 Vizita de la ip 62.231.98.114
+2016-09-15 14:58:36 ERROR 57da8cec31845 Utilizatorul adi nu a reusit sa se logheze pe aplicatie
+2016-09-15 14:58:55 LOGOUT  Utilizatorul  s-a delogat de pe aplicatie
+2016-09-15 14:58:58 LOGOUT 57da8cec31845 Utilizatorul  s-a delogat de pe aplicatie
+2016-09-15 14:58:59 LOGOUT 57da8cec31845 Utilizatorul  s-a delogat de pe aplicatie
+2016-09-15 15:01:41 LOGOUT 57da8cec31845 Utilizatorul KMRLIBWATS s-a delogat de pe aplicatie
+2016-09-15 15:46:18 LOGOUT  Utilizatorul KMRLIBWATS s-a delogat de pe aplicatie
+2016-09-15 15:46:19 LOGOUT  Utilizatorul KMRLIBWATS s-a delogat de pe aplicatie
+2016-09-15 16:54:11 LOGOUT  Utilizatorul  s-a delogat de pe aplicatie
+2016-09-15 16:54:12 LOGOUT  Utilizatorul  s-a delogat de pe aplicatie
+2016-09-15 17:35:12 LOGOUT  Utilizatorul KMRLIBWATS s-a delogat de pe aplicatie
+2016-09-15 17:35:13 LOGOUT  Utilizatorul KMRLIBWATS s-a delogat de pe aplicatie

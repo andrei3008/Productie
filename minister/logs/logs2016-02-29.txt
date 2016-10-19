@@ -1,0 +1,56 @@
+2016-02-29 18:54:05 LOGOUT  Utilizatorul  s-a delogat de pe aplicatie
+2016-02-29 18:54:05 LOGOUT  Utilizatorul  s-a delogat de pe aplicatie
+2016-02-29 18:54:06 VISIT 56d477aede3da Vizita de la ip 62.231.98.114
+2016-02-29 18:54:09 LOGOUT 56d477aede3da Utilizatorul  s-a delogat de pe aplicatie
+2016-02-29 18:54:09 LOGOUT 56d477aede3da Utilizatorul  s-a delogat de pe aplicatie
+2016-02-29 18:54:09 VISIT 56d477b157152 Vizita de la ip 62.231.98.114
+2016-02-29 18:54:09 ERROR 56d477b157152 Utilizatorul adi nu a reusit sa se logheze pe aplicatie
+2016-02-29 18:54:10 LOGOUT 56d477b157152 Utilizatorul  s-a delogat de pe aplicatie
+2016-02-29 18:54:10 LOGOUT 56d477b157152 Utilizatorul  s-a delogat de pe aplicatie
+2016-02-29 18:54:10 VISIT 56d477b2487fb Vizita de la ip 62.231.98.114
+2016-02-29 18:54:10 ERROR 56d477b2487fb Utilizatorul adi nu a reusit sa se logheze pe aplicatie
+2016-02-29 18:54:12 LOGOUT 56d477b2487fb Utilizatorul  s-a delogat de pe aplicatie
+2016-02-29 18:54:12 LOGOUT 56d477b2487fb Utilizatorul  s-a delogat de pe aplicatie
+2016-02-29 18:54:12 VISIT 56d477b47eb6d Vizita de la ip 62.231.98.114
+2016-02-29 18:54:12 ERROR 56d477b47eb6d Utilizatorul adi nu a reusit sa se logheze pe aplicatie
+2016-02-29 18:54:23 LOGOUT 56d477b47eb6d Utilizatorul  s-a delogat de pe aplicatie
+2016-02-29 18:54:23 LOGOUT 56d477b47eb6d Utilizatorul  s-a delogat de pe aplicatie
+2016-02-29 18:54:23 VISIT 56d477bf58d75 Vizita de la ip 62.231.98.114
+2016-02-29 18:54:23 ERROR 56d477bf58d75 Utilizatorul adi nu a reusit sa se logheze pe aplicatie
+2016-02-29 18:54:30 LOGOUT 56d477bf58d75 Utilizatorul  s-a delogat de pe aplicatie
+2016-02-29 18:54:30 LOGOUT 56d477bf58d75 Utilizatorul  s-a delogat de pe aplicatie
+2016-02-29 18:54:30 VISIT 56d477bf58d75 Vizita de la ip 62.231.98.114
+2016-02-29 18:54:30 ERROR 56d477bf58d75 Utilizatorul adi nu a reusit sa se logheze pe aplicatie
+2016-02-29 18:54:37 LOGOUT 56d477bf58d75 Utilizatorul  s-a delogat de pe aplicatie
+2016-02-29 18:54:37 LOGOUT  Utilizatorul  s-a delogat de pe aplicatie
+2016-02-29 18:54:38 VISIT 56d477cec3750 Vizita de la ip 62.231.98.114
+2016-02-29 18:54:41 LOGOUT 56d477cec3750 Utilizatorul  s-a delogat de pe aplicatie
+2016-02-29 18:54:41 LOGOUT 56d477cec3750 Utilizatorul  s-a delogat de pe aplicatie
+2016-02-29 18:54:41 VISIT 56d477cec3750 Vizita de la ip 62.231.98.114
+2016-02-29 18:54:41 ERROR 56d477cec3750 Utilizatorul adi nu a reusit sa se logheze pe aplicatie
+2016-02-29 18:54:46 LOGOUT 56d477cec3750 Utilizatorul  s-a delogat de pe aplicatie
+2016-02-29 18:54:46 LOGOUT 56d477cec3750 Utilizatorul  s-a delogat de pe aplicatie
+2016-02-29 18:55:18 VISIT 56d477f6c739b Vizita de la ip 62.231.98.114
+2016-02-29 18:55:20 LOGOUT 56d477f6c739b Utilizatorul  s-a delogat de pe aplicatie
+2016-02-29 18:55:20 LOGOUT 56d477f6c739b Utilizatorul  s-a delogat de pe aplicatie
+2016-02-29 18:55:20 VISIT 56d477f8ac528 Vizita de la ip 62.231.98.114
+2016-02-29 18:55:20 ERROR 56d477f8ac528 Utilizatorul adi nu a reusit sa se logheze pe aplicatie
+2016-02-29 18:55:21 LOGOUT 56d477f8ac528 Utilizatorul  s-a delogat de pe aplicatie
+2016-02-29 18:55:21 LOGOUT 56d477f8ac528 Utilizatorul  s-a delogat de pe aplicatie
+2016-02-29 18:55:21 VISIT 56d477f98223c Vizita de la ip 62.231.98.114
+2016-02-29 18:55:21 ERROR 56d477f98223c Utilizatorul adi nu a reusit sa se logheze pe aplicatie
+2016-02-29 18:55:38 LOGOUT 56d477f98223c Utilizatorul  s-a delogat de pe aplicatie
+2016-02-29 18:55:38 LOGOUT 56d477f98223c Utilizatorul  s-a delogat de pe aplicatie
+2016-02-29 18:55:38 VISIT 56d477f98223c Vizita de la ip 62.231.98.114
+2016-02-29 18:55:38 ERROR 56d477f98223c Utilizatorul adi nu a reusit sa se logheze pe aplicatie
+2016-02-29 18:55:54 LOGOUT 56d477f98223c Utilizatorul  s-a delogat de pe aplicatie
+2016-02-29 18:55:54 LOGOUT  Utilizatorul  s-a delogat de pe aplicatie
+2016-02-29 18:55:55 VISIT 56d4781bc426d Vizita de la ip 62.231.98.114
+2016-02-29 18:55:59 LOGOUT 56d4781bc426d Utilizatorul  s-a delogat de pe aplicatie
+2016-02-29 18:55:59 LOGOUT 56d4781bc426d Utilizatorul  s-a delogat de pe aplicatie
+2016-02-29 18:55:59 VISIT 56d4781bc426d Vizita de la ip 62.231.98.114
+2016-02-29 18:55:59 ERROR 56d4781bc426d Utilizatorul adi nu a reusit sa se logheze pe aplicatie
+2016-02-29 18:56:31 LOGOUT 56d4781bc426d Utilizatorul  s-a delogat de pe aplicatie
+2016-02-29 18:56:31 LOGOUT 56d4781bc426d Utilizatorul  s-a delogat de pe aplicatie
+2016-02-29 19:26:31 LOGOUT  Utilizatorul  s-a delogat de pe aplicatie
+2016-02-29 19:26:31 LOGOUT  Utilizatorul  s-a delogat de pe aplicatie

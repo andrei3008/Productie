@@ -1,0 +1,8 @@
+2016-09-25 11:16:27 VISIT 57e787db9dee6 Vizita de la ip 82.77.217.154
+2016-09-25 11:16:35 VISIT 57e787e36d8e8 Vizita de la ip 82.77.217.154
+2016-09-25 11:16:35 LOGIN 57e787e36d8e8 Utilizatorul amp s-a logat pe aplicatie
+2016-09-25 11:16:36 LOGOUT 57e787e36d8e8 Utilizatorul amp s-a delogat de pe aplicatie
+2016-09-25 11:16:37 LOGOUT 57e787e36d8e8 Utilizatorul amp s-a delogat de pe aplicatie
+2016-09-25 11:22:16 LOGOUT 57e787e36d8e8 Utilizatorul amp s-a delogat de pe aplicatie
+2016-09-25 11:22:17 LOGOUT 57e787e36d8e8 Utilizatorul amp s-a delogat de pe aplicatie
+2016-09-25 11:59:51 LOGOUT 57e787e36d8e8 Utilizatorul amp s-a delogat de pe aplicatie

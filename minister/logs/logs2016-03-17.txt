@@ -1,0 +1,7 @@
+2016-03-17 10:26:03 VISIT 56ea6a1bcba36 Vizita de la ip 62.231.98.114
+2016-03-17 10:26:06 LOGOUT  Utilizatorul  s-a delogat de pe aplicatie
+2016-03-17 10:26:06 LOGOUT  Utilizatorul  s-a delogat de pe aplicatie
+2016-03-17 10:26:06 VISIT 56ea6a1ea467f Vizita de la ip 62.231.98.114
+2016-03-17 10:26:06 LOGIN 56ea6a1ea467f Utilizatorul amp s-a logat pe aplicatie
+2016-03-17 17:40:19 LOGOUT  Utilizatorul  s-a delogat de pe aplicatie
+2016-03-17 17:40:19 LOGOUT  Utilizatorul  s-a delogat de pe aplicatie

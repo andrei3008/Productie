@@ -1,0 +1,7 @@
+2016-08-31 11:32:43 VISIT 57c6962b233a5 Vizita de la ip 62.231.98.114
+2016-08-31 11:32:44 LOGOUT  Utilizatorul  s-a delogat de pe aplicatie
+2016-08-31 11:32:44 LOGOUT  Utilizatorul  s-a delogat de pe aplicatie
+2016-08-31 12:47:04 LOGOUT  Utilizatorul KMRLIBWATS s-a delogat de pe aplicatie
+2016-08-31 12:47:05 LOGOUT  Utilizatorul KMRLIBWATS s-a delogat de pe aplicatie
+2016-08-31 12:49:27 LOGOUT  Utilizatorul KMRLIBWATS s-a delogat de pe aplicatie
+2016-08-31 12:49:28 LOGOUT  Utilizatorul KMRLIBWATS s-a delogat de pe aplicatie

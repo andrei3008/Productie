@@ -1,0 +1,11 @@
+2016-07-22 09:30:25 VISIT 5791bd81a0598 Vizita de la ip 213.177.21.162
+2016-07-22 09:30:46 LOGOUT 5791bd81a0598 Utilizatorul  s-a delogat de pe aplicatie
+2016-07-22 09:30:46 LOGOUT 5791bd81a0598 Utilizatorul  s-a delogat de pe aplicatie
+2016-07-22 09:30:46 VISIT 5791bd962b11c Vizita de la ip 213.177.21.162
+2016-07-22 09:30:46 LOGIN 5791bd962b11c Utilizatorul STAWBILRMK s-a logat pe aplicatie
+2016-07-22 12:25:36 VISIT 5791e6906bc28 Vizita de la ip 213.177.21.162
+2016-07-22 12:25:39 LOGOUT 5791e6906bc28 Utilizatorul  s-a delogat de pe aplicatie
+2016-07-22 12:25:39 LOGOUT 5791e6906bc28 Utilizatorul  s-a delogat de pe aplicatie
+2016-07-22 12:56:30 VISIT 5791edce04209 Vizita de la ip 213.177.21.162
+2016-07-22 12:56:35 LOGOUT 5791edce04209 Utilizatorul  s-a delogat de pe aplicatie
+2016-07-22 12:56:35 LOGOUT 5791edce04209 Utilizatorul  s-a delogat de pe aplicatie

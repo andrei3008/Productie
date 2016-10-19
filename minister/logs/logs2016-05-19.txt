@@ -1,0 +1,7 @@
+2016-05-19 14:16:29 VISIT 573da08dc52f6 Vizita de la ip 213.177.21.162
+2016-05-19 14:16:49 LOGOUT  Utilizatorul  s-a delogat de pe aplicatie
+2016-05-19 14:16:49 LOGOUT  Utilizatorul  s-a delogat de pe aplicatie
+2016-05-19 14:16:49 VISIT 573da0a1923a7 Vizita de la ip 213.177.21.162
+2016-05-19 14:16:49 LOGIN 573da0a1923a7 Utilizatorul STAWBILRMK s-a logat pe aplicatie
+2016-05-19 14:28:49 LOGOUT 573da0a1923a7 Utilizatorul STAWBILRMK s-a delogat de pe aplicatie
+2016-05-19 14:28:49 LOGOUT 573da0a1923a7 Utilizatorul STAWBILRMK s-a delogat de pe aplicatie

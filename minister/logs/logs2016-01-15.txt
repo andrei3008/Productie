@@ -1,0 +1,23 @@
+2016-01-15 08:06:44 VISIT 56989a846e54c Vizita de la ip 62.231.98.114
+2016-01-15 08:07:01 VISIT 56989a95311bd Vizita de la ip 62.231.98.114
+2016-01-15 08:07:01 LOGIN 56989a95311bd Utilizatorul amp s-a logat pe aplicatie
+2016-01-15 08:07:37 LOGOUT 56989a95311bd Utilizatorul amp s-a delogat de pe aplicatie
+2016-01-15 08:07:37 LOGOUT 56989a95311bd Utilizatorul amp s-a delogat de pe aplicatie
+2016-01-15 08:08:25 VISIT 56989ae951fbe Vizita de la ip 62.231.98.114
+2016-01-15 08:08:33 VISIT 56989af118cf7 Vizita de la ip 62.231.98.114
+2016-01-15 08:08:33 LOGIN 56989af118cf7 Utilizatorul amp s-a logat pe aplicatie
+2016-01-15 08:18:33 LOGOUT 56989af118cf7 Utilizatorul amp s-a delogat.
+2016-01-15 08:18:33 VISIT 56989d494fd35 Vizita de la ip 62.231.98.114
+2016-01-15 08:20:32 VISIT 56989dc0f3376 Vizita de la ip 62.231.98.114
+2016-01-15 08:20:32 ERROR 56989dc0f3376 Utilizatorul amp nu a reusit sa se logheze pe aplicatie
+2016-01-15 08:20:40 VISIT 56989dc86628a Vizita de la ip 62.231.98.114
+2016-01-15 08:20:40 ERROR 56989dc86628a Utilizatorul amp nu a reusit sa se logheze pe aplicatie
+2016-01-15 08:20:48 VISIT 56989dd056e5e Vizita de la ip 62.231.98.114
+2016-01-15 08:20:48 ERROR 56989dd056e5e Utilizatorul amp nu a reusit sa se logheze pe aplicatie
+2016-01-15 08:20:57 VISIT 56989dd9d43a5 Vizita de la ip 62.231.98.114
+2016-01-15 08:20:57 LOGIN 56989dd9d43a5 Utilizatorul amp s-a logat pe aplicatie
+2016-01-15 08:25:05 LOGOUT 56989dd9d43a5 Utilizatorul amp s-a delogat de pe aplicatie
+2016-01-15 08:29:59 LOGOUT 56989dd9d43a5 Utilizatorul amp s-a delogat.
+2016-01-15 08:29:59 VISIT 56989ff75ea5c Vizita de la ip 62.231.98.114
+2016-01-15 08:31:38 VISIT 5698a05a458c1 Vizita de la ip 62.231.98.114
+2016-01-15 08:31:45 VISIT 5698a06129724 Vizita de la ip 62.231.98.114

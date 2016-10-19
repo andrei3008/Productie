@@ -1,0 +1,7 @@
+2016-03-11 10:37:54 VISIT 56e283e25f781 Vizita de la ip 213.177.21.162
+2016-03-11 10:37:54 VISIT 56e283e2a4284 Vizita de la ip 213.177.21.162
+2016-03-11 10:37:55 VISIT 56e283e35195e Vizita de la ip 213.177.21.162
+2016-03-11 10:38:07 LOGOUT 56e283e35195e Utilizatorul  s-a delogat de pe aplicatie
+2016-03-11 10:38:07 LOGOUT 56e283e35195e Utilizatorul  s-a delogat de pe aplicatie
+2016-03-11 10:38:07 VISIT 56e283e35195e Vizita de la ip 213.177.21.162
+2016-03-11 10:38:07 LOGIN 56e283e35195e Utilizatorul STAWBILRMK s-a logat pe aplicatie

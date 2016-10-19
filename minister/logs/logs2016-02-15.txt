@@ -1,0 +1,6 @@
+2016-02-15 11:42:08 VISIT 56c19d70c20e1 Vizita de la ip 213.177.21.162
+2016-02-15 11:42:33 LOGOUT 56c19d70c20e1 Utilizatorul  s-a delogat de pe aplicatie
+2016-02-15 11:42:33 LOGOUT 56c19d70c20e1 Utilizatorul  s-a delogat de pe aplicatie
+2016-02-15 11:42:33 VISIT 56c19d89c93a5 Vizita de la ip 213.177.21.162
+2016-02-15 11:42:33 LOGIN 56c19d89c93a5 Utilizatorul STAWBILRMK s-a logat pe aplicatie
+2016-02-15 11:48:18 LOGOUT 56c19d89c93a5 Utilizatorul STAWBILRMK s-a delogat de pe aplicatie

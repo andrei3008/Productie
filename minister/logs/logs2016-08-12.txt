@@ -1,0 +1,6 @@
+2016-08-12 15:28:57 VISIT 57adc1090958f Vizita de la ip 62.231.98.114
+2016-08-12 15:29:40 LOGOUT 57adc1090958f Utilizatorul  s-a delogat de pe aplicatie
+2016-08-12 15:29:40 LOGOUT 57adc1090958f Utilizatorul  s-a delogat de pe aplicatie
+2016-08-12 15:29:40 VISIT 57adc1340c108 Vizita de la ip 62.231.98.114
+2016-08-12 15:29:40 LOGIN 57adc1340c108 Utilizatorul amp s-a logat pe aplicatie
+2016-08-12 15:31:22 LOGOUT 57adc1340c108 Utilizatorul amp s-a delogat de pe aplicatie

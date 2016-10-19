@@ -1,0 +1,3 @@
+2016-10-03 12:21:48 VISIT 57f2232c8f4bf Vizita de la ip 213.177.21.162
+2016-10-03 12:21:55 LOGOUT 57f2232c8f4bf Utilizatorul  s-a delogat de pe aplicatie
+2016-10-03 12:21:56 LOGOUT 57f2232c8f4bf Utilizatorul  s-a delogat de pe aplicatie

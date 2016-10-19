@@ -1,0 +1,5 @@
+2016-05-07 11:39:59 VISIT 572da9df8ef3e Vizita de la ip 82.79.220.114
+2016-05-07 11:40:05 LOGOUT 572da9df8ef3e Utilizatorul  s-a delogat de pe aplicatie
+2016-05-07 11:40:05 LOGOUT 572da9df8ef3e Utilizatorul  s-a delogat de pe aplicatie
+2016-05-07 11:40:06 LOGOUT 572da9df8ef3e Utilizatorul  s-a delogat de pe aplicatie
+2016-05-07 11:40:06 LOGOUT 572da9df8ef3e Utilizatorul  s-a delogat de pe aplicatie

@@ -1,0 +1,5 @@
+2016-06-14 16:21:36 VISIT 576004e0a832d Vizita de la ip 213.177.21.162
+2016-06-14 16:22:24 VISIT 576005101191d Vizita de la ip 213.177.21.162
+2016-06-14 16:22:24 LOGIN 576005101191d Utilizatorul STAWBILRMK s-a logat pe aplicatie
+2016-06-14 16:22:24 LOGOUT 576005101191d Utilizatorul STAWBILRMK s-a delogat de pe aplicatie
+2016-06-14 16:22:24 LOGOUT 576005101191d Utilizatorul STAWBILRMK s-a delogat de pe aplicatie

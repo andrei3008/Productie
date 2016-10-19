@@ -1,0 +1,4 @@
+2016-10-10 22:03:52 LOGOUT  Utilizatorul KMRLIBWATS s-a delogat de pe aplicatie
+2016-10-10 22:03:53 LOGOUT  Utilizatorul KMRLIBWATS s-a delogat de pe aplicatie
+2016-10-10 22:04:11 LOGOUT  Utilizatorul  s-a delogat de pe aplicatie
+2016-10-10 22:04:12 LOGOUT  Utilizatorul  s-a delogat de pe aplicatie

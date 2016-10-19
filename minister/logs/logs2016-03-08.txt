@@ -1,0 +1,76 @@
+2016-03-08 00:01:29 LOGOUT  Utilizatorul KMRLIBWATS s-a delogat de pe aplicatie
+2016-03-08 00:01:29 LOGOUT  Utilizatorul KMRLIBWATS s-a delogat de pe aplicatie
+2016-03-08 10:13:28 LOGOUT  Utilizatorul KMRLIBWATS s-a delogat de pe aplicatie
+2016-03-08 10:13:28 LOGOUT  Utilizatorul KMRLIBWATS s-a delogat de pe aplicatie
+2016-03-08 10:17:29 LOGOUT  Utilizatorul KMRLIBWATS s-a delogat de pe aplicatie
+2016-03-08 10:17:29 LOGOUT  Utilizatorul KMRLIBWATS s-a delogat de pe aplicatie
+2016-03-08 10:18:25 LOGOUT  Utilizatorul  s-a delogat de pe aplicatie
+2016-03-08 10:18:25 LOGOUT  Utilizatorul KMRLIBWATS s-a delogat de pe aplicatie
+2016-03-08 10:21:27 LOGOUT  Utilizatorul  s-a delogat de pe aplicatie
+2016-03-08 10:21:27 LOGOUT  Utilizatorul  s-a delogat de pe aplicatie
+2016-03-08 10:22:09 LOGOUT  Utilizatorul KMRLIBWATS s-a delogat de pe aplicatie
+2016-03-08 10:22:10 LOGOUT  Utilizatorul KMRLIBWATS s-a delogat de pe aplicatie
+2016-03-08 10:26:29 LOGOUT  Utilizatorul KMRLIBWATS s-a delogat de pe aplicatie
+2016-03-08 10:26:29 LOGOUT  Utilizatorul KMRLIBWATS s-a delogat de pe aplicatie
+2016-03-08 10:29:31 LOGOUT  Utilizatorul  s-a delogat de pe aplicatie
+2016-03-08 10:29:31 LOGOUT  Utilizatorul KMRLIBWATS s-a delogat de pe aplicatie
+2016-03-08 10:30:29 LOGOUT  Utilizatorul  s-a delogat de pe aplicatie
+2016-03-08 10:30:29 LOGOUT  Utilizatorul KMRLIBWATS s-a delogat de pe aplicatie
+2016-03-08 10:30:29 LOGOUT  Utilizatorul KMRLIBWATS s-a delogat de pe aplicatie
+2016-03-08 10:30:50 LOGOUT  Utilizatorul  s-a delogat de pe aplicatie
+2016-03-08 10:30:50 LOGOUT  Utilizatorul  s-a delogat de pe aplicatie
+2016-03-08 10:31:31 LOGOUT  Utilizatorul KMRLIBWATS s-a delogat de pe aplicatie
+2016-03-08 10:31:31 LOGOUT  Utilizatorul KMRLIBWATS s-a delogat de pe aplicatie
+2016-03-08 10:32:10 LOGOUT  Utilizatorul KMRLIBWATS s-a delogat de pe aplicatie
+2016-03-08 10:32:10 LOGOUT  Utilizatorul KMRLIBWATS s-a delogat de pe aplicatie
+2016-03-08 10:35:31 LOGOUT  Utilizatorul  s-a delogat de pe aplicatie
+2016-03-08 10:35:32 LOGOUT  Utilizatorul KMRLIBWATS s-a delogat de pe aplicatie
+2016-03-08 10:40:57 LOGOUT  Utilizatorul  s-a delogat de pe aplicatie
+2016-03-08 10:40:58 LOGOUT  Utilizatorul KMRLIBWATS s-a delogat de pe aplicatie
+2016-03-08 10:43:49 LOGOUT  Utilizatorul KMRLIBWATS s-a delogat de pe aplicatie
+2016-03-08 10:43:49 LOGOUT  Utilizatorul KMRLIBWATS s-a delogat de pe aplicatie
+2016-03-08 10:44:30 LOGOUT  Utilizatorul  s-a delogat de pe aplicatie
+2016-03-08 10:44:30 LOGOUT  Utilizatorul  s-a delogat de pe aplicatie
+2016-03-08 10:44:44 LOGOUT  Utilizatorul KMRLIBWATS s-a delogat de pe aplicatie
+2016-03-08 10:44:44 LOGOUT  Utilizatorul KMRLIBWATS s-a delogat de pe aplicatie
+2016-03-08 10:45:36 LOGOUT  Utilizatorul KMRLIBWATS s-a delogat de pe aplicatie
+2016-03-08 10:45:36 LOGOUT  Utilizatorul KMRLIBWATS s-a delogat de pe aplicatie
+2016-03-08 10:46:44 LOGOUT  Utilizatorul KMRLIBWATS s-a delogat de pe aplicatie
+2016-03-08 10:46:44 LOGOUT  Utilizatorul KMRLIBWATS s-a delogat de pe aplicatie
+2016-03-08 10:50:30 LOGOUT  Utilizatorul KMRLIBWATS s-a delogat de pe aplicatie
+2016-03-08 10:50:30 LOGOUT  Utilizatorul KMRLIBWATS s-a delogat de pe aplicatie
+2016-03-08 10:51:24 LOGOUT  Utilizatorul  s-a delogat de pe aplicatie
+2016-03-08 10:51:24 LOGOUT  Utilizatorul  s-a delogat de pe aplicatie
+2016-03-08 10:52:32 LOGOUT  Utilizatorul KMRLIBWATS s-a delogat de pe aplicatie
+2016-03-08 10:52:33 LOGOUT  Utilizatorul KMRLIBWATS s-a delogat de pe aplicatie
+2016-03-08 10:54:11 LOGOUT  Utilizatorul KMRLIBWATS s-a delogat de pe aplicatie
+2016-03-08 10:54:11 LOGOUT  Utilizatorul KMRLIBWATS s-a delogat de pe aplicatie
+2016-03-08 10:54:56 LOGOUT  Utilizatorul  s-a delogat de pe aplicatie
+2016-03-08 10:54:57 LOGOUT  Utilizatorul KMRLIBWATS s-a delogat de pe aplicatie
+2016-03-08 10:57:32 LOGOUT  Utilizatorul  s-a delogat de pe aplicatie
+2016-03-08 10:57:32 LOGOUT  Utilizatorul  s-a delogat de pe aplicatie
+2016-03-08 10:58:18 LOGOUT  Utilizatorul KMRLIBWATS s-a delogat de pe aplicatie
+2016-03-08 10:58:18 LOGOUT  Utilizatorul KMRLIBWATS s-a delogat de pe aplicatie
+2016-03-08 10:58:59 LOGOUT  Utilizatorul KMRLIBWATS s-a delogat de pe aplicatie
+2016-03-08 10:58:59 LOGOUT  Utilizatorul KMRLIBWATS s-a delogat de pe aplicatie
+2016-03-08 10:59:29 LOGOUT  Utilizatorul KMRLIBWATS s-a delogat de pe aplicatie
+2016-03-08 10:59:29 LOGOUT  Utilizatorul KMRLIBWATS s-a delogat de pe aplicatie
+2016-03-08 11:00:53 LOGOUT  Utilizatorul  s-a delogat de pe aplicatie
+2016-03-08 11:00:53 LOGOUT  Utilizatorul  s-a delogat de pe aplicatie
+2016-03-08 11:01:24 LOGOUT  Utilizatorul KMRLIBWATS s-a delogat de pe aplicatie
+2016-03-08 11:01:24 LOGOUT  Utilizatorul  s-a delogat de pe aplicatie
+2016-03-08 11:03:24 LOGOUT  Utilizatorul KMRLIBWATS s-a delogat de pe aplicatie
+2016-03-08 11:03:24 LOGOUT  Utilizatorul KMRLIBWATS s-a delogat de pe aplicatie
+2016-03-08 11:04:47 LOGOUT  Utilizatorul KMRLIBWATS s-a delogat de pe aplicatie
+2016-03-08 11:04:47 LOGOUT  Utilizatorul KMRLIBWATS s-a delogat de pe aplicatie
+2016-03-08 11:06:14 LOGOUT  Utilizatorul KMRLIBWATS s-a delogat de pe aplicatie
+2016-03-08 11:06:15 LOGOUT  Utilizatorul  s-a delogat de pe aplicatie
+2016-03-08 11:06:15 VISIT 56de96070bf19 Vizita de la ip 62.231.98.114
+2016-03-08 11:06:23 LOGOUT 56de96070bf19 Utilizatorul  s-a delogat de pe aplicatie
+2016-03-08 11:06:23 VISIT 56de960f1d063 Vizita de la ip 62.231.98.114
+2016-03-08 11:06:23 LOGIN 56de960f1d063 Utilizatorul amp s-a logat pe aplicatie
+2016-03-08 11:06:23 LOGOUT 56de960f1d063 Utilizatorul amp s-a delogat de pe aplicatie
+2016-03-08 11:08:05 LOGOUT 56de960f1d063 Utilizatorul amp s-a delogat de pe aplicatie
+2016-03-08 11:08:05 LOGOUT 56de960f1d063 Utilizatorul amp s-a delogat de pe aplicatie
+2016-03-08 11:13:24 LOGOUT 56de960f1d063 Utilizatorul amp s-a delogat de pe aplicatie
+2016-03-08 11:13:24 LOGOUT 56de960f1d063 Utilizatorul amp s-a delogat de pe aplicatie
