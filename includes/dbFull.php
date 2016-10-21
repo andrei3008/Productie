@@ -674,6 +674,7 @@ class dbFull extends mysqli
     }
 
     /**
+     * MUTAT - databFull
      * @param $idLocatie
      * @param $idResponsabil
      * @return array
@@ -695,6 +696,7 @@ class dbFull extends mysqli
         stareaparate.dtLastM as dataMax,
         stareaparate.ultimaConectare,
         stareaparate.verSoft,
+		stareaparate.bitiStare,
         stareaparate.dtLastM,
         stareaparate.dtLastE,
         stareaparate.ipPic,
@@ -1615,6 +1617,8 @@ class dbFull extends mysqli
     }
 
     /**
+     *  mutat databFull
+     *  
      * @param $idLocatie
      * @return array
      */
@@ -1636,11 +1640,12 @@ class dbFull extends mysqli
     public function getErori($idAparat = null)
     {
         $erori = [];
-        $query = "SELECT er.idpachet, er.serieAparat, er.idAparat, er.idOperator, er.idLocatie, er.indexInM, "
+        $query = "SELECT er.idpachet, er.idAparat, er.idOperator, er.idLocatie, er.indexInM, "
             . "er.indexOutM, er.idxInMB, er.idxOutMB, er.ip, ap.pozitieLocatie, er.dataServer,er.exceptia, er.indexInE, er.indexOutE, er.idxInEB, er.idxOutEB,"
             . "st.verSoft FROM $this->database.errorpk er "
             . "inner join $this->database.aparate ap on er.idaparat=ap.idaparat "
             . "INNER join $this->database.stareaparate st ON st.idAparat=ap.idAparat";
+        echo $query;
         if ($idAparat != null) {
             $query .= " WHERE  er.idAparat=$idAparat ";
         }
@@ -1899,6 +1904,7 @@ class dbFull extends mysqli
     }
 
     /**
+     *   MUTAT class Aparate
      * @param $idAparat
      * @param $valoare
      * @return bool
@@ -2325,6 +2331,7 @@ class dbFull extends mysqli
         $transferuri = [];
         $query = "SELECT * FROM transferaparate, locatii WHERE (transferaparate.dtBaza BETWEEN '".$data_start."' AND '".$data_end."') AND locatii.idlocatie = transferaparate.idLocInainte AND locatii.idOperator = {$idOperator} ORDER BY transferaparate.idtransfer DESC";
         $result = $this->query($query);
+		echo $query;
         if($this->affected_rows > 0) {
             while($row = $result->fetch_assoc()){
                 $transferuri[] = $row;
@@ -2372,4 +2379,4 @@ class dbFull extends mysqli
 
 }
 
-$db = new dbFull('localhost', 'root', '','brunersrl');
+$db = new dbFull('localhost', 'shorek', 'BudsSql7','brunersrl');

@@ -277,7 +277,7 @@ if ($session->getGrad() != 0) {
                     ?>
                             <div class="col-md-3 height130 table-small">
                                 <table class="table no-padding">
-                                    <tr class="ampera-tr2" data-op="1" data-pers="<?php echo $row->idpers; ?>" data-locatii_tip="A">
+                                    <tr class="ampera-tr" data-op="1" data-pers="<?php echo $row->idpers; ?>">
                                         <td><span class="glyphicon  glyphicon glyphicon-user"></span><?php echo $row->nick; ?></td>
                                         <td>A(</td>
                                         <td><?php echo $row->locatiiAmpera; ?> L</td>
@@ -291,7 +291,7 @@ if ($session->getGrad() != 0) {
                                         <td>0</td>
                                         <td>))</td>
                                     </tr>
-                                    <tr class="redlong-tr2" data-op="2" data-pers="<?php echo $row->idpers; ?>" data-locatii_tip="R">
+                                    <tr class="redlong-tr" data-op="2" data-pers="<?php echo $row->idpers; ?>">
                                         <td></td>
                                         <td>R(</td>
                                         <td><?php echo $row->locatiiRedlong; ?> L</td>
@@ -305,7 +305,7 @@ if ($session->getGrad() != 0) {
                                         <td>0</td>
                                         <td>))</td>
                                     </tr>
-                                    <tr class="total-tr2" data-op="0" data-pers="<?php echo $row->idpers; ?>" data-locatii_tip="T">
+                                    <tr class="total-tr" data-op="0" data-pers="<?php echo $row->idpers; ?>">
                                         <td></td>
                                         <td>T(</td>
                                         <td><?php echo ($row->locatiiAmpera+$row->locatiiRedlong); ?> L</td>
@@ -454,7 +454,7 @@ if ($session->getGrad() != 0) {
             <div class="col-md-3 col-sm-3" style="width: 20%">
                 <div class="panel panel-primary" id="locatiiPanel">
                     
-                    <div class="panel-heading" id="locatiiPanel_header">
+                    <div class="panel-heading">
                         <strong><span class="glyphicon  glyphicon glyphicon-user"></span><?php echo $responsabil->nick; ?> </strong>
                         <italic style="display:block;"><?php
                             if ($session->getOperator() == 1) {
@@ -464,34 +464,33 @@ if ($session->getGrad() != 0) {
                             } else {
                                 echo 'T' . '(' . $responsabil->totalLocatii. 'L / ' . $responsabil->totalAparate . 'A / ' . $responsabil->totalDepozitAparate . 'AD ) P(0/0)';
                             }
-                            ?>
-                        </italic>
-                        <span style="display: inline-block;width: 68%;">
-                            <input type="text" name="locatie" class="form-control" placeholder="Numele Locatiei"
-                                   id="locatieAuto"/>
-                        </span>
-                        <span style='display: inline-block;width :32%; float:right; '>
-                            <a href="?id_resp=<?php echo $session->getIdresp() ?>&operator=<?php echo $session->getOperator() ?>&type=culoareAparat&sort=DESC"><img
-                                    src='css/images/green_light.png' style='width:20px; height: 20px;'/></a>
-                            <a href="?id_resp=<?php echo $session->getIdresp() ?>&operator=<?php echo $session->getOperator() ?>&type=culoareAparat&sort=ASC"><img
-                                    src='css/images/red_light.png' style='width:20px; height: 20px;'/></a>
-                            <?php if ($locatiiCuErori != 0) { ?><a
-                                href="?id_resp=<?php echo $session->getIdresp() ?>&operator=<?php echo $session->getOperator() ?>&type=error&sort=DESC" >
-                                    <img src='css/images/triangle_red.png' style='width:20px; height: 20px;'/>
-                                </a>
-                                <?php
-                                echo $locatiiCuErori;
-                            }
-                            ?>
-                        </span>
-                        <input type="hidden" id="id_pers" value="<?php echo $session->getIdresp();?>"/>
+                            ?></italic>
+                                <span style="display: inline-block;width: 68%;">
+                                    <input type="text" name="locatie" class="form-control" placeholder="Numele Locatiei"
+                                           id="locatieAuto"/>
+                                </span>
+                                <span style='display: inline-block;width :32%; float:right; '>
+                                    <a href="?id_resp=<?php echo $session->getIdresp() ?>&operator=<?php echo $session->getOperator() ?>&type=culoareAparat&sort=DESC"><img
+                                            src='css/images/green_light.png' style='width:20px; height: 20px;'/></a>
+                                    <a href="?id_resp=<?php echo $session->getIdresp() ?>&operator=<?php echo $session->getOperator() ?>&type=culoareAparat&sort=ASC"><img
+                                            src='css/images/red_light.png' style='width:20px; height: 20px;'/></a>
+                                    <?php if ($locatiiCuErori != 0) { ?><a
+                                        href="?id_resp=<?php echo $session->getIdresp() ?>&operator=<?php echo $session->getOperator() ?>&type=error&sort=DESC" >
+                                            <img src='css/images/triangle_red.png' style='width:20px; height: 20px;'/>
+                                        </a>
+                                        <?php
+                                        echo $locatiiCuErori;
+                                    }
+                                    ?>
+                                </span>
+                                <input type="hidden" id="id_pers" value="<?php echo $session->getIdresp();?>"/>
                     </div>
                     <?php
                         /********************************************************************************************************************
                         |    LOCATII RESPONSABIL                                                                                            |
                         ********************************************************************************************************************/
                     ?>
-                    <div class="panel-body" style="padding:0px;" id="locatiiPanel_locatii">
+                    <div class="panel-body" style="padding:0px;">
                         <script>
                             $(document).ready(function () {
                                 $('#locatieAuto').instaFilta();
@@ -547,7 +546,7 @@ if ($session->getGrad() != 0) {
 
                                         <li class="list-group-item instafilta-target" style="display :inline-block; width: 100%; max-height: 300px; padding: 0px 0px;">
                                             <span class="pull-left">
-                                                <a class="getLocatie2" data-luna="<?php echo $luna ?>"
+                                                <a class="getLocatie" data-luna="<?php echo $luna ?>"
                                                    data-an="<?php echo $an ?>"
                                                    id="<?php echo $session->getIdLocatie() == $id_locatie ? 'selected' : ''; ?>"
                                                    href="#" data-pers="<?php echo $session->getIdresp() ?>"
@@ -605,18 +604,16 @@ if ($session->getGrad() != 0) {
                                             if ($i == 1) {
                                                 $operator_init = $operator;
                                                 echo "<li class='list-group-item'><a><span style='color: #F57900'> {$operator_init}</span><a></li>";
-                                                $class_first = 'first activated';
                                             } else {
                                                 if ($operator_init != $operator) {
                                                     $operator_init = $operator;
                                                     echo "<li class='list-group-item'><a><span style='color: #F57900'> {$operator_init}</span><a></li>";
-                                                    $class_first = '';
                                                 }
                                             }
                                     ?>
                                             <li class="list-group-item instafilta-target" style="max-height: 300px; min-height: 40px;">
                                                 <span class="pull-left">
-                                                    <a class="getLocatie2" data-luna="<?php echo $luna ?>"
+                                                    <a class="getLocatie" data-luna="<?php echo $luna ?>"
                                                        data-an="<?php echo $an ?>"
                                                        id="<?php echo $session->getIdLocatie() == $id_locatie ? 'selected' : ''; ?>"
                                                        href="#" data-pers="<?php echo $session->getIdresp() ?>"
@@ -668,7 +665,7 @@ if ($session->getGrad() != 0) {
 
                                             <li class="list-group-item instafilta-target" style="display :inline-block; width: 100%; max-height: 300px;">
                                                 <span class="pull-left">
-                                                    <a class="getLocatie2" data-luna="<?php echo $luna ?>"
+                                                    <a class="getLocatie" data-luna="<?php echo $luna ?>"
                                                        data-an="<?php echo $an ?>"
                                                        id="<?php echo $session->getIdLocatie() == $id_locatie ? 'selected' : ''; ?>"
                                                        href="#" data-pers="<?php echo $session->getIdresp() ?>"
@@ -737,13 +734,13 @@ if ($session->getGrad() != 0) {
                         <strong> IdOp :</strong><?php echo $objInfoLocatie->idOperator; ?>
                         <strong> IdLoc :</strong><?php echo $objInfoLocatie->idlocatie; ?>
                      </span>
-                    <input type='hidden' id="aparate_idOp" value="<?php echo $objInfoLocatie->idOperator; ?>">
-                    <input type='hidden' id="aparate_idlocatie" value="<?php echo $objInfoLocatie->idlocatie; ?>">
-                    <input type='hidden' id="aparate_idpers" value="<?php echo $responsabil->idpers; ?>">
                     <a id="tabel-sas" 
                         class="btn btn-warning btn-md" data-idloc="<?php echo $id_locatie;?>" data-op="<?php echo $objInfoLocatie->idOperator;?>" data-resp="<?php echo $session->getIdresp();?>">
                         SAS
                     </a>
+                    <input type='hidden' id="aparate_idOp" value="<?php echo $objInfoLocatie->idOperator; ?>">
+                    <input type='hidden' id="aparate_idlocatie" value="<?php echo $objInfoLocatie->idlocatie; ?>">
+                    <input type='hidden' id="aparate_idpers" value="<?php echo $responsabil->idpers; ?>">
                     <?php
                         /*------------------------------------------------
                          *  BUTOANE RAPOARTE - SILVIU - 18.10.2016
@@ -1237,18 +1234,6 @@ if ($session->getGrad() != 0) {
         </div>
         <script type="text/javascript">
             $(document).ready(function() {
-                <?php
-                    // if ((isset($_SESSION['locatii_tip'])) && ($_SESSION['locatii_tip'] == 'T')) {
-                    if (isset($_SESSION['locatii_tip'])) {
-                ?>
-                        main.show_locatii_total_header('<?php echo $session->getIdresp();?>', '<?php echo $session->getOperator();?>','DESC',  'culoareAparat'); 
-                        main.show_locatii_total('<?php echo $session->getIdresp();?>', '<?php echo $session->getOperator();?>', 'DESC', 'culoareAparat');  
-                <?php
-                    }
-                ?>
-
-                
-
 
             });
             var getUrlParameter = function getUrlParameter(sParam) {
@@ -1324,6 +1309,9 @@ if ($session->getGrad() != 0) {
             $(function () {
                 window.setInterval("$('.blink').toggle();", 500);
             });
+            //                            $('.blocat').click(function (event) {
+            //                                event.stopImmediatePropagation();
+            //                            });
         </script>
     <?php
         include "includes/modals.php";

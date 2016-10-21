@@ -1,4 +1,4 @@
-const DOMAIN = "http://red77.ro";
+const DOMAIN = "http://localhost/Productie";
 
 function doNothing(event) {
     event.preventDefault();
@@ -159,16 +159,6 @@ $(document).ready(function () {
             zoom = zoomNew
         }
     });
-    var inaltimeCorecta = $('body').outerHeight() - $('#tabeleResponsabili').parent().height() - 130;
-    var inaltimeMain = $('#mainPanel').outerHeight() - 73;
-    var inaltimeLocatii = $('#locatiiPanel').outerHeight();
-    if ($(window).width() < 1000) {
-        $('.height130').css({'padding': '0px', 'width': '33%'});
-    }
-    $('#mainPanel .body').height(inaltimeCorecta);
-    $('#mainPanel .body').css({'overflow': 'auto'});
-    $('#locatiiPanel .panel-body').height(inaltimeCorecta - 59);
-    $('#locatiiPanel .panel-body').css({'overflow': 'auto'});
     $('.black').change(function (e) {
         e.preventDefault();
         $('#select-responsabil').submit();
@@ -230,12 +220,14 @@ $(document).ready(function () {
         e.preventDefault();
         var pers = $(this).attr('data-pers');
         var op = $(this).attr('data-op');
+        var locatii_tip = $(this).attr('data-locatii_tip');
         $.ajax({
             url: DOMAIN + "/router.php",
             type: "POST",
             data: {
                 "idresp": pers,
-                "operator": op
+                "operator": op,
+                "locatii_tip": locatii_tip
             },
             success : function (response){
                 location.reload();
@@ -246,12 +238,14 @@ $(document).ready(function () {
         e.preventDefault();
         var pers = $(this).attr('data-pers');
         var op = $(this).attr('data-op');
+        var locatii_tip = $(this).attr('data-locatii_tip');
         $.ajax({
             url: DOMAIN + "/router.php",
             type: "POST",
             data: {
                 "idresp": pers,
-                "operator": op
+                "operator": op,
+                "locatii_tip": locatii_tip
             },
             success: function (response) {
                 location.reload();

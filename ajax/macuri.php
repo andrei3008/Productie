@@ -187,7 +187,7 @@ if (count($macuri) > 0) {
             $(this).attr("disabled",true);
             $(this).text("Loading ....");
             $.ajax({
-                url: "http://localhost/Productie/ajax/stergeMac.php",
+                url: "http://red77.ro/ajax/stergeMac.php",
                 type: "POST",
                 success: function (response) {
 

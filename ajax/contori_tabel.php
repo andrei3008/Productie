@@ -159,24 +159,27 @@
 
 				$idmec = $indexZile[$zi]->idmec;
 				$idel = $indexZile[$zi]->idel;
+
+				$zi_curenta = $an . '-' . $luna . '-' . $i;
+                $timp = strtotime($an . '-' . $luna . '-' . $i);
+                $ziua = date('w', $timp);
+                $class_td_azi  = ($timp == strtotime(date('Y-m-d'))) ? 'current' : '';
+                $class_td_ieri = ($timp == strtotime(date('Y-m-d'). '-1day')) ? 'yesterday' : '';
 ?>
-	            <tr class='deblocat'>
+	            <tr class='deblocat <?=$class_td_azi;?> <?=$class_td_ieri;?>'>
 	                <td style="text-align: center;">
 	                    <?php echo $i; ?>
 	                </td>
 	                <td style="text-align: center;">
-<?php
-						$zi_curenta = $an . '-' . $luna . '-' . $i;
-	                    $timp = strtotime($an . '-' . $luna . '-' . $i);
-	                    $ziua = date('w', $timp);
+<?php				
 	                    echo $page->getLiteraZilei($ziua);
 ?>
 	                </td>
 					
-	                <td style="text-align: center; width: 77px;" class='editable' id="idxInM_<?php echo $zi;?>" data-val="<?php echo $indexinM; ?>" data-idtabel="<?php echo $idmec;?>">
+	                <td style="text-align: center; width: 65px;" class='editable' id="idxInM_<?php echo $zi;?>" data-val="<?php echo $indexinM; ?>" data-idtabel="<?php echo $idmec;?>">
 	                    <?php echo $indexinM; ?>
 	                </td>
-	                <td style="text-align: center; width: 77px;" class='editable' id="idxOutM_<?php echo $zi;?>" data-val="<?php echo $indexOutM; ?>" data-idtabel="<?php echo $idmec;?>">
+	                <td style="text-align: center; width: 65px;" class='editable' id="idxOutM_<?php echo $zi;?>" data-val="<?php echo $indexOutM; ?>" data-idtabel="<?php echo $idmec;?>">
 	                    <?php echo $indexOutM; ?>
 	                </td>
 	                <td style="text-align: center;" id="cashM_<?php echo $zi;?>">
@@ -187,13 +190,13 @@
 	                <td style="text-align: center;"> - </td>
 	                <td style="text-align: center;"> - </td>
 					
-	                <td style="text-align: center; width: 77px"> <?php echo (key_exists($zi, $indexZile)) ? $indexZile[$zi]->indexInM : '-'; ?> </td>
-	                <td style="text-align: center; width: 77px;"> <?php echo (key_exists($zi, $indexZile)) ? $indexZile[$zi]->indexOutM : '-'; ?> </td>
+	                <td style="text-align: center; width: 65px"> <?php echo (key_exists($zi, $indexZile)) ? (($indexZile[$zi]->indexInM) ? $indexZile[$zi]->indexInM : '-') : '-'; ?> </td>
+	                <td style="text-align: center; width: 65px;"> <?php echo (key_exists($zi, $indexZile)) ? (($indexZile[$zi]->indexOutM) ? $indexZile[$zi]->indexOutM : '-') : '-'; ?> </td>
 	                
-					<td style="text-align: center; width: 77px;" class='editable' id="idxInE_<?php echo $zi;?>"  data-val="<?php echo $indexInE; ?>" data-idtabel="<?php echo $idel;?>">
+					<td style="text-align: center; width: 65px;" class='editable' id="idxInE_<?php echo $zi;?>"  data-val="<?php echo $indexInE; ?>" data-idtabel="<?php echo $idel;?>">
 	                    <?php echo $indexInE; ?>
 	                </td>
-	                <td style="text-align: center; width: 77px;" class='editable' id="idxOutE_<?php echo $zi;?>" data-val="<?php echo $indexOutE; ?>" data-idtabel="<?php echo $idel;?>">
+	                <td style="text-align: center; width: 65px;" class='editable' id="idxOutE_<?php echo $zi;?>" data-val="<?php echo $indexOutE; ?>" data-idtabel="<?php echo $idel;?>">
 	                    <?php echo $indexOutE; ?>
 	                </td>
 					
@@ -201,15 +204,15 @@
 	                    <?php echo (key_exists($zi, $indexZile)) ? $indexZile[$zi]->cashInE.' / '.$indexZile[$zi]->cashOutE.' / '.$indexZile[$zi]->castigE : '-'; ?>
 	                </td>
 					
-	                <td style="text-align: center;"> - </td>
-	                <td style="text-align: center;"> - </td>
+	                <td style="text-align: center;"> <?php echo ($indexZile[$zi]->idxineSUM) ? $indexZile[$zi]->idxineSUM : '-';?> </td>
+	                <td style="text-align: center;"> <?php echo ($indexZile[$zi]->idxouteSUM) ? $indexZile[$zi]->idxouteSUM : '-';?> </td>
 	                <td style="text-align: center;"> - </td>
 					
-	                <td style="text-align: center; width: 77px;"> <?php echo (key_exists($zi, $indexZile)) ? $indexZile[$zi]->indexInE : '-'; ?> </td>
-	                <td style="text-align: center; width: 77px;"> <?php echo (key_exists($zi, $indexZile)) ? $indexZile[$zi]->indexOutE : '-'; ?> </td>
+	                <td style="text-align: center; width: 65px;"> <?php echo (key_exists($zi, $indexZile)) ? (($indexZile[$zi]->indexInE) ? $indexZile[$zi]->indexInE : '-') : '-'; ?> </td>
+	                <td style="text-align: center; width: 65px;"> <?php echo (key_exists($zi, $indexZile)) ? (($indexZile[$zi]->indexOutE) ? $indexZile[$zi]->indexOutE : '-') : '-'; ?> </td>
 					
-	                <td style="text-align: center; width: 77px;"> <?php echo (key_exists($zi, $indexZile)) ? $indexZile[$zi]->idxineSUM + $indexZile[$zi]->idxInE : '-'; ?> </td>
-	                <td style="text-align: center; width: 77px;"> <?php echo (key_exists($zi, $indexZile)) ? $indexZile[$zi]->idxouteSUM + $indexZile[$zi]->idxOutE: '-'; ?> </td>
+	                <td style="text-align: center; width: 65px;"> <?php echo (key_exists($zi, $indexZile)) ? $indexZile[$zi]->idxineSUM + $indexZile[$zi]->idxInE : '-'; ?> </td>
+	                <td style="text-align: center; width: 65px;"> <?php echo (key_exists($zi, $indexZile)) ? $indexZile[$zi]->idxouteSUM + $indexZile[$zi]->idxOutE: '-'; ?> </td>
 	            </tr>
 <?php
 	        } else {
@@ -275,5 +278,11 @@
 	    bottom: 0;
 	    left: 0;
 	    margin: auto;
+	}
+	.deblocat.current {
+	    background: #ccc;
+	}
+	.deblocat td {
+	    font-size: 14px;
 	}
 </style>

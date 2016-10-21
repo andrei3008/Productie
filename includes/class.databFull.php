@@ -8,7 +8,12 @@ class databFull extends datab {
         parent::__construct($url, $username, $password, $host, $dbname, $options=array());
     }
 
-
+/********************************************************************************************************************
+ *              HOMEPAGE                                                                                            *
+ *                                                                                                                  *
+ *              RESPONSABILI                                                                                        *
+ *                                                                                                                  *
+********************************************************************************************************************/
     /**
      * RAPOARTE - APARATE/RESPONSABILI
      * 
@@ -177,7 +182,7 @@ class databFull extends datab {
                     SUM(IF(L.idOperator = 2,nrAparate.nrAparateDepozitRedlong,0)) as depozitRedlong,
                     SUM(IF(L.idOperator =1,nrAparate.nrAparateDepozitAmpera,nrAparate.nrAparateDepozitRedlong)) as totalDepozitAparate
                 FROM personal as P
-                INNER JOIN locatii as L ON L.idresp = P.idpers
+                INNER JOIN locatii as L ON L.idresp = P.idpers AND L.idlocatie != 792
                 LEFT JOIN (
                     SELECT
                         L2.idlocatie,
@@ -266,7 +271,12 @@ class databFull extends datab {
         return $rows[0]['denFirma'];
     }
 
-
+/********************************************************************************************************************
+ *              HOMEPAGE                                                                                            *
+ *                                                                                                                  *
+ *              LISTARE LOCATII STANGA                                                                              *
+ *                                                                                                                  *
+********************************************************************************************************************/
     /**
      * MAIN - STANGA - LISTARE LOCATII RESPONSABIL SELECTAT
      *
@@ -278,6 +288,7 @@ class databFull extends datab {
      * @return array
      */
     public function getLocatiiResponsabil($operator, $idResponsabil, $an, $luna, $type='culoareAparat', $sort = 'DESC', $tip_sortare='ord') {
+        // echo $operator.' - '.$idResponsabil.' - '.$an.' - '.$luna.' - '.$type.' - '.$sort.' - '.$tip_sortare;
         $toateAparatelePerLocatie = $this->getAparatePerLocatie();
         $toateErorilePerResponsabil = $this->getErrorsByPers($idResponsabil, $operator);
         $result = [];
@@ -292,7 +303,8 @@ class databFull extends datab {
                     FROM locatii
                     WHERE 
                         locatii.idresp = ? AND 
-                        (locatii.dtInchidere = ? OR (locatii.dtInchidere >= ? AND locatii.dtInchidere <= ?) )";
+                        (locatii.dtInchidere = ? OR (locatii.dtInchidere >= ? AND locatii.dtInchidere <= ?) )
+                        AND locatii.idlocatie != 792 ";
         $array = array($idResponsabil, '1000-01-01', $an.'-'.$luna.'-01', $an.'-'.$luna.'-31');
         if ($operator != '') {
             $query .= " AND locatii.idOperator=".$operator;
@@ -321,7 +333,7 @@ class databFull extends datab {
             /*-------------------------------------------------
             |                 SORTARE LOCATII                 |
             |-------------------------------------------------|
-            | 300 - locatie TEST                              |
+            | 300 - locatie TEST() 792   Dispare              |
             | 299 - locatie PAULA 1 MAI                       |
             | xyz - x=1                                       |
             |       y=idOperator = 1/2                        |
@@ -330,9 +342,7 @@ class databFull extends datab {
             |         2 - locatii cu aparate inactive         |
             -------------------------------------------------*/
 
-                if ($val['idlocatie'] == 792) {
-                    $rows[$key]['ord'] = 300; 
-                } elseif ($val['idlocatie'] == 101) {
+                if ($val['idlocatie'] == 101) {
                     $rows[$key]['ord'] = 299;
                 } else {
                     if ($nrAparate == 0) {
@@ -595,7 +605,7 @@ class databFull extends datab {
                     LEFT JOIN contorelectronic$an$luna ce ON DATE(ce.dtServer)=DATE(cm.dtServer)
                     AND cm.idAparat=ce.idAparat
                     LEFT JOIN errorpk ep ON DATE(ce.dtServer) = DATE(ep.dataServer) AND cm.idAparat = ep.idAparat
-                    LEFT JOIN resetcontori rc ON rc.idaparat = cm.idAparat AND DATE(rc.dtInitiere) = DATE(cm.dtServer)
+                    LEFT JOIN resetcontori rc ON rc.idaparat = cm.idAparat AND DATE(rc.dtReset) = DATE(cm.dtServer)
                     WHERE cm.dtServer like ? AND cm.idAparat = ? GROUP BY cm.dtServer ORDER BY cm.dtServer ASC";
         $stmt = $this->datab->prepare($query);
         $array = array($an.'-'.$luna2.'%', $idAparat);
@@ -605,4 +615,331 @@ class databFull extends datab {
         }
         return $indexi;
     }
+
+    public function getDateOperatorResp_aparateLocatii($idOperator, $idResponsabil, $an, $luna) {
+        $row_responsabil_operator = $this->getResponsabiliLocatiiAparate($an.'-'.$luna.'-01', $an.'-'.$luna.'-31', $idResponsabil);
+        $responsabil = $row_responsabil_operator[0];
+        $out = '<italic style="display:block; font-sie: 13px">';
+        if ($idOperator == 1) {
+            $out .= 'A' . '(' . $responsabil->locatiiAmpera. 'L / ' . $responsabil->aparateAmpera . 'A / ' . $responsabil->depozitAmpera . 'AD ) P(0/0)';
+        } elseif ($idOperator == 2) {
+            $out .= 'R' . '(' . $responsabil->locatiiRedlong. 'L / ' . $responsabil->aparateRedlong . 'A / ' . $responsabil->depozitRedlong . 'AD ) P(0/0)';
+        } else {
+            $out .= 'T' . '(' . $responsabil->totalLocatii. 'L / ' . $responsabil->totalAparate . 'A / ' . $responsabil->totalDepozitAparate . 'AD ) P(0/0)';
+        }
+        $out .= '</italic>';
+        return $out;
+    }
+
+
+
+/********************************************************************************************************************
+ *              HOMEPAGE                                                                                            *
+ *                                                                                                                  *
+ *              APARATE LOCATIE                                                                                     *
+ *                                                                                                                  *
+********************************************************************************************************************/
+     /**
+     * HOMEPAGE - LISTARE APARATE - ERORI
+     * 
+     * @param $idLocatie
+     * @return array
+     */
+    public function verificaErroriIndex($idLocatie) {
+        $aparate = [];
+        $query = "SELECT e.idAparat, count(e.idAparat) as nrErori FROM $this->database.errorpk e WHERE e.idLocatie = ? GROUP BY e.idAparat;";
+        $stmt = $this->datab->prepare($query);
+        $array = array($idLocatie);
+        $stmt->execute($array);
+        while ($aparat = $stmt->fetchObject()) {
+            $aparate[$aparat->idAparat] = $aparat;
+        }
+        return $aparat;
+
+    }
+
+    /**
+     * HOMEPAGE - LISTARE APARATE - ERORI
+     * 
+     * @param $idLocatie
+     * @param $idResponsabil
+     * @return array
+     */
+    public function getInfoAparate($idLocatie, $idResponsabil, $luna, $an) {
+        $aparate = array();
+        $query = "SELECT
+                    c1.idAparat,
+                    c1.seria,
+                    c1.tip,
+                    c1.pozitieLocatie,
+                    c1.dtBlocare,
+                    c1.dtActivare,
+                    stareaparate.lastidxInM,
+                    stareaparate.lastidxOutM,
+                    stareaparate.lastIdxInE,
+                    stareaparate.lastIdxOutE,
+                    stareaparate.dtLastM as dataMax,
+                    stareaparate.ultimaConectare,
+                    stareaparate.verSoft,
+                    stareaparate.bitiStare,
+                    stareaparate.dtLastM,
+                    stareaparate.dtLastE,
+                    stareaparate.ipPic,
+                    stareaparate.ipPic3g,
+                    stareaparate.macPic
+                FROM aparate as c1
+                    INNER JOIN stareaparate ON stareaparate.idAparat = c1.idAparat
+                    INNER JOIN locatii ON locatii.idlocatie = c1.idLocatie 
+                WHERE " . (($idLocatie == 0) ? "" : "c1.idLocatie=$idLocatie  AND") . " locatii.idresp='$idResponsabil' AND
+                    (c1.dtBlocare='1000-01-01' OR dtBlocare >= '$an-$luna-00') AND c1.dtActivare <= '$an-$luna-32' 
+                GROUP BY c1.idAparat  ORDER BY c1.pozitieLocatie ASC";
+        // echo $query;
+        $stmt = $this->datab->prepare($query);
+        $array = array($idLocatie);
+        $stmt->execute($array);
+        while ($aparat = $stmt->fetchObject()) {
+            $aparate[] = $aparat;
+        }
+        return $aparate;
+    }
+
+
+    /**
+     * @param $idAparat
+     * @param $an
+     * @param $luna
+     * @param $zi
+     * @return object|stdClass|string
+     */
+    public function getPacheteAparat($idAparat, $an, $luna, $zi)
+    {
+        $obj = '';
+        if ($zi != 0) {
+            $query = "SELECT 
+                cm.nrPacWan,
+                cm.nrPac3g 
+            FROM contormecanic$an$luna cm
+            WHERE cm.dtServer BETWEEN '$an-$luna-$zi 00:00:00' AND '$an-$luna-$zi 23:59:59' AND idAparat=$idAparat";
+        } else {
+            $query = "SELECT 
+                cm.nrPacWan,
+                cm.nrPac3g 
+            FROM contormecanic$an$luna cm
+            WHERE cm.dtServer in (SELECT min(cm2.dtServer) FROM contormecanic$an$luna cm2 WHERE cm2.idAparat=$idAparat);";
+        }
+        $stmt = $this->datab->prepare($query);
+        $array = array();
+        $stmt->execute($array);
+        $obj = $stmt->fetchObject();
+        return $obj;
+    }
+    /**
+     *
+     * @param type $idAparat
+     * @return int
+     */
+    public function getNrEroriAparat($idAparat)
+    {
+        $query = "SELECT count(idAparat) as nrErori FROM  errorpk WHERE idAparat=?";
+        $stmt = $this->datab->prepare($query);
+        $array = array($idAparat);
+        if ($stmt->execute($array)) {
+            $obj = $stmt->fetchObject();
+            return $obj->nrErori;
+        }
+        return 0;
+    }
+     /**
+     * @param $idAparat
+     * @return string
+     */
+    public function tipEroare($idAparat)
+    {
+        $rezultat = '';
+        $query = "SELECT exceptia FROM  errorpk WHERE idAparat=? ORDER BY idPachet DESC LIMIT 1";
+        $stmt = $this->datab->prepare($query);
+        $array = array($idAparat);
+        $stmt->execute($array);
+        $data = $stmt->fetchObject();
+        if (strpos($data->exceptia, 'IN') !== FALSE) {
+            $rezultat .= ' IN ';
+        }
+        if (strpos($data->exceptia, 'OUT') !== FALSE) {
+            $rezultat .= ' OUT';
+        }
+        if (strpos($data->exceptia, 'Seria') !== FALSE) {
+            return 'Seria';
+        }
+        return $rezultat;
+    }
+    /**
+     * @param $idAparat
+     * @param $an
+     * @param $luna
+     * @param $zi
+     * @return array
+     */
+    public function getCashInCashOut($idAparat, $an, $luna, $zi, $type='contormecanic')
+    {
+        $rezultat = [];
+        $tabel = ($type == 'contormecanic') ? 'contormecanic'.$an.$luna : 'contorelectronic'.$an.$luna ;
+
+        $query = "SELECT cashIn, cashOut FROM $tabel WHERE dtServer> '$an-$luna-$zi 00:00:00' AND dtServer < '$an-$luna-$zi 23:59:59' AND idAparat=?";
+        $stmt = $this->datab->prepare($query);
+        $stmt->execute(array($idAparat));
+        $rows = $stmt->fetchAll();
+        if (count($rows) > 0) {
+            $rezultat['cashIn'] = $rows[0]['cashIn'];
+            $rezultat['cashOut'] = $rows[0]['cashOut'];
+        } else {
+            $rezultat['cashIn'] = 0;
+            $rezultat['cashOut'] = 0;
+        }
+        return $rezultat;
+    }
+    /**
+     * @param $idAparat
+     * @param $an
+     * @param $luna
+     * @param $zi
+     * @return string
+     */
+    public function getDataPornire($idAparat, $an, $luna, $zi)
+    {
+        $query = "SELECT  
+                    extract(hour FROM dtPornire) as ora,
+                    extract(minute FROM dtPornire) as minute,
+                    extract(second FROM dtPornire) as secunde
+                FROM contormecanic$an$luna WHERE dtServer
+                    BETWEEN '$an-$luna-$zi 00:00:00' AND '$an-$luna-$zi 23:59:59' AND idAparat=?";
+        $stmt = $this->datab->prepare($query);
+        $array = array($idAparat);
+        $stmt->execute($array);
+        $a = $stmt->fetchObject();
+        if (count($a) > 0) {
+            $data = $a->ora . ':' . ($a->minute < 10 ? '0' . $a->minute : $a->minute) . ':' . $a->secunde;
+        } else {
+            $data = '';
+        }
+        return $data;
+    }
+    public function getNetByLocation($idLocatie)
+    {
+        $links = [];
+        $query = "SELECT * FROM net WHERE idLoc=?";
+        $stmt = $this->datab->prepare($query);
+        $array = array($idLocatie);
+        $stmt->execute($array);
+        while ($obj = $stmt->fetchObject()) {
+            $links[$obj->tip] = $obj;
+        }
+        return $links;
+    }
+    /**
+     * @param $idNet
+     * @param $port
+     * @param $user
+     * @param $pass
+     * @return bool
+     */
+    public function updateIntoNet($idNet, $port, $user, $pass)
+    {
+        $data = date('Y-m-d');
+        $updated = $this->updateRow('net', 'port=?, valUser=?, valPass=?, data=?', 'WHERE idNet=?', array($port, $user, $pass, $data, $idNet));
+        if ($updated > 0)
+            return TRUE;
+        return FALSE;
+    }
+    /**
+     * @param $idLocatie
+     * @param $port
+     * @param $tip
+     * @param $user
+     * @param $pass
+     * @return bool
+     */
+    public function insertIntoNet($idLocatie, $port, $tip, $user, $pass)
+    {
+        $data = date('Y-m-d');
+        $inserted = $this->insertRow('net', 'idLoc,tip,port,valUser,valPass,data', '?, ?, ?, ?, ?, ?', array($idLocatie, $tip, $port, $user, $pass, $data));
+        if ($inserted > 0)
+            return TRUE;
+        return FALSE;
+    }
+
+    /**
+     * @param $idLocatie
+     * @return array
+     */
+    public function getAngajati($idLocatie)
+    {
+        $angajati = [];
+        $query = "SELECT p.nume, p.telefon, p.prenume, p.email, p.idpers FROM personal p WHERE p.idlocatie=?";
+        $stmt = $this->datab->prepare($query);
+        $array = array($idLocatie);
+        $stmt->execute($array);
+        while ($obj = $stmt->fetchObject()) {
+            // if (strpos($obj->telefon, 'p') !== FALSE) {
+                $angajati[] = $obj;
+            // }
+        }
+        return $angajati;
+    }
+
+    /**
+     * @param $idLocatie
+     * @return array
+     */
+    public function getInventar($idLocatie)
+    {
+        $inventar = [];
+        $query = "SELECT ie.denumire, i.cantitate, i.stare, i.observatii FROM $this->database.inventar i INNER JOIN $this->database.elementeinventar ie ON ie.idelement = i.idelement WHERE i.idlocatie=?";
+        $stmt = $this->datab->prepare($query);
+        $array = array($idLocatie);
+        $stmt->execute($array);
+        while ($obj = $stmt->fetchObject()) {
+             $inventar[] = $obj;
+        }
+        return $inventar;
+    }
+
+/********************************************************************************************************************
+ *         LOGIN , CKECK LOGIN, USER CREDENTIALS                                                                    *
+ *                                                                                                                  *
+********************************************************************************************************************/
+    /**
+     *  HOMEPAGE -  Verificare user si preluare date
+     *  
+     * @param $username
+     * @param $password
+     * @return bool|object|stdClass
+     */
+    public function verifyUser($username, $password) {
+        if (!$username == '') {
+            $queryUser = "SELECT * FROM personal WHERE personal.user=?";
+            $stmt = $this->datab->prepare($query);
+            $stmt->execute(array($username));
+            $obj = $stmt->fetchObject();
+            if ( $password == $obj->pass OR $password == NULL ) {
+                return $obj;
+            }
+        } else {
+            return FALSE;
+        }
+    }
+    /**
+     * @param $idUser
+     * @param $password
+     * @return bool
+     */
+    public function setNewUserPassword($idUser, $password)
+    {
+        $updated = $this->updateRow('personal', 'pass=?, resetPass=?', 'WHERE idpers=?', array($password, 1, $idUser));
+        if ($updated != 0) {
+            return TRUE;
+        } else {
+            return FALSE;
+        }
+    }
 }
+

@@ -17,13 +17,16 @@ var contori= {
                 $(this).html('<input type="text" value="'+valoare+'" id="input_'+type+'_'+row+'" data-type="'+type+'" style="width:'+val_w+'px"/>');
                 $(this).addClass('input');
                 contori.salvare_valori('input_'+type+'_'+row, idAparat, id_tabel);
-            } else {
-                $('tr.deblocat td.editable').blur(function () {
-                     contori.reset_td(valoare, type, row);
+                $(this).find('input').on({
+                    focusout: function() {
+                        contori.reset_td(valoare, type, row);
+                    }
                 });
+            } else {
+               
             }
-            
         }); 
+
         
     },
     salvare_valori: function(id, idAparat, id_tabel) {
@@ -69,9 +72,81 @@ var contori= {
                 $('.loading').hide();
                 contori.editare_celule(idAparat);
                 contori.show_modal_reset_electronic(idAparat, an, luna);
+
             }
         });
     },
+    /**
+     * [save_reset resetare contori zi curenta]
+     * @param  {[string]}   zi              [ziua curenta d-m-Y]
+     * @param  {[int]}      idAparat        [id aparat]
+     * @param  {[int]}      azi_idxInM      [idxInM zi curenta]
+     * @param  {[int]}      azi_idxOutM     [idxOutM zi curenta]
+     */
+    save_reset: function(zi, idAparat, azi_idxInM, azi_idxOutM) {
+        $("#reset_response").html('');
+        var idxInE = $("#reset_indexIn").val();
+        var idxOutE = $("#reset_indexOut").val();
+        var idlocatie = $("#idlocatie").val();
+        $.ajax({
+            type: "POST",
+            url: 'ajax/contori_resetel.php',
+            data: {
+                'zi': zi,
+                'idxInE': idxInE,
+                'idxOutE': idxOutE,
+                'tip': 'azi',
+                'idxInM': azi_idxInM,
+                'idxOutM': azi_idxOutM,
+                'idAparat': idAparat,
+                'idlocatie': idlocatie
+            },
+            success: function (result) {
+                $("#reset_response").html('<span style="color: '+result.color+'">'+result.mesaj+'</span>');
+                contori.reset_tabel($('#luna').val(), $('#an').val(), idAparat)
+            }
+        });
+    },
+
+    /**
+     * [save_set setare contori zi precedenta]
+     * @param  {[string]} zi    [ziua precedenta d-m-Y]
+     * @param  {[int]}      idAparat        [id aparat]
+     * @param  {[int]}      ieri_idxInM     [idxInM zi precedenta]
+     * @param  {[int]}      ieri_idxOutM    [idxOutM zi precedenta]
+     */
+    save_set: function(zi, idAparat, ieri_idxInM, ieri_idxOutM) {
+        $("#set_response").html('');
+        var idxInE = $("#set_indexIn_ieri").val();
+        var idxOutE = $("#set_indexOut_ieri").val();
+        var idlocatie = $("#idlocatie").val();
+        $.ajax({
+            type: "POST",
+            url: 'ajax/contori_resetel.php',
+            data: {
+                'zi': zi,
+                'idxInE': idxInE,
+                'idxOutE': idxOutE,
+                'tip': 'ieri',
+                'idxInM': ieri_idxInM,
+                'idxOutM': ieri_idxOutM,
+                'idAparat': idAparat,
+                'idlocatie': idlocatie
+            },
+            success: function (result) {
+                $("#reset_response").html('<span style="color: '+result.color+'">'+result.mesaj+'</span>');
+                contori.reset_tabel($('#luna').val(), $('#an').val(), idAparat);
+            }
+        });
+
+    },
+
+    /**
+     * [show_modal_reset_electronic afisare modala si preluare contori din tabel]
+     * @param  {[int]} idAparat
+     * @param  {[int]} an
+     * @param  {[int]} luna
+     */
     show_modal_reset_electronic: function(idAparat, an, luna) {
         $(document).on('click', '#reset', function () {
             $('#modal_contori_reset').modal();
@@ -80,19 +155,35 @@ var contori= {
             } else {
                 $('#modal_contori_reset .modal-dialog').css({width: '100%'});
             }
-            var today = new Date();
-            var dd = today.getDate();
-            console.log(dd);
-            $.ajax({
-                type: "POST",
-                url: 'ajax/contori_resetel.php',
-                data: {
-                    'test': 'test'
-                },
-                success: function (result) {
-                    
-                }
-            });
+            /*-----------------------------------------------------------------------------------
+            |       Completare campuri din modala cu valorile din tabel                         |
+            -----------------------------------------------------------------------------------*/
+                var azi_idxInE = $('table tr.current').find("td[id*='idxInE']").attr('data-val');
+                var azi_idxOutE = $('table tr.current').find("td[id*='idxOutE']").attr('data-val');
+                    var azi_idxInM = $('table tr.current').find("td[id*='idxInM']").attr('data-val');
+                    var azi_idxOutM = $('table tr.current').find("td[id*='idxOutM']").attr('data-val');
+                $('#reset_indexIn').val(azi_idxInE);
+                $('#reset_indexOut').val(azi_idxOutE);
+                var ieri_idxInE = $('table tr.yesterday').find("td[id*='idxInE']").attr('data-val');
+                var ieri_idxOutE = $('table tr.yesterday').find("td[id*='idxOutE']").attr('data-val');
+                    var ieri_idxInM = $('table tr.yesterday').find("td[id*='idxInM']").attr('data-val');
+                    var ieri_idxOutM = $('table tr.yesterday').find("td[id*='idxOutM']").attr('data-val');
+                $('#set_indexIn_ieri').val(ieri_idxInE);
+                $('#set_indexOut_ieri').val(ieri_idxOutE);
+
+            /*-----------------------------------------------------------------------------------
+            |       RESETARE / MODIFICARE indecsi electronici - salvare date din modala         |
+            -----------------------------------------------------------------------------------*/
+                var idAparat = $("#idAparat").val();
+                $(document).on('click', '#save_reset', function () {
+                    var zi = $("#reset_zi").val();
+                    contori.save_reset(zi, idAparat, azi_idxInM, azi_idxOutM);
+                });
+                $(document).on('click', '#save_set', function () {
+                    var zi = $("#set_ieri").val();
+                    contori.save_set(zi, idAparat, ieri_idxInM, ieri_idxOutM);
+                });
+            /*---------------------------------------------------------------------------------*/
         });
     }
 }
