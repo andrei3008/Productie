@@ -110,7 +110,6 @@ class dbFull extends mysqli
     public function updateUserPc($secret, $idpers)
     {
         $query = "UPDATE $this->database.personal SET codpc='$secret' WHERE idpers=$idpers";
-        echo $query;
         $this->query($query);
         if ($this->affected_rows > 1) {
             return TRUE;
@@ -1645,7 +1644,6 @@ class dbFull extends mysqli
             . "st.verSoft FROM $this->database.errorpk er "
             . "inner join $this->database.aparate ap on er.idaparat=ap.idaparat "
             . "INNER join $this->database.stareaparate st ON st.idAparat=ap.idAparat";
-        echo $query;
         if ($idAparat != null) {
             $query .= " WHERE  er.idAparat=$idAparat ";
         }
@@ -2331,7 +2329,6 @@ class dbFull extends mysqli
         $transferuri = [];
         $query = "SELECT * FROM transferaparate, locatii WHERE (transferaparate.dtBaza BETWEEN '".$data_start."' AND '".$data_end."') AND locatii.idlocatie = transferaparate.idLocInainte AND locatii.idOperator = {$idOperator} ORDER BY transferaparate.idtransfer DESC";
         $result = $this->query($query);
-		echo $query;
         if($this->affected_rows > 0) {
             while($row = $result->fetch_assoc()){
                 $transferuri[] = $row;

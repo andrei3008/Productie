@@ -92,7 +92,7 @@ class PageClass
     public function niceIndex($index){
         $raspuns = '';
         for($i=0;$i<strlen($index);$i++){
-            $raspuns.= "<span class=''>".$index[$i]."</span> &nbsp;";
+            $raspuns.= "<div class='nice_indexi'><span class=''>".$index[$i]."</span></div> &nbsp;";
         }
         return $raspuns;
     }
@@ -201,9 +201,9 @@ class PageClass
 
     public function getIndexReset($index) {
         if (strlen($index) <= 6) {
-            return '<span class="reset">&nbsp;</span>';
+            return '<div class="nice_reset"><span class="reset">&nbsp;&nbsp;</span></div>';
         } else {
-            return '<span class="reset">' . substr($index, 0, 1) . '</span>';
+            return '<div class="nice_reset"><span class="reset">' . substr($index, 0, 1) . '</span></div>';
         }
     }
 
@@ -505,5 +505,22 @@ class PageClass
             $biti[$i] = 0;
         }
         return $biti;
+    }
+
+    public function bitiComandaTo32bitiArray($biticomanda_zecimal) {
+        $bin = decbin(intval($biticomanda_zecimal));
+        $extra_bin = 32 - strlen($bin); 
+        $extra_added = '';
+        for ($i=0; $i < $extra_bin; $i++) { 
+            $extra_added .= '0';                                
+        } 
+        $bin = $extra_added.$bin;
+        $rr = str_split($bin);
+        return $rr;
+    }
+    public function bitiComandaTo32bitiArray_checkbit($biticomanda_zecimal, $bit) {
+        // echo $biticomanda_zecimal;
+        $rr = $this->bitiComandaTo32bitiArray($biticomanda_zecimal);
+        return $rr[$bit];
     }
 }

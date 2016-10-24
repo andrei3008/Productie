@@ -1005,3 +1005,11 @@ if it's not present, don't show loader */
     margin-top: -5px;
     margin-right: 10px;
 }
+.nice_indexi {
+    display: inline;
+    margin-right: -2px;
+}
+.nice_reset {
+    float: left;
+    margin-right: 5px;
+}

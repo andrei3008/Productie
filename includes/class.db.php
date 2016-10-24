@@ -114,6 +114,7 @@
                 $array_logs = array($user, $tip_query.'-'.$tabel_query, $query_to_insert, date('Y-m-d H:i:s'));
                 // print_r($array_los);
                 $last_log_id = $this->insertRow('logs', 'user, eveniment, statement, data', '?, ?, ?, ?', $array_logs);
+                // echo $query_to_insert;
        
             return $last_log_id;         
         }
