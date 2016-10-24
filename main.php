@@ -870,6 +870,7 @@ if ($session->getGrad() != 0) {
                                                 // }
                                                 
                                                 ?>
+                                                test
                                             </td>
                                             <?php $valori = $db->getCashInCashOut($objInfoAparate->idAparat, $an, $luna, date('d')); ?>
                                             <td style="border-left-width: 0px;border-right-width: 1px;padding-right: 0px;padding-left: 2px;font-size: 16px;height: 31px; width: 150px;"><?php echo $page->getIndexReset($objInfoAparate->lastidxInM); ?> <?php echo $page->niceIndex($page->verifyIndexLength($objInfoAparate->lastidxInM)); ?>  

@@ -698,6 +698,7 @@ class dbFull extends mysqli
         stareaparate.verSoft,
 		stareaparate.bitiStare,
         stareaparate.dtLastM,
+        stareaparate.areSas,
         stareaparate.dtLastE,
         stareaparate.ipPic,
         stareaparate.ipPic3g,
