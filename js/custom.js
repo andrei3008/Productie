@@ -1,4 +1,4 @@
-const DOMAIN = "http://localhost/Productie";
+const DOMAIN = "http://red77.ro";
 
 function doNothing(event) {
     event.preventDefault();

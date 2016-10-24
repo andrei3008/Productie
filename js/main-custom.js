@@ -128,8 +128,6 @@ var main = {
                     main.stop_loading('#locatieTarget');
 
                     $("#locatieTarget").html(result);
-                    console.log('dadadada');
-                    
                 }
             });
         },
@@ -157,6 +155,59 @@ var main = {
         },
     /****************************************************************************** 
     *   END set_aparat_pozitie
+    ******************************************************************************/
+    /******************************************************************************
+     * [set_cititor_bit13 ON-OFF => 1-0 bit 13]
+     * @param  {[string]}   seria       [serie APARAT]
+     * @param  {[int]}      id          [id APARAT]
+     * @param  {[int]}      valoare     [valoare noua bit13]
+    ******************************************************************************/
+        set_cititor_bit13:function (seria, id, valoare) {
+            $.ajax({
+                type: "POST",
+                url: 'ajax/aparate.php',
+                data: {
+                    'seria': seria,
+                    'idAparat': id,
+                    'valoare': valoare,
+                    'type': 'set_cititor_bit13'
+                },
+                success: function (result) {
+                    // alert(result.mesaj);
+                    $("#bit13_"+id).attr('data-valoare', result.out);
+                    $("#bit13_"+id).html(result.mesaj);
+                    $("#bit13_"+id).removeClass('btn-primary btn-danger btn-success');
+                    $("#bit13_"+id).addClass(result.err);
+                }
+            });
+        },
+    /****************************************************************************** 
+    *   END set_cititor_bit13
+    ******************************************************************************/
+    /******************************************************************************
+     * [get_record_bit12 => bit12 = 1]
+     * @param  {[string]}   seria       [serie APARAT]
+     * @param  {[int]}      id          [id APARAT]
+     * @param  {[int]}      valoare     [valoare noua bit13]
+    ******************************************************************************/
+        get_record_bit12:function (seria, id, valoare) {
+            $.ajax({
+                type: "POST",
+                url: 'ajax/aparate.php',
+                data: {
+                    'seria': seria,
+                    'idAparat': id,
+                    'valoare': valoare,
+                    'type': 'get_record_bit12'
+                },
+                success: function (result) {
+                    // alert(result.mesaj);
+                    alert(result.mesaj);
+                }
+            });
+        },
+    /****************************************************************************** 
+    *   END get_record_bit12
     ******************************************************************************/
         start_loading: function(dom) {
             $(dom).append('<div class="loading"><img src="css/AjaxLoader.gif" /></div>');
@@ -200,6 +251,28 @@ $(document).ready(function() {
         $(document).on('change', '.aparat-pozitie', function (event) {
             event.preventDefault();
             main.set_aparat_pozitie($(this).attr('data-idAparat'), $(this).val());
+        })
+    /**----------------------------------------------------------
+     *   CITITOR BANI ON/OFF
+     *   inlocuire bit13 cu noua valoare
+    -----------------------------------------------------------*/
+        $(document).on('click', '.cititor_bit13', function (event) {
+            event.preventDefault();
+            var seria = $(this).attr('data-seria');
+            var id = $(this).attr('data-id');
+            var valoare = $(this).attr('data-valoare');
+            main.set_cititor_bit13(seria, id, valoare);
+        })
+    /**----------------------------------------------------------
+     *   DESCARCA RECORD
+     *   inlocuire bit12 cu 1
+    -----------------------------------------------------------*/
+        $(document).on('click', '.record_bit12', function (event) {
+            event.preventDefault();
+            var seria = $(this).attr('data-seria');
+            var id = $(this).attr('data-id');
+            var valoare = $(this).attr('data-valoare');
+            main.get_record_bit12(seria, id, valoare);
         })
     /**----------------------------------------------------------
      *   refresh locatie

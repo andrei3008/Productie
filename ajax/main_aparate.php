@@ -96,9 +96,9 @@
                     <th class='centered'>Err</th>
                     <th class="centered">Total In</th>
                     <th class="centered">Total Out</th>
-                    <th style="width: 200px;"></th>
+                    <th style="width: 80px;"></th>
                     <th class="centered">Data</th>
-                    <th class="centered">Wan/3G</th>
+                    <th class="centered" style="width: 40px;">W/3G</th>
                     <th class="centered">Inactivitate</th>
                 </tr>
                 </thead>
@@ -145,7 +145,7 @@
                                 ?>
                             </td>
                             <td rowspan="2" style="width: 80px;font-size: 16px;"><?php echo $objInfoAparate->seria; ?></td>
-                            <td rowspan="2" style="font-size: 16px;"><?php echo $page->maxText($objInfoAparate->tip, 2); ?></td>
+                            <td rowspan="2" style="font-size: 16px; width: 10px"><?php echo $page->maxText($objInfoAparate->tip, 2); ?></td>
                             <td rowspan="2" style="font-size: 16px;"><?php echo $objInfoAparate->verSoft ?></td>
                             <td rowspan="2" style="width: 24px; text-align:center; vertical-align:middle;">
                                 <img  src='css/images/triangle_<?php echo ($databFull->getNrEroriAparat($objInfoAparate->idAparat) == 0) ? 'blue' : 'red'; ?>.png'
@@ -168,20 +168,20 @@
                                 ?>
                             </td>
                            
-                            <td class="contori" style="border-left-width: 0px;border-right-width: 1px; height: 40px">
+                            <td class="contori" style="border-left-width: 0px;border-right-width: 1px; height: 40px;font-size: 16px">
                                 <?php 
                                     echo $page->getIndexReset($objInfoAparate->lastidxInM); 
                                     echo $page->niceIndex($page->verifyIndexLength($objInfoAparate->lastidxInM)); 
                                 ?>  
                             </td>
-                            <td class="contori"  style="border-left-width: 1px;border-right-width: 0px; height: 40px" >
+                            <td class="contori"  style="border-left-width: 1px;border-right-width: 0px; height: 40px;font-size: 16px" >
                                 <?php 
                                     echo $page->getIndexReset($objInfoAparate->lastidxOutM);    
                                     echo $page->niceIndex($page->verifyIndexLength($objInfoAparate->lastidxOutM)); 
                                 ?>  
                             </td>
 
-                            <td class="grey" style="width: 6%;font-size: 13px">
+                            <td class="grey" style="width: 6%;font-size: 16px">
                                 <?php 
                                     $valori = $databFull->getCashInCashOut($objInfoAparate->idAparat, $an, $luna, date('d'), 'contormecanic');
                                     echo $valori['cashIn']; ?> / <?php echo $valori['cashOut']; 
@@ -193,7 +193,7 @@
                                     $diferentaZile = $interval->format('%a');
                                 ?>
                              </td>
-                            <td>
+                            <td style="width: 40px">
                                 <?php $pachete = $databFull->getPacheteAparat($objInfoAparate->idAparat, $an, $luna, date('d'));?>
                                 <?php echo isset($pachete->nrPacWan) ? $pachete->nrPacWan : 0; ?> / 
                                 <?php echo isset($pachete->nrPac3g) ? $pachete->nrPac3g : 0; ?>
@@ -208,26 +208,26 @@
                         <?php $pachetePrecedente = $databFull->getPacheteAparat($objInfoAparate->idAparat, $an, $luna, date('d') - 1) ?>
                         <tr class="<?php echo ($objInfoAparate->dtBlocare != '1000-01-01') ? 'blocat' : ''; ?>">
                             
-                            <td class="contori"  style="border-left-width: 0px;border-right-width: 1px; height: 40px">
+                            <td class="contori"  style="border-left-width: 0px;border-right-width: 1px; height: 40px;font-size: 16px">
                                 <?php 
                                     echo $page->getIndexReset($objInfoAparate->lastIdxInE);  
                                     echo $page->niceIndex($page->verifyIndexLength($objInfoAparate->lastIdxInE)); 
                                 ?>
                             </td>
-                            <td  class="contori" style="border-left-width: 1px;border-right-width: 0px; height: 50px">
+                            <td  class="contori" style="border-left-width: 1px;border-right-width: 0px; height: 50px;font-size: 16px">
                                 <?php 
                                     echo $page->getIndexReset($objInfoAparate->lastIdxOutE);
                                     echo $page->niceIndex($page->verifyIndexLength($objInfoAparate->lastIdxOutE)); 
                                 ?>
                             </td>
-                            <td class="grey" style="font-size: 14px;">
+                            <td class="grey" style="font-size: 16px;">
                                 <?php 
                                     $valori = $databFull->getCashInCashOut($objInfoAparate->idAparat, $an, $luna, date('d'), 'contorelectronic'); 
                                     echo ($valori['cashIn'])/100; ?> / <?php echo ($valori['cashOut'])/100; 
                                 ?>
                             </td>
-                            <td style="width: 16%;font-size: 13px;">MAC: <?php echo $objInfoAparate->macPic; ?></td>
-                            <td></td>
+                            <td style="width: 16%;font-size: 16px;">MAC: <?php echo $objInfoAparate->macPic; ?></td>
+                            <td style="width: 40px"></td>
                             <td style="font-size: 14px;">
                                 <img src="css/images/<?php echo ($diferentaOre >= 1 or $diferentaZile >= 1) ? 'red_light.png' : 'green_light.png' ?>"
                                      style="width: 20px; height : 20px; float:right"/>
@@ -255,6 +255,19 @@
                                 <a href="interfataPic/game.php?seria=<?php echo $objInfoAparate->seria; ?>&an=<?php echo $an ?>&luna=<?php echo $luna ?>"  class="btn btn-success configurare" target="_blank">Configurare</a>
                                 <a class='btn btn-sm btn-primary istoricAparate' data-id="<?php echo $objInfoAparate->idAparat; ?>"  data-seria="<?php echo $objInfoAparate->seria; ?>"> H
                                 </a>
+                                <?php
+                                    $bitiComanda = $objInfoAparate->bitiComanda;
+                                    $val_bit_13 = $page->bitiComandaTo32bitiArray_checkbit($bitiComanda, 18);
+                                    $buton_bit_13 = ($val_bit_13 == 1) ? 'ON cititor' : 'OFF cititor';
+                                    $val_noua_bit_13 = ($val_bit_13 == 1) ? 0 : 1;
+                                    $class_button_bit_13 = ($val_bit_13 == 1) ? 'btn-success' : 'btn-danger';
+                                    $class_button_bit_12 = 'btn-primary';
+                                ?>
+                                <a class='btn btn-sm <?php echo $class_button_bit_13;?> cititor_bit13' id="bit13_<?php echo $objInfoAparate->idAparat; ?>" data-id="<?php echo $objInfoAparate->idAparat; ?>"  data-seria="<?php echo $objInfoAparate->seria; ?>" data-valoare="<?php echo $val_noua_bit_13;?>"><?php echo $buton_bit_13;?>
+                                </a> 
+                                <a class='btn btn-sm <?php echo $class_button_bit_12;?> record_bit12' id="bit12_<?php echo $objInfoAparate->idAparat; ?>" data-id="<?php echo $objInfoAparate->idAparat; ?>"  data-seria="<?php echo $objInfoAparate->seria; ?>">
+                                    Descarca record
+                                </a> 
                                <div class="loading"><img src="css/AjaxLoader.gif" /></div>
                             </td>
                         </tr>
@@ -539,5 +552,7 @@
         font-size: 16px;
         height: 40px; 
         width: 150px;
+        line-height: 0px;
+        letter-spacing: -1;
     }
 </style>

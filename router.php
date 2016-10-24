@@ -91,4 +91,7 @@ if(isset($post['zona']))
     echo $post['zona'];
     $session->setZona($post['zona']);
 }
-print_r($_SESSION);
+
+$_SESSION['locatii_tip'] = (isset($_POST['locatii_tip'])) ? $_POST['locatii_tip'] : 'T';
+
+// print_r($_SESSION);

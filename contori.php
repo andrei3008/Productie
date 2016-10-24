@@ -12,6 +12,8 @@
     $luna = $get['luna'];
     $an = $get['an'];
     $idAparat = $get['idAparat'];
+    $aparat = $databFull->getAparatInfo($idAparat);
+    $idlocatie = $aparat->idlocatie;
 ?>
     <!DOCTYPE>
     <html>
@@ -49,9 +51,12 @@
                                     <div class="form-group">
                                         <label for="save_reset">&nbsp; &nbsp;</label>
                                         <input type="hidden" name="reset_zi" id="reset_zi" value="<?php echo $azi; ?>"/>
+                                        <input type="hidden" name="idAparat" id="idAparat" value="<?php echo $idAparat; ?>"/>
+                                        <input type="hidden" name="idlocatie" id="idlocatie" value="<?php echo $idlocatie; ?>"/>
                                         <button type="button" class="btn btn-default" id="save_reset">Salveaza</button>
                                     </div>
                                 </form>
+                                <div id="reset_response"></div>
                             </div>
                         </div>
                         <div class="modal-header">
@@ -78,6 +83,7 @@
                                         <button type="button" class="btn btn-default" id="save_set">Salveaza</button>
                                     </div>
                                 </form>
+                                <div id="set_response"></div>
                             </div>
 						</div>
 						<div class="modal-footer">
@@ -112,8 +118,11 @@
                         var idAparat = <?php echo $get['idAparat']; ?>;
                         window.location.href = '?idAparat=' + idAparat + '&luna=' + luna + '&an=' + an;
                     });
-                    $(document).on('click', '#btn-reload', function () {
-                        contori.reset_tabel(<?php echo $luna;?>, <?php echo $an;?>, <?php echo $idAparat;?>);
+                    $("#btn-reload").on('click', function () {
+                        var an = $('#an').val();
+                        var luna = $('#luna').val();
+                        var idAparat = <?php echo $get['idAparat']; ?>;
+                        contori.reset_tabel(luna, an, idAparat)
                     });
                     
                     

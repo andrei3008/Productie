@@ -686,7 +686,8 @@ class databFull extends datab {
                     stareaparate.dtLastE,
                     stareaparate.ipPic,
                     stareaparate.ipPic3g,
-                    stareaparate.macPic
+                    stareaparate.macPic,
+                    stareaparate.bitiComanda
                 FROM aparate as c1
                     INNER JOIN stareaparate ON stareaparate.idAparat = c1.idAparat
                     INNER JOIN locatii ON locatii.idlocatie = c1.idLocatie 
